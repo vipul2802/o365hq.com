@@ -1,0 +1,5 @@
+{
+    "scripts": {
+    "yaspeller": "./node_modules/.bin/yaspeller ."
+    }
+}
