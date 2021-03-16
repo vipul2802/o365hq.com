@@ -72,7 +72,7 @@ When you're ready, authorization can be granted
 [HERE](https://admin.microsoft.com/Adminportal/Home?invType=IndirectResellerRelationship&partnerId=4ed6ea8d-6f86-411d-b7e0-37401bdb9b68&msppId=4100178&indirectCSPId=d5c77776-8b4c-4ceb-81da-566aba9c59c5&DAP=true).
 
 Complete the process by filling out our [New Customer
-form](https://office365.typeform.com/to/x5pDX2). If you need help
+form](https://forms.office.com/Pages/ResponsePage.aspx?id=jerWToZvHUG34DdAG9ubaGbNn0XlEsdGmwZuhYBTb1tUQkMwMzdVSDdZOUgzQUgzWTVPQUVMMzFZNi4u). If you need help
 finding your default tenant name check out [this
 article](https://o365hq.com/faq/how-to-find-our-your-office-365-default-domain-name).
 
