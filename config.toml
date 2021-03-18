@@ -20,3 +20,9 @@ skip_prefixes = [
     "https://o365hq.com/",
     "https://admin.microsoft.com/"
 ]
+
+[search]
+include_title = true
+include_description = true
+include_content = true
+truncate_content_length = 250
