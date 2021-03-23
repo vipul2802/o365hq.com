@@ -86,10 +86,10 @@ Admin permissions before clicking on this link.
 
 Yes, these licenses are free, but we must have information about your
 organization to place the order with Microsoft. So, please complete this
-[New Customer Application](https://office365.typeform.com/to/x5pDX2)
+[New Customer Application](https://forms.office.com/Pages/ResponsePage.aspx?id=jerWToZvHUG34DdAG9ubaGbNn0XlEsdGmwZuhYBTb1tUQkMwMzdVSDdZOUgzQUgzWTVPQUVMMzFZNi4u)
 form:
 
-[![](https://o365hq.com/images/787.png)](https://office365.typeform.com/to/x5pDX2)
+[![](https://o365hq.com/img/msforms.png)](https://forms.office.com/Pages/ResponsePage.aspx?id=jerWToZvHUG34DdAG9ubaGbNn0XlEsdGmwZuhYBTb1tUQkMwMzdVSDdZOUgzQUgzWTVPQUVMMzFZNi4u)
 
 Please skip the question about your default domain name if you have
 forwarded a Microsoft Nonprofit Eligibility Certificate email to us.
