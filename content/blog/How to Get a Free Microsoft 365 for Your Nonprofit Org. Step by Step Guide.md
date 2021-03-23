@@ -84,7 +84,7 @@ Admin permissions before clicking on this link.
 
 ### Step 4
 
-Yes, these licenses are free, but we must have information about your
+Even if your chosen licenses are free, we must have information about your
 organization to place the order with Microsoft. So, please complete this
 [New Customer Application](https://forms.office.com/Pages/ResponsePage.aspx?id=jerWToZvHUG34DdAG9ubaGbNn0XlEsdGmwZuhYBTb1tUQkMwMzdVSDdZOUgzQUgzWTVPQUVMMzFZNi4u)
 form:
