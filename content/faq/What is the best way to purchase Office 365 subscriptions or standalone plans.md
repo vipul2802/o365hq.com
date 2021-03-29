@@ -47,7 +47,7 @@ CSP from Direct or any other licensing channel?]{.underline}
 To move forward with CSP, **you need to do the following**:
 
 1.  Complete our short [New Customer Application
-    form](https://office365.typeform.com/to/x5pDX2)
+    form](https://forms.office.com/Pages/ResponsePage.aspx?id=jerWToZvHUG34DdAG9ubaGbNn0XlEsdGmwZuhYBTb1tUQkMwMzdVSDdZOUgzQUgzWTVPQUVMMzFZNi4u)
 2.  Authorize Tech Data (an official Microsoft distributor) to provision
     licenses to your tenant by clicking [this
     URL](https://portal.office.com/partner/partnersignup.aspx?type=ResellerRelationship&id=d5c77776-8b4c-4ceb-81da-566aba9c59c5&msppid=676268&csp=1)
