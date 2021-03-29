@@ -365,7 +365,9 @@
     "DirSync",
     "IDaaS",
     "ExpressRoute",
-    "APNs"
+    "APNs",
+    "rescale",
+    "autoscaling"
   ],
 
   "ignoreUrls": true,
