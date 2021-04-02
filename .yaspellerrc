@@ -297,7 +297,7 @@
     "CVEs",
     "PowerBI",
     "Giphys",
-    "Cyberthreat",
+    "(C|c)yberthreat(s|)",
     "Microsoft365",
     "Forbes",
     "Redmond",
@@ -367,7 +367,11 @@
     "ExpressRoute",
     "APNs",
     "rescale",
-    "autoscaling"
+    "autoscaling",
+    "metamorphic",
+    "fileless", 
+    "prioritization",
+    "SOCs"
   ],
 
   "ignoreUrls": true,
