@@ -2,6 +2,7 @@
 title = "Windows 7 ESU Extended Security Updates 2020 and 2021: An Ultimate Step-by-Step Guide on Purchasing and Activation"
 description = "Finally, we have the Windows 7 ESU Extended Security Updates 2021 licenses available for customers in the USA! You must own the Windows 7 ESU for the previous year (2020) in order to purchase the ESU for this year (2021)."
 date = "2021-01-05"
+path = "blog/an-ultimate-step-by-step-guide-on-how-to-purchase-and-activate-a-windows-7-extended-security-updates-for-your-computers"
 
 [taxonomies]
 tags = ["extended security updates"]
