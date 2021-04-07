@@ -2,7 +2,7 @@
 title = "Windows 7 Extended Security Updates 2020: An ultimate, step-by-step guide on purchasing and activation"
 description = "As you may have heard, Windows 7 is at the end of its life cycle. This makes users more susceptible to malware attacks and turns Window 7 into a minefield of security threats. The Extended Security Update program is an alternative for consumers to manage certain legacy Microsoft products after the support is ended. And this is an ultimate step-by-step guide on how to purchase and activate  Windows 7 Extended Security Updates for your computers."
 date = 2020-01-10
-path = "blog/an-ultimate-step-by-step-guide-on-how-to-purchase-and-activate-a-windows-7-extended-security-updates-for-your-computers"
+draft = true
 
 [taxonomies]
 tags = ["howto", "windows 10 update"]
