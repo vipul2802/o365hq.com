@@ -1,6 +1,6 @@
 +++
 title = "How to share your desktop, a specific app or presentation in Microsoft Teams"
-description = "We have prepared instructions for sharing your content in meetengs in Microsoft Teams."
+description = "We have prepared instructions for sharing your content in meetings in Microsoft Teams."
 date = 2021-04-19
 
 [taxonomies]
