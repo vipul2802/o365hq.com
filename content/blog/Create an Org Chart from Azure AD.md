@@ -7,7 +7,7 @@ date = 2021-04-27
 tags = ["azure ad"]
 +++
 
-Some enterprises use organizational charts to provide reference points for managerial authority. Such hierarchical diagrams are also called Org Charts or organograms that display people and positions and include contact information, icons and illustrations. Org charts can help new employees learn more about a company quickly by assisting them in putting names and faces to roles and responsibilities.
+Some enterprises use organizational charts to provide reference points for managerial authority. Such hierarchical diagrams are also called Org Charts or organigrams that display people and positions and include contact information, icons and illustrations. Org charts can help new employees learn more about a company quickly by assisting them in putting names and faces to roles and responsibilities.
 
 With Org charts you can easily:
 
@@ -32,7 +32,7 @@ Org charts are a perfect fit for Office 365, a prime source for extracting the d
 
 ### Microsoft Teams 
 
-...also displays the Org structure. The “WhoBot” bot installed from the store, helps users look for people in a company by name or by topic within the Team chat experience. Learn how to Use the [Organizational Tab in Teams](https://support.microsoft.com/en-us/office/use-the-organization-tab-in-teams-ff02568b-290a-46d6-ae7a-cda22f723894).
+...also displays the Org structure. The “Who Bot” bot installed from the store, helps users look for people in a company by name or by topic within the Team chat experience. Learn how to Use the [Organizational Tab in Teams](https://support.microsoft.com/en-us/office/use-the-organization-tab-in-teams-ff02568b-290a-46d6-ae7a-cda22f723894).
 
 ![Org Chart](/img/org3.png)
 
