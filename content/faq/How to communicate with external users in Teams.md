@@ -23,4 +23,6 @@ And now you can click on the contact and communicate:
 
 ![How to communicate with external users in Teams](/img/teamsexternal4.png)
 
-Thus, you are using Teams to collaborate and chat with external contact. Fast and easy.
+Thus, you are using Teams to collaborate and chat with external contact. Fast and easy. Also, you can start a conversation from Outlook directly. Hover your mouse to the contact, wait for the context window and click to the message icon.
+
+![How to communicate with external users in Teams](/img/teamsexternal5.png)
