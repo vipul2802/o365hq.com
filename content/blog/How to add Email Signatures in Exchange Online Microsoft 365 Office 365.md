@@ -13,13 +13,13 @@ Managing email signatures for your entire company can be challenging but with Mi
 
 There are a few ways to set up a signature in Microsoft 365:
 
-## Manually create and add a signature to your messages
+### Manually create and add a signature to your messages
 
 In Outlook, you can create one or more personalized signatures for your email messages. Your signature can include text, images, your electronic business card, a logo, or even an image of your handwritten signature. It is possible to set up Outlook so that signatures are automatically added to all outgoing messages or create your signature and add it to messages on a case-by-case basis. You can provide your users with a prototype signature file on a periodic basis and ask them to update via Outlook/OWA. This is the easiest and quickest option as users can modify their signatures themselves. However, users are very often prone to forget to apply the update. 
 
 If you have a Microsoft 365 account, and you use Outlook and Outlook on the web or Outlook on the web for business, you need to create a signature in both products.
 
-### To create a signature using Outlook, follow the steps below:
+#### To create a signature using Outlook, follow the steps below:
 
 1. Open a _New email_ message and on the _Message_ menu, select _Signature > Signatures_.
 
@@ -38,7 +38,7 @@ If you want your signature to appear in the messages you reply to and forward, i
 
 ![How to add Email Signatures in Exchange Online, Microsoft 365, Office 365](/img/sig2.png)
 
-### To create an email signature for Outlook on the web:
+#### To create an email signature for Outlook on the web:
 
 1. Sign in to Outlook on the web.
 
@@ -52,7 +52,7 @@ If you want your signature to appear in the messages you reply to and forward, i
 
 ![How to add Email Signatures in Exchange Online, Microsoft 365, Office 365](/img/sig3.png)
 
-## Create your company-wide Office 365 email signature using Exchange Transport Rules.
+### Create your company-wide Office 365 email signature using Exchange Transport Rules.
 
 You can manage email signatures by adding an email signature, legal disclaimer, or disclosure statement to the email messages that enter or leave your organization. It is possible to set it up to apply to all incoming and outgoing messages or you can apply it to certain messages like those containing specific words or text patterns. The advantage of this approach is a guaranteed consistency in signatures. You will be guaranteed that signatures are stamped on all outgoing messages and if your Active Directory is correctly populated with the attributes you want to include (like phone number), the outbound signature will be complete. 
 
@@ -86,12 +86,12 @@ To create a signature that applies to all messages:
 
 Unfortunately, there are some limitations of organization wide signatures. Common weaknesses are that:
 
-* Users may add their own signature to the mix, images cannot be embedded in the email signature (recipients get them as attachments).
+* Users may add their own signature to the mix, images cannot be embedded in the email signature (recipients get them as attachments.
 * Email signatures cannot be managed by non-admin Microsoft 365 users.
 * Users cannot see the signature in their email client before sending an email or choose one of the available designs.
 * You can`t skip lines which contain variables that couldn't be updated (e.g. because the value wasn't provided for a user).
 * ETRs cannot process signed or encrypted messages.
 
-## Use a commercial product.
+### Use a commercial product.
 
 To gain these and other capabilities to manage email signatures, you can use a third-party tool. This way you pay for out-of-the-box solutions and get the advantages of years of experience and tons of experience gained from other customer engagements. If signature consistency is important to you, you should consider this option as the right way to get the best possible results.
