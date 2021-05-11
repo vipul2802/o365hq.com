@@ -74,7 +74,7 @@ To create a signature that applies to all messages:
 
 6.	Under _Apply this rule_, select _[Apply to all messages]_. It is also possible to select the conditions that will trigger the rule. Find the list of available conditions here.
 
-7.	Under Do the following, leave _Append the disclaimer_ selected, select _Enter text_ and type your disclaimer. [Learn more](https://docs.microsoft.com/en-us/Exchange/policy-and-compliance/mail-flow-rules/signatures#FormatDisclaimer) about formatting disclaimers. 
+7.	Under Do the following, leave _Append the disclaimer_ selected, select _Enter text_ and type your disclaimer. [Learn more](https://docs.microsoft.com/en-us/Exchange/policy-and-compliance/mail-flow-rules/signatures) about formatting disclaimers. 
 
 8.	Next, select _Select one_ and choose _Wrap_ (forward the original message as attachment and stamp the forward) as a fallback option. Then _OK_. This means that if the disclaimer can't be added because of encryption or another mail setting, it will be wrapped in a message envelope.
 
