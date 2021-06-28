@@ -372,7 +372,9 @@
     "fileless", 
     "prioritization",
     "SOCs",
-    "ETRs"
+    "ETRs",
+    "unassigned",
+    "USLs" 
   ],
 
   "ignoreUrls": true,
