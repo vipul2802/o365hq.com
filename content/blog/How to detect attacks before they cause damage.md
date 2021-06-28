@@ -13,8 +13,8 @@ and response. IT organizations should focus on an approach that looks at
 how to protect, detect, and respond to threats.
 
 To address the requirements of this scenario, EM+S uses "Advanced
-Threats Analytics", [Cloud App
-Security](https://buymssoft.com/services/office-365-addons/mobility-and-security/CSP-ELIT-5b5c193d1138)
+Threats Analytics", Cloud App
+Security
 and [Azure Active Directory
 Premium](https://buymssoft.com/license/GN9-00002) . By implementing
 these technologies, organizations will be able to:
