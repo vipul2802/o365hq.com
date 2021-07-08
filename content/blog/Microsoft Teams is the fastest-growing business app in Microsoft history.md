@@ -31,8 +31,6 @@ it matters **with always-on security**.
 -   Easily set up policies to protect company data across devices with
     Microsoft 365 Business.
 
-Watch a demo here: <http://bit.ly/2NK7fJF>
-
 Microsoft 365 is not a single product. It's a suite of products sold
 together. The advantage for a small business buying Microsoft 365 over
 Office 365 is that they get the security that all small businesses need.
