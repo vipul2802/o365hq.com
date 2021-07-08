@@ -10,7 +10,7 @@ types = ["Implementation"]
 [extra]
 sku = "ITPWW040DEVOT"
 price = "$175 per hour"
-duration = "7"
+duration = "7 days"
 manager = "Roman Sotnik"
 +++
 
