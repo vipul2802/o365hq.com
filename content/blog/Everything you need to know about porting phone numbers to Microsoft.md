@@ -31,7 +31,7 @@ We strongly recommend you use Microsoft Teams admin center to submit your port r
 3.	Phone number details
 4.	Person requesting details.
 5.	Current provider's details
-6.	Billing telephone number (BTN): Your BTN in E.164 format, which requires a + sign to prepend the number. For example, for a North America number, use +1XXXYYYZZZZ format.
+6.	Billing telephone number (BTN): Your BTN in E.164 format, which requires a + sign to pretend the number. For example, for a North America number, use +1XXXYYYZZZZ format.
 
 To check the status of your port order, in the left navigation of the Microsoft Teams admin center, go to Voice > Phone numbers, and then click Order history. Each port order status is listed in the Status column.
 
@@ -51,7 +51,7 @@ Port-In Special Notes:
 * If you are porting Service and User numbers from the same carrier, please select all as Users, this will speed up the process. Once you have a FOC date (Firm Order Commitment date provided by the losing carrier when it is ready to release the numbers), contact Microsoft to program the number conversion from User to Service.
 * The Desired Due Date may vary from the FOC because of different causes and internal policies that carriers have. Both dates may not be the same, please take this into consideration. 
 * If after submitting your order it goes into “Manual” status, this means that something in the request cannot be processed based on the information provided. Please contact your current carrier to review the service information they have registered on your account. You can also go ahead and place another new order with the updated information. (800 numbers and Canadian numbers will always go into manual status and this is ok). 
-* If you receive a message that there was an error in your order or that it failed and you need to open a ticket, please reach out to your carrier to review the service information they have from your account to be ready to resubmit. If you can get a CSR or Invoice from them with your numbers’/account service information, it will save you time since we do not have access to their records.
+* If you receive a message that there was an error in your order or that it failed and you need to open a ticket, please reach out to your carrier to review the service information they have from your account to be ready to re submit. If you can get a CSR or Invoice from them with your numbers’/account service information, it will save you time since we do not have access to their records.
 
 ### What numbers can be transferred?
 
