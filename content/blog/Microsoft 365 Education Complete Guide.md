@@ -33,7 +33,7 @@ The future is here. Welcome.
 
 Education is some of the most important work in the world. [Microsoft
 products are available free or at a
-discount](https://www.microsoft.com/en-us/education/buy-license/microsoft365/default.aspx)
+discount](https://www.microsoft.com/en-us/education/buy-license/microsoft365)
 to verified educational institutions. Some highlights include:
 
 -   Unlimited Free Office 365 A1 licenses for staff and students
