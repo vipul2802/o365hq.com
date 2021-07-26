@@ -3,7 +3,7 @@
         {
         "sku": "{{ page.extra.sku }}",
         "id": "{{ page.title }}",
-        "excerpt": {{ page.description | json_encode() | striptags }},
-        "content_text": "{{ page.content }}"
+        "excerpt": {{ page.description | safe | striptags }},
+        "content_text": "{{ page.content | safe | striptags }}"
         },
     {% endfor %}
