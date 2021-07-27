@@ -1,9 +1,0 @@
-    {% set section = get_section(path="services/_index.md") %}
-    {% for page in section.pages %}
-        {
-        "sku": "{{ page.extra.sku }}",
-        "id": "{{ page.title }}",
-        "excerpt": {{ page.description | safe | striptags }},
-        "content_text": "{{ page.content | safe | striptags }}"
-        },
-    {% endfor %}

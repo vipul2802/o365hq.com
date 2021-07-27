@@ -1,0 +1,10 @@
+    {% set section = get_section(path="services/_index.md") %}
+{
+    {% for page in section.pages %}
+        "{{ page.extra.sku | as_str }}": {
+        "id": "{{ page.title | as_str }}",
+        "excerpt": {{ page.description | json_encode() | safe  }},
+        "content_text": {{ page.content | json_encode() | safe }}
+        }{% if loop.last %}{% else %},{% endif %}
+    {% endfor %}
+}
