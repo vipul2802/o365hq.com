@@ -1,6 +1,6 @@
 +++
 title = "How to get support moving forward for Windows Server 2008/2008R2"
-description = "Windows Server 2008 and Windows Server 2008R2 are approaching the end of their support life cycle. After 14-Jan-2020, there will be no additional free security updates on-premises, non-security updates, free support options, or online technical content updates."
+description = "Windows Server 2008 and Windows Server 2008R2 are approaching the end of their support life cycle. After 14-Jan-2020, there will be no additional security updates on-premises, non-security updates, free support options, or online technical content updates."
 date = 2020-01-08
 
 [taxonomies]
