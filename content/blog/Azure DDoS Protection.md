@@ -1,6 +1,6 @@
 +++
 title = "Azure DDoS Protection"
-description = "Microsoft is excited to announce the general availability of the Azure DDoS Protection Standard service in all public cloud regions. This service is integrated with Azure Virtual Networks (VNet) and provides protection and defense for Azure resources against the impacts of DDoS attacks."
+description = "Microsoft is excited to announce the general availability of the Azure DDoS Protection Standard service in all public cloud regions. This service is integrated with Azure Virtual Networks and provides protection and defense for Azure resources against the impacts of DDoS attacks."
 date = 2018-04-23
 
 [taxonomies]
