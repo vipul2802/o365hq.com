@@ -66,8 +66,7 @@ only be used to search across your historical GP data or for reporting
 purposes (if you use a connector to a reporting tool). As moving from
 on-prem finance solutions becomes more commonplace, Microsoft is
 developing extensions that make the migration process a walk in
-the park. Dynamics GP Data Migration Extension is available for free at
-[Appsource](https://appsource.microsoft.com/en-us/product/dynamics-365-business-central/PUBID.microsoftdynsmb%7CAID.5a417920-451b-4a16-8f08-2b25862fef8e%7CPAPPID.936d57e3-05fe-4aff-8459-35aa9367abec?tab=Overview)
+the park. Dynamics GP Data Migration Extension is available for free.
 . Thanks to this extension, you can migrate the following modules:
 
 ![](https://o365hq.com/images/222.png)
