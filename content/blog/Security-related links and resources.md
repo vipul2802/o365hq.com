@@ -36,7 +36,6 @@ Bill Burr from NIST, Article on Passwords ---
 
 ### Secure Score
 
-<https://securescore.office.com>\
 <https://support.office.com/en-us/article/Introducing-the-Office-365-Secure-Score-c9e7160f-2c34-4bd0-a548-5ddcc862eaef>
 
 ### Security within Exchange
