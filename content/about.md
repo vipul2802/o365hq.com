@@ -31,4 +31,4 @@ We are supplier of Microsoft cloud technologies for:
 
 ### Our actual Microsoft Certification Letter
 
-<iframe src="https://onedrive.live.com/embed?cid=317E3EF3253FD0EA&resid=317E3EF3253FD0EA%2130420&authkey=AA-xQPa-jxwJdOA&em=2" width="100%" height="600px" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://onedrive.live.com/embed?cid=317E3EF3253FD0EA&resid=317E3EF3253FD0EA%2130482&authkey=AGSG3CW-CHrPlsU&em=2" width="100%" height="600px" frameborder="0" scrolling="no"></iframe>
