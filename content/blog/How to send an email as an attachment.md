@@ -4,7 +4,7 @@ description = "Sometimes for troubleshooting purposes, you may need to forward a
 date = "2021-09-22"
 
 [taxonomies]
-tags = ["howto", "microsoft 365", "office 365", "office 365 business apps"]
+tags = ["howto", "microsoft 365", "office 365 business apps"]
 +++
 
 #### Send an email as an attachment in Outlook:
@@ -13,7 +13,7 @@ tags = ["howto", "microsoft 365", "office 365", "office 365 business apps"]
 *Tip*: The keyboard shortcut to forward an email as an attachment is *Ctrl+Alt+F*. You can use this shortcut after you select the message you want to forward. 
 A new forwarding message will open with the attached email. You just need to enter the recipient's email address and any message in the body of the message and Send it.
 
-![How to send an email as an attachment](/img/How to send an email as an attachment 1.png)
+![How to send an email as an attachmen](/img/How to send an email as an attachment 1.png)
 
 2.	Search for the email you would like to attach in your mailbox and select Copy. When creating a new message, just right-click in the body of the email and select Paste.
 
@@ -30,3 +30,4 @@ Open a new message or reply to or forward an existing one.  Then arrange the win
 
 ![How to send an email as an attachment](/img/How to send an email as an attachment 4.png)
 
+![How to send an email as an attachment](/img/How to send an email as an attachment 5.png)
