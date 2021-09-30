@@ -1,6 +1,6 @@
 +++
-title = "Office 365 Advanced eDiscovery"
-description = "With more and more information stored in the cloud, the ability to discover, analyze, and respond to requests for that data are more important than ever. That’s why Microsoft has added Advanced eDiscovery to the Office 365 Security & Compliance Center — to help companies quickly find relevant emails and information across large quantities of stored content."
+title = "Microsoft 365 Advanced eDiscovery"
+description = "With more and more information stored in the cloud, the ability to discover, analyze, and respond to requests for that data are more important than ever. That’s why Microsoft has added Advanced eDiscovery to the Microsoft 365 Security & Compliance Center — to help companies quickly find relevant emails and information across large quantities of stored content."
 date = 2019-07-18
 
 [taxonomies]
@@ -10,7 +10,7 @@ tags = ["azure ad", "microsoft 365", "office 365"]
 ### Security & Compliance Center: Case Creation
 
 The need for organizational search is becoming very prevalent. Advanced
-eDiscovery in Office 365 offers an excellent opportunity to control
+eDiscovery in Microsoft 365 offers an excellent opportunity to control
 information requests, whether it is litigation, internal investigations,
 responding to a regulatory request, or policy obligation. Advanced
 eDiscovery makes it easy to create a case, add case members, put
@@ -99,15 +99,15 @@ relevant set of data.
 A Working Set can include multiple collections of data. These
 collections are called *Load Sets*. Each *Load Set* represents an
 individual collection loaded into the working set, whether loaded from
-Office 365, Non-Office 365 data, or another working set.
+Microsoft 365, Non-Microsoft 365 data, or another working set.
 
 ![](https://o365hq.com/images/469.png)
 
-When data is loaded from Office 365, you can compare Load Sets from
+When data is loaded from Microsoft 365, you can compare Load Sets from
 similar searches to understand what data was added from each load set.
 Select Compare Load Sets to gain further insights into differences in
 load sets within a working set. In many cases, organizations will need
-to include data from sources other than Office 365. In order to do that,
+to include data from sources other than Microsoft 365. In order to do that,
 Advanced eDiscovery offers a process for uploading that content.
 
 ![](https://o365hq.com/images/472.png)
@@ -150,7 +150,7 @@ running or have been completed.
 
 ### Errors and export
 
-Sometimes, the Office 365 services are unable to fully index a file. A
+Sometimes, the Microsoft 365 services are unable to fully index a file. A
 common example of this is when a file is password protected. Error
 remediation allows you to fix errors and add the corrected files back
 into the system so the files can be processed as if the problem never
@@ -170,7 +170,7 @@ relevant content to enable the next steps of your process.
 
 ![](https://o365hq.com/images/477.png)
 
-Microsoft Advanced eDiscovery enables companies to quickly find relevant
+Microsoft 365 Advanced eDiscovery enables companies to quickly find relevant
 emails and information across large quantities of stored email and
 document content. Even if stored in the cloud, Advanced eDiscovery
 streamlines discovery and analysis processes, allowing organizations to
