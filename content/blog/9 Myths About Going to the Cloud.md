@@ -27,7 +27,7 @@ maintenance and software updates**
 Traditional digital estate includes hardware (you probably have a few
 file servers, active directory, mail, and archive servers) that needs to
 be maintained, and software that needs to be updated -- a lot of
-headaches for you! Whereas, when you move to Office 365, you can run your
+headaches for you! Whereas, when you move to Microsoft 365, you can run your
 business in the cloud and let Microsoft take care of the IT for you,
 which means no more setting up servers, databases, file shares, or
 on-premises software for you and your employees. After you move to the
@@ -35,7 +35,7 @@ cloud, you will find time to embrace change.
 
 ### Myth 3 -- It is too expensive
 
-**Fact -- Migration to Office 365 will save you money in the long run**
+**Fact -- Migration to Microsoft 365 will save you money in the long run**
 
 A lot of companies are worried about high costs of moving to the cloud.
 In fact, initial investment into cloud migration can really cost quite a
@@ -67,7 +67,7 @@ on-premises.
 
 As far as privacy is concerned, the fundamental principal Microsoft
 adheres to is that data belongs to the customer, and only the customer can
-control it. Office 365 is only a tool that runs the service for you and
+control it. Microsoft 365 is only a tool that runs the service for you and
 is accountable to you. Besides built-in protection, customers enjoy
 unique controls that empower them to customize information protection
 (like data loss prevention, information protection, email encryption,
@@ -117,12 +117,12 @@ Online:
     Web Access), you see messages being marked as potentially malicious.
     Messages coming from unknown senders are flagged to bring them to your attention.
 
-### Myth 7 -- Office 365 is available only online
+### Myth 7 -- Microsoft 365 is available only online
 
-**Fact -- Office 365 provides options to work offline too**
+**Fact -- Microsoft 365 provides options to work offline too**
 
 If you need to work in a distant place, like the mountains, wild woods, or
-high seas, Office 365 gives you the opportunity. When signed in to
+high seas, Microsoft 365 gives you the opportunity. When signed in to
 your account, you can use all O365 functionalities for up to 30 days.
 After this period is over, you still need to connect to the Internet to
 get the latest updates and you can get back "into the wild" for another
@@ -133,11 +133,11 @@ hard drive and you will be able to access them from there. Once you are
 back to the "online world," all the changes will automatically be uploaded to
 OneDrive.
 
-### Myth 8 -- Collaboration options in O365 are pretty much the same as in plain chat or meeting apps
+### Myth 8 -- Collaboration options in M365 are pretty much the same as in plain chat or meeting apps
 
-**Fact -- Teams in Office 365 is your virtual collaboration workplace**
+**Fact -- Teams in Microsoft 365 is your virtual collaboration workplace**
 
-Despite Office 365 already offering collaboration tools like Yammer,
+Despite Microsoft 365 already offering collaboration tools like Yammer,
 Outlook, SharePoint, and Skype -- it's almost certain that Teams is the
 best solution for your teamwork. Microsoft Teams is a chat-based
 workplace that gives people one place to communicate and use
@@ -146,7 +146,7 @@ communicate, and you can go back to the archives and see them. Teams is
 designed for cooperation in real time and in a completely non-friction
 manner. Teams offer a possibility for people to interact in multiple
 teams and ensures no need to use 15 different collaboration tools. As it
-is part of the Office 365 suite of tools of cooperation, it is part of what
+is part of the Microsoft 365 suite of tools of cooperation, it is part of what
 users are already used to, meaning you can allocate tasks right in the
 conversation by simply creating or sharing and formatting many kinds of
 documents, from Word to Excel to PowerPoint. It couldn't be more
@@ -154,27 +154,27 @@ comfortable than that. Customization, enhanced security, mobile calling,
 email integration and more makes Teams a unique asset to
 increase your company's efficiency
 
-### Myth 9 -- Office 365 is incompatible with third-party business-critical apps
+### Myth 9 -- Microsoft 365 is incompatible with third-party business-critical apps
 
-**Fact -- Microsoft is constantly working to make Office 365 compatible
+**Fact -- Microsoft is constantly working to make Microsoft 365 compatible
 with the apps your employees need for effective work**
 
 Microsoft is always adding functionality and making improvements to
-Office 365, so when your users need a new third-party tool, you don't
+Microsoft 365, so when your users need a new third-party tool, you don't
 have to worry about its security. Instead, you can rely on a security
 framework that's already in place, allowing users to take advantage of
 the productivity. This means your IT department can allow users to adopt
 the tool that best fits their needs. The single identity gives you the
 ability to bring in third-party cloud providers and integrate with your Azure
 AD user account, using the same security and compliance tools that you
-do for Office 365. Long story short, your users can use
-business-critical apps, easily integrating them into their Office 365
+do for Microsoft 365. Long story short, your users can use
+business-critical apps, easily integrating them into their Microsoft 365
 accounts, giving them access to necessary data and enjoying the
 security your admins will appreciate.
 
 Summing up our myths-debunking article, let's outline one important
 point: when you start moving toward the cloud, you may be astonished to
 find out how many interesting and useful features you may discover
-exploring Office 365. That's a great opportunity for your business to be
+exploring Microsoft 365. That's a great opportunity for your business to be
 more cost-efficient and control the process of your information and
 communication management, and much more.
