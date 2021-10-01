@@ -8,7 +8,7 @@ tags = ["azure", "azure ad", "security"]
 +++
 
 Azure AD Connect combines on-premises directories with Azure Active
-Directory. Consolidated with Azure, Office 365, and SaaS app, it helps users 
+Directory. Consolidated with Azure, Microsoft 365, and SaaS app, it helps users 
 be more efficient by providing them with opportunities to
 use cloud and on-premises resources.\
 Azure AD maintains SSO authentication and guarantees safe
@@ -121,9 +121,9 @@ management of other online services that monitor access to resources
 (e.g., SharePoint Online).
 
 The distribution groups and mail-enabled security groups are created and
-managed within the Exchange Admin Center if the organization uses Office
-365. Office 365 is the source for such groups and they must be managed
-in Office 365. Dynamic groups can automatically add and remove users
+managed within the Exchange Admin Center if the organization uses Microsoft
+365. Microsoft 365 is the source for such groups and they must be managed
+in Microsoft 365. Dynamic groups can automatically add and remove users
 from groups. Any user that meets the membership requirements will
 automatically gain access to appropriate resources and privileges.
 
@@ -140,9 +140,9 @@ Authentication is used as an added security measure to verify the user,
 the user is required to verify their alternate contact info only first time. 
 Once set up, their phone or authenticator app will
 alert them to react to the [MFA]{.caps} challenge. If the user is
-licensed to Office 365 apps, those will be displayed on their Access Panel.
-Office 365 and Azure Active Directory integration allows a company to
-place apps assigned to the user on the launcher in Office 365.
+licensed to Microsoft 365 apps, those will be displayed on their Access Panel.
+Microsoft 365 and Azure Active Directory integration allows a company to
+place apps assigned to the user on the launcher in Microsoft 365.
 
 ![](https://o365hq.com/images/436.png)
 
