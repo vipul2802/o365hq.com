@@ -42,7 +42,7 @@ internal communications in Exchange, Teams chats, Yammer and more.
 
 ![](https://o365hq.com/images/860.png)
 
-Teams and IT admins can use the Office 365 Security & Compliance Center
+Teams and IT admins can use the Microsoft 365 Security & Compliance Center
 to set retention policies for Teams chats and channels. They can monitor
 communications related to financial regulatory compliance from within
 the Microsoft 365 compliance page as well as choose individuals to
