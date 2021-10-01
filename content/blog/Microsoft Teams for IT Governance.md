@@ -21,16 +21,16 @@ controlling who can use them.
 
 ![](https://o365hq.com/images/825.png)
 
-Teams is one of several Office 365 services built on the Office 365
-Groups framework. When someone creates a team, an Office 365 group is
+Teams is one of several Microsoft 365 services built on the Microsoft 365
+Groups framework. When someone creates a team, a  Microsoft 365 group is
 created as well. By default, all users with a mailbox in Exchange Online
-have permissions to create Office 365 groups and, therefore, a team in
+have permissions to create Microsoft 365 groups and, therefore, a team in
 Microsoft Teams. This certainly eases the burden on admins who might
 receive hundreds of requests to create teams, but it can also lead to
 issues like team duplication or inadvertent deletion of teams and
 content. If you want to have tighter control and restrict the creation
 of new teams, you can delegate group creation and management rights to
-an Office 365 Security Group in the **Office 365 Admin Center**.
+a Microsoft 365 Security Group in the **Microsoft 365 Admin Center**.
 
 It's important to note that Teams yields the most benefits when there is
 a good balance between allowing end-users to create the teams they need,
@@ -53,18 +53,18 @@ blocked words that cannot be used in a team or group name, such as
 Payroll, CEO, HR, etc.
 
 After you set a group naming policy in Azure AD, when a user creates a
-group in an Office 365 app, they see:
+group in a Microsoft 365 app, they see:
 
 1.  A preview of the name according to your naming policy appears (with
     prefixes and suffixes) as soon as the user types in the group name.
 2.  If the user enters blocked words, they'll see an error message, so
     they can remove the blocked words.
 
-Each team created in Teams automatically comes with an Office 365 Group,
+Each team created in Teams automatically comes with a Microsoft 365 Group,
 with configurable status (public or private) and optionally,
 \*classifications\*---which are labels that administrators can use to
 create policies for retention and other content-related requirements in
-Office 365. For example, the admin can allow users to set "Public",
+Microsoft 365. For example, the admin can allow users to set "Public",
 "Internal Only", and "Restricted" on teams they create.
 
 ![](https://o365hq.com/images/824.png)
@@ -94,13 +94,13 @@ to team chats, meetings, and files.
 
 You can manage Microsoft Teams guest access features and capabilities
 through different levels of authorization, including Azure Active
-Directory, Teams, Office 365 Groups, SharePoint Online, and OneDrive for
+Directory, Teams, Microsoft 365 Groups, SharePoint Online, and OneDrive for
 Business. Each authorization level controls the scope of guest access.
 
 As the number of teams increases, it can create a bit of a mess -- for
-instance, when a project is completed but the team and Office 365 group
+instance, when a project is completed but the team and Microsoft 365 group
 is still hanging around. Microsoft Teams now shows team owners when
-their team is going to expire -- that is, if they use the Office 365
+their team is going to expire -- that is, if they use the Microsoft 365
 Groups expiration policy.
 
 You can manage the lifecycle of teams by setting an expiration policy in
