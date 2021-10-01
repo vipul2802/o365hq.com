@@ -55,8 +55,8 @@ invited attendees are notified.
 
 ![](https://o365hq.com/images/706.png)
 
-Teams in Office 365 provides business calling for people on a global
-scale. It enables call control and PBX capabilities in Office
+Teams in Microsoft 365 provides business calling for people on a global
+scale. It enables call control and PBX capabilities in Microsoft
 365, combined with your choice of voice line provider and/or a Teams
 Calling Plan.
 
