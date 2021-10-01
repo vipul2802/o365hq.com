@@ -1,6 +1,6 @@
 +++
 title = "9 Easy and Smart Ways to Enhance your Security with Microsoft 365 Business"
-description = "In the previous article, we  discussed the best practices that will enhance the cybersecurity of your Office 365 Business. This time, let’s discover what Microsoft 365 has to offer in terms of security. Let’s clarify a few things before we move on, as Office 365 and Microsoft 365 are often mixed up. Microsoft 365 is a bundle solution that comprises Office 365 Business Premium, Windows 10 Pro, and Enterprise Mobility + Security. Keep this in mind if you’d like to make sure your employees can collaborate effectively, stay mobile, and feel secure from cyber threats 24/7."
+description = "In the previous article, we  discussed the best practices that will enhance the cybersecurity of your Microsoft 365 Business. This time, let’s discover what Microsoft 365 has to offer in terms of security. Let’s clarify a few things before we move on, as Office 365 and Microsoft 365 are often mixed up. Microsoft 365 is a bundle solution that comprises Office 365 Business Premium, Windows 10 Pro, and Enterprise Mobility + Security. Keep this in mind if you’d like to make sure your employees can collaborate effectively, stay mobile, and feel secure from cyber threats 24/7."
 date = 2019-01-10
 
 [taxonomies]
@@ -183,9 +183,9 @@ Windows Defender Exploit Guard has many useful attributes.
 
 ![](https://o365hq.com/images/206.png)
 
-### Microsoft 365 Secure Score
+### Microsoft Secure Score
 
-Office 365 Secure Score was already mentioned in [a previous
+Microsoft Secure Score was already mentioned in [a previous
 article](o365hq.com/blog/top-8-solutions-to-secure-your-office-365-business)
 , but with M365 it is also more advanced, as it analyses how well both
 Office 365 and Windows are secured and gives recommendations, suggesting
