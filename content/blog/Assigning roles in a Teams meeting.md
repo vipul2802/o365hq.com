@@ -35,7 +35,7 @@ choices:
 
 1.  *Everyone* -- Anyone who has access to the meeting link.
 2.  *People in my organization* -- Only users in your company in the
-    same Office 365 tenant.
+    same Microsoft 365 tenant.
 3.  *Specific people* you select from the list of invites.
 4.  *Only me* -- Only the organizer. All others will join as attendees.
 
