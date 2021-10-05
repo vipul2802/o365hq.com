@@ -24,7 +24,7 @@ to measure its compliance.
 ![](https://o365hq.com/images/501.png)
 
 When you enter the assessment framework, you can see all the services
-included in the scope under the first section "Office 365 in-scope cloud
+included in the scope under the first section "Microsoft 365 in-scope cloud
 services."
 
 The "Microsoft Managed Controls" section provides you with data about
