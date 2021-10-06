@@ -1,5 +1,5 @@
 +++
-title = "Deploy and Manage Cloud App Security in Office 365"
+title = "Deploy and Manage Cloud App Security in Microsoft 365"
 description = "Before we jump into the cloud app security implementation or the management process, let's talk about the cloud app security; what it is, and why we need it. It’s a Microsoft cloud-based solution that gives you insights into suspicious user activities."
 date = 2019-06-04
 
@@ -12,7 +12,7 @@ tags = ["cloud security", "microsoft 365", "office 365", "tenant security"]
 You can generate an email and configure some
 remediations against security alerts based on the user's activities.
 Cloud app security is a requirement if you have been looking at implementing
-Office 365, a cloud-based application, to protect your data and get
+Microsoft 365, a cloud-based application, to protect your data and get
 insights into your security solutions. 
 A firewall or IPS does not have the capability to
 give you insights on what users are doing in the cloud and how they are
@@ -29,8 +29,8 @@ report where you can see the sanctioned or unsanctioned applications
 being used by the users.
 
 Next, you have information protection based on the 
-DLP policies in Office 365 or Azure information protection
-policies to apply the production on your data in Office 365. That
+DLP policies in Microsoft 365 or Azure information protection
+policies to apply the production on your data in Microsoft 365. That
 includes the ability to encrypt the data in the cloud,
 or you can actually block access based on the DLP policies.
 
@@ -59,7 +59,7 @@ report, giving you this snapshot. Or you can have automatic log configurations
 that can upload the logs to cloud app security.
 
 We highly recommend that you use automatic firewall logs uploaded to the
-Office 365 cloud app security so you can have a continuous report
+Microsoft cloud app security so you can have a continuous report
 on your end users' activities, and insights within your on-premises
 network as well.
 
@@ -105,7 +105,7 @@ firewall logs or you can have a manual logs uploader. (Again, we
 highly recommend that you upload configured automatic uploads of the
 logs.) This can be done directly through the firewalls or you can have a
 server on-premises that can collect the logs from all of your devices
-and then upload those logs to the Office 365 cloud app security. 
+and then upload those logs to the Microsoft cloud app security. 
 
 3. Once you have the logs uploaded, connect your
 sanctioned applications and block access to the
@@ -143,7 +143,7 @@ Azure cloud app security. Alerts are generated on suspicious activities
 within five minutes of your users performing risky activities, like having 
 unexpected travel to somewhere that is not possible, or downloading from 
 Sharepoint or OneDrive from an IP from where the user never logged into 
-Office 365 before.
+Microsoft 365 before.
 
 ![](https://o365hq.com/images/355.png)
 
