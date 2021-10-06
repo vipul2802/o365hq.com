@@ -1,13 +1,13 @@
 +++
-title = "Email Collaboration in Office 365"
-description = "Office 365 encourages collaboration through Groups in Outlook, distribution lists (also called distribution groups), shared mailboxes, and public folders. Each of these options has a different purpose, user experience, and feature set. What to use depends on what the user needs to do and which tools your organization provides."
+title = "Email Collaboration in Microsoft 365"
+description = "Microsoft 365 encourages collaboration through Groups in Outlook, distribution lists (also called distribution groups), shared mailboxes, and public folders. Each of these options has a different purpose, user experience, and feature set. What to use depends on what the user needs to do and which tools your organization provides."
 date = 2018-09-27
 
 [taxonomies]
-tags = ["office 365 tenant"]
+tags = ["office 365 tenant", "microsoft 365"]
 +++
 
-Office 365 encourages collaboration through Groups in Outlook,
+Microsoft 365 encourages collaboration through Groups in Outlook,
 distribution lists (also called distribution groups), shared mailboxes,
 and public folders. Each of these options has a different purpose, user
 experience, and feature set. What to use depends on what the user needs
@@ -17,20 +17,20 @@ Summary of collaboration options
 --------------------------------
 
 This table explains the various collaboration options available to you
-with Office 365.
+with Microsoft 365.
 
   -----------------------------------------------------------------------
   Collaboration tool                  Description
   ----------------------------------- -----------------------------------
   Groups in Outlook                   A shared workspace that works
-                                      across all applications in Office
+                                      across all applications in Microsoft
                                       365. Includes a shared inbox,
                                       calendar, and OneDrive for Business
                                       site for storing files. Users can
                                       create, find, and join Groups in
                                       Outlook right from their email or
                                       calendar. New and existing users
-                                      with an Exchange Online or Office
+                                      with an Exchange Online or Microsoft
                                       365 subscription can use Groups in
                                       Outlook.
 
@@ -62,14 +62,14 @@ with Office 365.
                                       conditions that you specify, such
                                       as all members of a particular
                                       locale or all full-time employees.\
-                                      Office 365 Groups in Outlook offer
+                                      Microsoft 365 Groups in Outlook offer
                                       a more powerful solution for
                                       collaboration than distribution
                                       groups. To learn more, see Why you
                                       should upgrade your distribution
                                       lists to groups in Outlook and
                                       Migrate distribution lists to
-                                      Office 365 Groups.
+                                      Microsoft 365 Groups.
 
   Public folder                       Designed for shared access, public
                                       folders provide an easy and
@@ -96,7 +96,7 @@ Which collaboration tool to use?
 
 The following table gives you a quick glance at the various types of
 groups and explains when and how to use them with the various
-collaboration features of Office 365.\
+collaboration features of Microsoft 365.\
 
 **Groups in Outlook**
 
@@ -109,7 +109,7 @@ collaboration features of Office 365.\
 **Who uses?**
 
 Users who want a collaboration workspace for their group messages,
-files, and calendar that is integrated with the Office 365 services they
+files, and calendar that is integrated with the Microsoft 365 services they
 already use (Outlook Web App, OneDrive for Business).
 
 Users who need to send email to a group of recipients with a common
@@ -141,7 +141,7 @@ Large
 
 **Access**
 
-Exchange Online and Office 365 users.
+Exchange Online and Microsoft 365 users.
 
 For distribution groups, members must be manually added. For dynamic
 distribution groups, members are added based on filtering criteria.
