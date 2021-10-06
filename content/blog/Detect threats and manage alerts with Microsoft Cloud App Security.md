@@ -34,7 +34,7 @@ the properties and customize them if needed.
 
 Microsoft Cloud App Security features app permissions that allow you to
 see which user-installed apps have OAuth permissions and access to data
-from Office 365, G suite, and Salesforce. OAuth enables a user\`s
+from Microsoft 365, G suite, and Salesforce. OAuth enables a user\`s
 account information to be used by third-party services, without exposing
 the user\`s password. OAuth app permissions help you decide which apps
 to allow and which ones to disallow in your environment.
