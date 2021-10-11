@@ -4,7 +4,7 @@ description = "In day-to-day life, company compliance is a necessary evil. Accor
 date = 2019-02-28
 
 [taxonomies]
-tags = ["cloud security", "microsoft 365", "office 365 tenant"]
+tags = ["cloud security", "microsoft 365", "office 365 tenant", "Office 365"]
 +++
 
 The lack of connection between the Compliance and IT departments is
