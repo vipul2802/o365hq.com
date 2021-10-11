@@ -43,37 +43,37 @@ risks is a migration. If you haven't already begun your migration from
 Exchange 2010 to Office 365 or Exchange 2016, now's the time to start
 your planning. There are two most reliable destinations:
 
-**1. Migration to Office 365.**
+**1. Migration to Microsoft 365.**
 
-Migrating your email to Office 365 is your best and simplest option to
-help you retire your Exchange 2010 deployment. Office 365 receives new
+Migrating your email to Microsoft 365 is your best and simplest option to
+help you retire your Exchange 2010 deployment. Microsoft 365 receives new
 features and experiences first and you and your team can usually start
 using them right away. Upgrading to a new version of Exchange -- you're
-always on the latest version of Exchange in Office 365. When choosing a
+always on the latest version of Exchange in Microsoft 365. When choosing a
 migration option, you need to consider a few things like the number of
 seats or mailboxes you need to
 
 move, how long you want the migration to last, and whether you need a
-seamless integration between your on-premises installation and Office
+seamless integration between your on-premises installation and Microsoft
 365 during the migration.
 
 -   A cutover migration basically moves the whole mailbox database to
-    Office 365. It is great method for small organizations that don't
-    have very many mailboxes, want to get to Office 365 quickly, and
+    Microsoft 365. It is great method for small organizations that don't
+    have very many mailboxes, want to get to Microsoft 365 quickly, and
     don't want to deal with some of the complexities of the other
     methods. It is strongly recommended to complete a migration in a
     week or less and migrate a maximum of 150 mailboxes with this
     method. The users will have to reconfigure their Outlook profiles.
 -   Express migration will help you migrate a few hundred mailboxes and
     complete the project within a couple of weeks. You can control how
-    many, and which mailboxes are migrated at a given time. Office 365
+    many, and which mailboxes are migrated at a given time. Microsoft 365
     mailboxes will be created with the username and passwords of their
     on-premises accounts and, unlike cutover migrations, your users
     won't need to recreate their Outlook profiles.
 -   Hybrid migration allows you to connect your on-premises environment
     with the cloud. This option is the right choice for your
     organization if you have many hundreds of mailboxes and you want to
-    move some or all of them to Office 365.
+    move some or all of them to Microsoft 365.
 
 Full hybrid migrations aren't suited to all types of organizations. Due
 to the complexity of full hybrid migrations, organizations with less
@@ -85,7 +85,7 @@ the effort and cost needed to set one up.
 If you choose to keep your email on-premises, you can migrate your
 Exchange 2010 environment to Exchange 2016. Exchange 2016 includes the
 features and advancements included with previous releases of Exchange,
-and it most closely matches the experience available with Office 365. If
+and it most closely matches the experience available with Microsoft 365. If
 you do want to stay on-premises don't forget that you cannot upgrade
 directly from Exchange 2010 on-premises to [Exchange Server
 2019](https://techcommunity.microsoft.com/t5/Exchange-Team-Blog/Exchange-Server-2019-Now-Available/ba-p/608610)
@@ -100,21 +100,21 @@ If you have a complex deployment, or if you simply don't have the time
 or resources to dedicate to a project like this, there are plenty of
 ways to get help:
 
--   Firstly, if you are migrating to Office 365 and Exchange Online, you
+-   Firstly, if you are migrating to Microsoft 365 and Exchange Online, you
     may be eligible to use the free Microsoft FastTrack service.
     FastTrack provides best practices, tools, and resources to make
-    migration to Office 365 and Exchange Online as seamless as possible.
+    migration to Microsoft 365 and Exchange Online as seamless as possible.
     Best of all, you have access to a support engineer that will walk
     you through your migration, from planning and design all the way to
     migrating the last mailbox.
 -   Secondly, if you run into any problems during your migration to
-    Office 365 and you are not eligible for FastTrack, or if you are
+    Microsoft 365 and you are not eligible for FastTrack, or if you are
     migrating to a newer version of Exchange Server, try Microsoft
     support or the Exchange Technical Community.
 -   Thirdly, you also might choose to engage a partner to help you.
 
-With Exchange Online and Office 365 you'll get access to the most secure
-and productive software. If you migrate fully to Office 365 you really
+With Exchange Online and Microsoft 365 you'll get access to the most secure
+and productive software. If you migrate fully to Microsoft 365 you really
 don't need to worry about 'big bang' version upgrades any more. You just
 have to keep a much smaller number of on-premises servers up to date,
 and you're good.
