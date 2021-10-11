@@ -1,5 +1,5 @@
 +++
-title = "Exchange Server 2010 End of Support is Coming Soon"
+title = "Exchange Server 2010 End of Support Is Coming Soon"
 description = "All Microsoft products have a support lifecycle which typically lasts 10 years from the date of the product`s initial release. During the lifecycle Microsoft provides consumers with new features and security updates."
 date = "2020-07-23"
 
