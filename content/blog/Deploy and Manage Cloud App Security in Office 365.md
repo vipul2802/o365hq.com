@@ -4,7 +4,7 @@ description = "Before we jump into the cloud app security implementation or the 
 date = 2019-06-04
 
 [taxonomies]
-tags = ["cloud security", "microsoft 365", "tenant security"]
+tags = ["cloud security", "microsoft 365", "tenant security", "office 365"]
 +++
 
 ![](https://o365hq.com/images/357.png)
