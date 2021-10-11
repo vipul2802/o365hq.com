@@ -21,7 +21,7 @@ provider.
 ![](https://o365hq.com/images/239.png)
 
 And as you see here, your degree of responsibility varies and is defined
-by the services you consume. If you're utilizing something like Office
+by the services you consume. If you're utilizing something like Microsoft
 365, or Dynamics 365, your provider takes care of most compliance
 requirements. To arrange for the rest, a handy tool named Compliance
 Manager is just the ticket. The picture below shows what services and
@@ -113,7 +113,7 @@ into your new assessment.
 
 Once you copy the existing assessment, you'll be asked which Microsoft
 product you want to evaluate (in this example, we are going to select
-Office 365) against what certification (we will choose HIPAA).
+Microsoft 365) against what certification (we will choose HIPAA).
 
 ![](https://o365hq.com/images/244.png)
 
@@ -168,7 +168,7 @@ distinct categories:
     organization);
 2.  Technical configuration involving various Microsoft Cloud features
     (with links to satisfy your curiosity on how to implement certain
-    controls, for example, Office 365 message encryption for
+    controls, for example, Microsoft 365 message encryption for
     GDPR control, which we discuss here).
 
 ![](https://o365hq.com/images/250.png)
