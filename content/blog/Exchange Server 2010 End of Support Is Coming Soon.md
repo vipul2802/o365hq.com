@@ -40,7 +40,7 @@ read more about your options
 
 With Exchange 2010 reaching its end of support, the only way to mitigate
 risks is a migration. If you haven't already begun your migration from
-Exchange 2010 to Office 365 or Exchange 2016, now's the time to start
+Exchange 2010 to Microsoft 365 or Exchange 2016, now's the time to start
 your planning. There are two most reliable destinations:
 
 **1. Migration to Microsoft 365.**
@@ -51,11 +51,9 @@ features and experiences first and you and your team can usually start
 using them right away. Upgrading to a new version of Exchange -- you're
 always on the latest version of Exchange in Microsoft 365. When choosing a
 migration option, you need to consider a few things like the number of
-seats or mailboxes you need to
-
-move, how long you want the migration to last, and whether you need a
-seamless integration between your on-premises installation and Microsoft
-365 during the migration.
+seats or mailboxes you need to move, how long you want the migration to last, 
+and whether you need a seamless integration between your on-premises installation
+and Microsoft 365 during the migration.
 
 -   A cutover migration basically moves the whole mailbox database to
     Microsoft 365. It is great method for small organizations that don't
