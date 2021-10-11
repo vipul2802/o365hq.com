@@ -104,7 +104,7 @@ even as you supervise during a screen sharing session.
 Complete the process by filling out our [New Customer
 form](https://forms.office.com/Pages/ResponsePage.aspx?id=jerWToZvHUG34DdAG9ubaGbNn0XlEsdGmwZuhYBTb1tUQkMwMzdVSDdZOUgzQUgzWTVPQUVMMzFZNi4u). If you need help
 finding your default tenant name check out [this
-article](https://o365hq.com/faq/how-to-find-our-your-office-365-default-domain-name).
+article](https://o365hq.com/faq/how-to-find-your-office-365-default-domain-name/).
 
 ### What's Next: IT Partner by your side
 
