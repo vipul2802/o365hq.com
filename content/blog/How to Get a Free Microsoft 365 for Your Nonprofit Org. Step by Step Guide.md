@@ -68,7 +68,7 @@ know your tenant name to provision your free Microsoft 365 Business
 Premium subscriptions.
 
 You may visit the same page to check the status of your application.
-Make sure you log in using your Office 365 Global Admin credentials you
+Make sure you log in using your Microsoft 365 Global Admin credentials you
 created during Step 1. As you can see -- Microsoft reserves up to 20
 days to make a decision. But usually, it's about 3-5 days.
 
@@ -79,7 +79,7 @@ days to make a decision. But usually, it's about 3-5 days.
 Authorize **IT Partner** to provision licenses into your tenant by
 clicking on [this
 link](https://admin.microsoft.com/Adminportal/Home?invType=IndirectResellerRelationship&partnerId=4ed6ea8d-6f86-411d-b7e0-37401bdb9b68&msppId=4100178&indirectCSPId=d5c77776-8b4c-4ceb-81da-566aba9c59c5&DAP=true#/BillingAccounts/partner-invitation).
-Make sure you have signed in using your Office 365 account with Global
+Make sure you have signed in using your Microsoft 365 account with Global
 Admin permissions before clicking on this link.
 
 ### Step 4
