@@ -1,6 +1,6 @@
 +++
 title = "How to detect attacks before they cause damage"
-description = "We are excited to start a series of scenarios on how to improve your Office 365 security and productivity, prepared by Microsoft engineers. The first one is about how to detect attacks before they cause damage."
+description = "We are excited to start a series of scenarios on how to improve your Microsoft 365 security and productivity, prepared by Microsoft engineers. The first one is about how to detect attacks before they cause damage."
 date = 2018-12-04
 
 [taxonomies]
