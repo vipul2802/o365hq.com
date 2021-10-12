@@ -1,13 +1,13 @@
 +++
-title = "How to export a PST file from Office 365"
+title = "How to export a PST file from Microsoft 365"
 description = "You can use the following instructions to export .pst files from the admin panel."
 date = 2019-12-06
 
 [taxonomies]
-tags = ["howto", "office 365 tenant"]
+tags = ["howto", "office 365 tenant", "microsoft 365"]
 +++
 
-Step 1: Firstly, you need to *login* to your *Office 365 account* and
+Step 1: Firstly, you need to *login* to your *Microsoft 365 account* and
 *launch Microsoft 365 Admin center*.
 
 ![](https://o365hq.com/images/614.png)
@@ -48,15 +48,15 @@ available in the latest version of eDiscovery Content Search.
 
 ![](https://o365hq.com/images/619.png)
 
-Step 9: Specify the data to be exported from Office 365
+Step 9: Specify the data to be exported from Microsoft 365
 mailboxes to the PST file format in the search window. The user can
-*Add conditions* to make the Office 365 search process more accurate as
+*Add conditions* to make the Microsoft 365 search process more accurate as
 needed. As you can see, there are multiple items available to filter search
 emails and other items.
 
 ![](https://o365hq.com/images/620.png)
 
-Step 10: To Export Office 365 mailboxes to PST from all
+Step 10: To Export Microsoft 365 mailboxes to PST from all
 mailboxes, select Specific locations and Modify.
 
 ![](https://o365hq.com/images/621.png)
@@ -119,7 +119,7 @@ Download results button*, which will begin downloading the results.
 ![](https://o365hq.com/images/629.png)
 
 Step 22: Be sure to copy the Export key, which is required in the *Click
-Once/eDiscovery application* to export *Office 365 Mailboxes to
+Once/eDiscovery application* to export *Microsoft 365 Mailboxes to
 PST*.
 
 ![](https://o365hq.com/images/630.png)
@@ -130,7 +130,7 @@ Step 23: Then, paste the copied export key under the Paste field and
 ![](https://o365hq.com/images/631.png)
 
 Step 24: Finally, *click* on the *Start button* to begin the export
-process, which will export Office 365 Mailbox to PST file
+process, which will export Microsoft 365 Mailbox to PST file
 format.
 
 Please let us know if you have any questions or need help with this
