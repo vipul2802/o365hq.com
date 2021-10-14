@@ -15,17 +15,17 @@ meetings, calls). But how do you capture important information in voice?
 Typing at a PC or making analog recordings doesn't meet expectations
 anymore. Microsoft is delivering voice with things like transcription
 and translation. So, when you missed the meeting and are trying to figure out
-if the boss talked about you, you can literally ask Office 365 if your
+if the boss talked about you, you can literally ask Microsoft 365 if your
 name was mentioned and it'll search through the meeting file, coming
 back with the results you need. Instead of listening to the meeting
 recording for 75 minutes, you can spend 5 minutes doing a little
-search in Office 365. Isn't it awesome?
+search in Microsoft 365. Isn't it awesome?
 
 Now let's hop in and start by explaining how Phone System works.
 
 ### What is Phone System and what features does it provide?
 
-For better understanding of Office 365 Phone System, let's take a look at
+For better understanding of Microsoft 365 Phone System, let's take a look at
 the elements of a traditional telephone system within an organization,
 or Private Branch Exchange (PBX).
 
@@ -35,7 +35,7 @@ Traditional PBX deployment consists of three parts: 1) the
 endpoints for employees to place and receive calls, 2) the PBX
 connecting calls between internal users, as well as sending them to
 external users, and 3) the PSTN (Public Switched Telephone
-Network) with all the external users. Phone System in Office 365 has the
+Network) with all the external users. Phone System in Microsoft 365 has the
 exact same building blocks. Every Teams client, whether it's Windows,
 Mac, Web (currently Edge only), iOS, Android, or IP phones, can be an
 endpoint and use PBX features in addition to other Teams
@@ -93,7 +93,7 @@ get international calling, mixing and matching these as required.
 
 #### Direct Routing
 
-Essentially, this option brings your trunks to the party. Office 365
+Essentially, this option brings your trunks to the party. Microsoft 365
 will be connected to the customer infrastructure, letting you use your
 existing PBX or your existing carrier contracts. Also, there's
 no need to port any phone numbers, since you'll remain in the same pool
