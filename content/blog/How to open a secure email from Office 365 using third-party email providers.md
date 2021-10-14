@@ -1,10 +1,10 @@
 +++
-title = "How to open a secure email from Office 365 using third-party email providers"
-description = "If you have an Office 365 subscription, Outlook now includes encryption features that let you share your confidential and personal information while ensuring that your email message stays encrypted and doesn’t leave Office 365. This is useful when you don’t trust the recipient’s email provider to be secure. In this article, we are going to explain how to open a secure email using third-party email providers."
+title = "How to open a secure email from Microsoft 365 using third-party email providers"
+description = "If you have a Microsoft 365 subscription, Outlook now includes encryption features that let you share your confidential and personal information while ensuring that your email message stays encrypted and doesn’t leave Microsoft 365. This is useful when you don’t trust the recipient’s email provider to be secure. In this article, we are going to explain how to open a secure email using third-party email providers."
 date = 2019-10-07
 
 [taxonomies]
-tags = ["cloud security", "modern security"]
+tags = ["cloud security", "modern security", "microsoft 365"]
 +++
 
 **1.** The first step: you've just got an email :)
@@ -40,5 +40,5 @@ one-time code
 
 ![](https://o365hq.com/images/554.png)
 
-Messages encrypted with Office 365 stay encrypted and remain inside the
-Office 365 service. This helps secure your email when it's received.
+Messages encrypted with Microsoft 365 stay encrypted and remain inside the
+Microsoft 365 service. This helps secure your email when it's received.
