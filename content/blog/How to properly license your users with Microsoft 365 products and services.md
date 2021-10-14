@@ -35,9 +35,9 @@ When you buy a subscription to Microsoft 365 for business, you specify the numbe
 
 #### 1.	Divide all the users by groups and specify their needs for services, desktop apps, security requirements, etc.
 
-Before choosing a plan, you should consider your business needs and examine what you currently have. It is always a good idea to collect feedback from every department. You can easily mix and match Office 365 plans. Sometimes it is better to get different plans for each department.
+Before choosing a plan, you should consider your business needs and examine what you currently have. It is always a good idea to collect feedback from every department. You can easily mix and match Microsoft 365 plans. Sometimes it is better to get different plans for each department.
 
-#### 2.	Decide on Office 365 plans for each group.
+#### 2.	Decide on Microsoft 365 plans for each group.
 
 This is the part where things can get complicated as Microsoft offers a lot of options to choose from. A Microsoft Partner can help you find the right plan with the closest fit for each group of users. You can go with the plan that includes everything you need or get a lower-level plan and just purchase add-on licenses to get the features you need.
 
