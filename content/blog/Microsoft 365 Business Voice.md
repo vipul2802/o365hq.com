@@ -74,7 +74,7 @@ options based on what the administrator writes.
 Microsoft 365 Business Voice allows you to save the company money by
 using one provider for all your business communications with a low
 monthly price. From the Microsoft 365 admin home page, the administrator
-can control all Office 365 services, including voice.
+can control all Microsoft 365 services, including voice.
 
 By simply clicking into a user, the administrator has several management
 options, such as adding or removing licenses and apps. 
