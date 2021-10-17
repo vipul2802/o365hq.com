@@ -25,7 +25,7 @@ Discovery](https://docs.microsoft.com/en-us/cloud-app-security/set-up-cloud-disc
 ![](https://o365hq.com/images/782.png)
 
 Azure AD Application Proxy verifies access to company's applications
-used by remote workers. It allows to integrate Office 365 and other SaaS
+used by remote workers. It allows to integrate Microsoft 365 and other SaaS
 apps to guarantee your users an easy access to the on-premises apps.
 Application Proxy runs in the cloud, so you don't need to change your
 network infrastructure. It lets your remote employees access intranet
