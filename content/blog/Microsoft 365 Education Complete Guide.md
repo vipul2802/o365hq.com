@@ -42,7 +42,7 @@ to verified educational institutions. Some highlights include:
 
 ### How to register your EDU authorized tenant
 
-If you don't already have an Office 365 tenant -- an admin center under
+If you don't have a Microsoft 365 tenant yet -- an admin center under
 which you control every aspect of your account and its users -- check
 out the [instructions
 here](https://docs.microsoft.com/en-us/microsoft-365/education/deploy/create-your-office-365-tenant)
@@ -50,7 +50,7 @@ for setting one up.
 
 In this step, you'll enter all the basic information about your
 organization and create your Global Admin account. You'll then be in the
-Office 365 Admin Center, ready to try Office 365 Education on a trial
+Microsoft 365 Admin Center, ready to try Microsoft 365 Education on a trial
 basis.
 
 ### How to get your EDU eligibility approved by Microsoft
