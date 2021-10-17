@@ -112,7 +112,7 @@ with existing systems. It is easy to create a Kaizala group quickly by
 using CSV files containing information of the users and the
 team hierarchy.
 
-You can apply different policies in the group: make Office 365 login
+You can apply different policies in the group: make Microsoft 365 login
 mandatory, allow copy, share, forward, and reduce noise by applying
 policies around likes and comments, etc. You can manage and upload new
 policies and procedures, and the changes are made in real time. When an
