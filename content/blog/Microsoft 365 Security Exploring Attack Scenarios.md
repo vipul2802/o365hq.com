@@ -33,7 +33,7 @@ Microsoft -- and with a simple click, you can turn on any of the
 improvement areas you're interested in. You can get started with the
 improvement by clicking on "Manage," which automatically takes you to
 the right admin console -- in this case, Azure AD -- Conditional Access
-Policies page in the Azure portal. Office 365 Security & Compliance lets
+Policies page in the Azure portal. Microsoft 365 Security & Compliance lets
 you filter alerts and jump into data about specific threats.
 
 ![](https://o365hq.com/images/679.png)
