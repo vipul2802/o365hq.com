@@ -1,6 +1,6 @@
 +++
 title = "Microsoft Cloud Phone System"
-description = "Microsoft phone system is delivered from Microsoft`s trusted cloud to empower enterprises with PBX capacities in the Office 365 suite and help organizations run their businesses seamlessly with an enterprise-grade phone system. Microsoft`s cloud offers enterprises cloud-powered AI with voicemail transcription, inline chat translation and real-time captioning in meetings. "
+description = "Microsoft phone system is delivered from Microsoft`s trusted cloud to empower enterprises with PBX capacities in the Microsoft 365 suite and help organizations run their businesses seamlessly with an enterprise-grade phone system. Microsoft`s cloud offers enterprises cloud-powered AI with voicemail transcription, inline chat translation and real-time captioning in meetings. "
 date = "2020-08-03"
 
 [taxonomies]
@@ -67,6 +67,6 @@ use a phone system as part of E5 or acquire as an add-on.
 
 Microsoft has worked hard to build a subscription service in the cloud
 to help you get rid of expensive equipment at your office location. The
-telephone capabilities in Office 365 help you and your team stay
+telephone capabilities in Microsoft 365 help you and your team stay
 connected from anywhere in the world as long as you have internet
 access.
