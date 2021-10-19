@@ -162,7 +162,7 @@ including a \$3500 Azure Credits offer.
 1.  [Frequently Asked
     Questions](https://www.microsoft.com/en-us/nonprofits/faq)
 2.  [Dynamics 365 resources for
-    nonprofits](https://www.microsoft.com/en-us/nonprofits/dynamics-365)
+    nonprofits](https://www.microsoft.com/en-us/nonprofits/dynamics-365?activetab=pivot1%3aprimaryr3)
     -- Engage with donors and volunteers, connect with beneficiaries,
     and manage finances.
 3.  Check the interactive [Microsoft Teams
