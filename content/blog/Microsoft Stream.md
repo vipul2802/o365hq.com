@@ -10,7 +10,7 @@ tags = ["cloud boost", "microsoft stream"]
 Stream is not only storage for videos --- it enables a more social,
 connected organization by connecting with employees and conveying
 meaningful messages. Its more thorough search capabilities help discover
-the moments in the video that matter most. Integrating with Office 365,
+the moments in the video that matter most. Integrating with Microsoft 365,
 Microsoft Stream gives you an opportunity to bring videos to the apps
 you use the most.
 
@@ -34,8 +34,8 @@ In Stream, groups and channels are used to arrange and give permissions
 to videos.
 
 Groups help manage videos, monitor access, and define owners and members.
-They are based on *Office 365 Groups*. So, if a group exists in Stream,
-a new *Office 365 Group* is also created, giving it an email address,
+They are based on *Microsoft 365 Groups*. So, if a group exists in Stream,
+a new *Microsoft 365 Group* is also created, giving it an email address,
 calendar, etc. Each group also has its own mini video portal, with
 current and new content in the group.
 
@@ -63,7 +63,7 @@ description to it, and identify who will be allowed to see or modify it.\
 *The Details section* allows specifying a name, details, and a language
 to enable automatic closed captioning.
 
-In the *Permissions section*, you may select specific Office 365 groups,
+In the *Permissions section*, you may select specific Microsoft 365 groups,
 channels, or even specific people in the company. The *Options section*
 is for changing settings like face detection, commenting, captioning,
 etc.
@@ -105,7 +105,7 @@ adding comments.
 Stream is all about collaboration. Intuitive video sharing through
 familiar browsers and apps makes it easier for everyone to engage and
 collaborate productively, wherever they are. Team members can easily
-download, view, and share videos right inside Office 365 apps like
+download, view, and share videos right inside Microsoft 365 apps like
 Microsoft Teams, Sway, SharePoint, and Yammer -- all using single
 sign-on. It is possible to play videos right in *Yammer* and use *Teams*
 as a collaboration hub for all activities and projects. Playback in the
