@@ -37,7 +37,7 @@ employ the label right after it has been created and configured.
 
 ![](https://o365hq.com/images/578.png)
 
-Office 365 DLP policies will help you stay relevant and match business 
+Microsoft 365 DLP policies will help you stay relevant and match business 
 standards, keep the data protected, and prevent accidental
 oversharing and leakage. DLP allows you to easily detect
 sensitive data across various locations and control policy violations
@@ -95,10 +95,10 @@ emails. As a result, their mailboxes turn into repositories for large
 amounts of confidential information, and its leakage can become a serious
 threat to your company.
 
-*Office 365 Message Encryption* is used across a variety of services. It
+*Microsoft 365 Message Encryption* is used across a variety of services. It
 enables you to send a secure email to everyone inside and outside the
 company. Recipients can easily read and respond to messages protected by
-Office 365 Message Encryption, regardless of the email provider they use.
+Microsoft 365 Message Encryption, regardless of the email provider they use.
 
 To send a protected message to a Gmail user, you will have to create
 policies that enforce encryption on all email messages sent to external
@@ -120,11 +120,11 @@ read an encrypted message by requesting a one-time key.
 
 ![](https://o365hq.com/images/582.png)
 
-### Prevent sharing of sensitive data with Office 365 Data Loss Prevention
+### Prevent sharing of sensitive data with Microsoft 365 Data Loss Prevention
 
 To stay up to date and follow all the industry rules, companies need to
 keep sensitive data safe. *DLP policy* helps you analyze
-confidential information through Office 365, avoid its inadvertent
+confidential information through Microsoft 365, avoid its inadvertent
 disclosure, and ensure its security in the desktop versions of Excel,
 PowerPoint, and Word.
 
