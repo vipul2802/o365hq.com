@@ -77,7 +77,7 @@ Drilling in, the detailed view of the alert shows the SecOps team what
 services were involved in the alert, as well as what files are
 affected.\
 Here, SecOps can see that the malware in question was introduced via an
-email, and with the deep integration with Office ATP, we can
+email, and with the deep integration with Microsoft ATP, we can
 also get more details on who else in the organization received this
 mail, including *Delivery Actions* (Delivered, Delivered to Junk, or
 Blocked), as well as the *Delivery Location* (Inbox, Junk, or
