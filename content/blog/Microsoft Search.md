@@ -65,7 +65,7 @@ boosts your capacity and delivers search results from your workplace.
 ![](https://o365hq.com/images/672.png)
 
 While at work, you can explore the intelligence of Microsoft Search to
-access information within Office 365. Microsoft Search's results include
+access information within Microsoft 365. Microsoft Search's results include
 local and organizational content. Whether searching for people, office
 locations, or files, you can easily find it all in *Microsoft 365*.
 
