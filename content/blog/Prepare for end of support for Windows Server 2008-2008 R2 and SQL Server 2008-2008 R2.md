@@ -33,7 +33,7 @@ Newer, safer, and higher-performing up-to-date software versions support
 the installation of regular security updates. If you don't have time to
 upgrade to the latest version, transfer your workloads to Azure and
 [renew your security
-updates](https://www.microsoft.com/en-sa/cloud-platform/extended-security-updates)
+updates](https://www.microsoft.com/en-sa/cloud-platform/extended-security-updates/)
 for free for three years. The main advantages of this option include:
 
 -   update at your pace and on your terms
@@ -73,6 +73,6 @@ To calculate the cost of migrating workloads to Azure, send your
 requests to <sales@itpartner365.com>.
 
 You can [extend security
-updates](https://www.microsoft.com/en-sa/cloud-platform/extended-security-updates)
+updates](https://www.microsoft.com/en-sa/cloud-platform/extended-security-updates/)
 only for Windows Server 2008, Windows Server 2008 R2, SQL
 Server 2008, and SQL Server 2008 R2.
