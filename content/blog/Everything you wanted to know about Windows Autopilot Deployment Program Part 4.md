@@ -161,7 +161,7 @@ machines as well.
 
 As usual, the first step is registering the existing devices in your estate,
 and this can be performed using [PowerShell
-script](https://www.powershellgallery.com/packages/Get-WindowsAutoPilotInfo/1.3)
+script](https://www.powershellgallery.com/packages/Get-WindowsAutoPilotInfo/)
 . It should be run on every machine (with Windows 10 or higher), because
 it generates a harbor hash in the form of a CSV file that can
 be uploaded to any one of the portals that we [mentioned
