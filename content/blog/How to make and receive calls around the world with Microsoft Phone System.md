@@ -4,7 +4,7 @@ description = "Microsoft offers enterprise voice capabilities both for internal 
 date = 2019-08-28
 
 [taxonomies]
-tags = ["cloud phone system", "microsoft teams"]
+tags = ["cloud phone system", "microsoft teams", "microsoft 365"]
 +++
 
 Employees' expectations about voice communications are changing. Voice remains a
