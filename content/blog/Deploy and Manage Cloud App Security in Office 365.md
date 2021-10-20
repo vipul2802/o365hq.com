@@ -151,7 +151,7 @@ Information protection is paramount. So once we have the discovery
 and the insights on, if we have some malicious activities or
 a user trying to download data or some other alert, you can apply automatic 
 policies to protect the data or stop the user's
-behaviors; you can use the office DLP policies or Azure
+behaviors; you can use the Microsoft 365 DLP policies or Azure
 information protection policy. This is where you can restrict downloading the
 data from an unprotected device or from a risky network (outside your company 
 network). You can apply the Azure information protection to encrypt the data 
