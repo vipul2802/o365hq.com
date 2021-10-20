@@ -4,7 +4,7 @@ description = "Available today, we are providing up to 10 donated seats and disc
 date = "2020-07-07"
 
 [taxonomies]
-tags = ["nonprofit", "microsoft 365"]
+tags = ["nonprofit", "microsoft 365", "office 365"]
 +++
 
 ## Get Microsoft 365 Business Premium for your Nonprofit Organization. For free!
