@@ -4,7 +4,7 @@ description = "Phone calls continue to be an important part of doing business - 
 date = "2021-02-24"
 
 [taxonomies]
-tags = ["microsoft teams", "microsoft 365"]
+tags = ["microsoft teams"]
 +++
 
 Nowadays most of organizations are adapting to a work from home model, and Microsoft Teams Calling provides you with a secure, first – rate integrated calling solution built on the Microsoft cloud to streamline and modernize your enterprise voice services. With this platform you have everything you need to make and receive phone calls from anywhere – including your desk phone, mobile phone, or computer.
