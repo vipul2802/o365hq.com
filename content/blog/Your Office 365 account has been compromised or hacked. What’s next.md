@@ -1,5 +1,5 @@
 +++
-title = "Your Office 365 account has been compromised or hacked. What’s next?"
+title = "Your Microsoft 365 account has been compromised or hacked. What’s next?"
 description = "One of the most common security support requests from our customers is for assistance with remediating an account compromise. The most common scenario is that a member of their organization became the victim of a phishing scam and the attacker obtained the password for their account. "
 date = 2019-11-01
 
@@ -31,7 +31,7 @@ steal money or information and they use your account to spread
 laterally^[2](#fn11128003305dfd0fba79395-2)^ **INSIDE** and
 **OUTSIDE** of your organization. They start sending hundreds
 of phishing emails to your contacts using your name, and your account gets
-blocked by Office 365 protection mechanisms and that's it. The worst
+blocked by Microsoft 365 protection mechanisms and that's it. The worst
 outcome is when bad actors see some potential to steal something and
 they hide and wait and learn how you and your organization operates over
 the long-term, often measured in months. During that time, they don't make
@@ -47,16 +47,16 @@ So, what's next? {#so-whats-next style="text-align:center;"}
 2.  **Contact your CSP** and let them know about what happened.
     We at **IT Partner** provide a free 24/7 [Security Incident Response
     service](https://buymssoft.com/constructor/services?item=ITPWW220MSPRC)
-    for all our clients who purchase Office 365 subscriptions through
-    us. If you are not our client -- please call anyway, we would be
+    for all our clients who purchase M call anyway, we wouldicrosoft 365 subscriptions through
+    us. If you are not our client -- please be
     happy to help.
 3.  Try to **understand the intentions** of the bad actor(s).
-    1.  Study your Office 365 sign-in logs and security reports. What
+    1.  Study your Microsoft 365 sign-in logs and security reports. What
         services have they accessed? For how long? Using what devices? From
         what locations? Start with [AAD sign-ins
         log](https://portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/AllUsers).
     2.  Did they send any emails? To whom? How many? Go to the [Exchange
-        Online Admin Panel](https://outlook.office365.com/ecp), click
+        Online Admin Panel](https://outlook.office365.com/ecp/), click
         "Message flow", then select the "Message Trace" tab. While in
         EXO Admin Center, also check the Transport Rules and
         Connectors tabs.
@@ -99,7 +99,7 @@ So, what's next? {#so-whats-next style="text-align:center;"}
     Security](https://buymssoft.com/license/CSP-ELIT-00e8ff14e7b2)
     subscription to all or some of your users.
 15. OPTIONAL: Think about subscribing all or some of your users
-    to [Office 365 Advanced Threat Protection Plan
+    to [Microsoft 365 Advanced Threat Protection Plan
     1](https://buymssoft.com/license/CSP-ELIT-0c69e5c76b63).
 16. OPTIONAL: Think about your historic emails and documents
     that are now at the bad actor's disposal. What can they find there? Can
@@ -109,7 +109,7 @@ So, what's next? {#so-whats-next style="text-align:center;"}
 Again, we strongly recommend setting multi-factor authentication (MFA) for
 all users and follow all other prioritized security-related
 recommendations provided by Microsoft Secure Score service, which is a
-free service provided by Microsoft as part of your Office 365
+free service provided by Microsoft as part of your Microsoft 365
 subscription.
 
 These instructions will help you take immediate action to recover
