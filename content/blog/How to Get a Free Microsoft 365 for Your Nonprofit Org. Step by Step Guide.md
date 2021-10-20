@@ -1,6 +1,6 @@
 +++
 title = "How to Get a Free Microsoft 365 for Your Nonprofit Org. Step by Step Guide."
-description = "Available today, we are providing up to 10 donated seats and discounted pricing at $5 per user/month for additional users of our integrated cloud solution Microsoft 365 Business that brings together the best-in-class productivity of Office 365 (including Office desktop applications), Windows Professional, and advanced security and device management capabilities to help nonprofits securely run and grow their organizations."
+description = "Available today, we are providing up to 10 donated seats and discounted pricing at $5 per user/month for additional users of our integrated cloud solution Microsoft 365 Business that brings together the best-in-class productivity of Microsoft 365 (including Office desktop applications), Windows Professional, and advanced security and device management capabilities to help nonprofits securely run and grow their organizations."
 date = "2020-07-07"
 
 [taxonomies]
@@ -15,7 +15,7 @@ purpose-built for small and midsized organizations.
 Available today, we are providing up to 10 donated seats and discounted
 pricing at \$5 per user/month for additional users of our integrated
 cloud solution Microsoft 365 Business that brings together the
-best-in-class productivity of Office 365 (including Office desktop
+best-in-class productivity of Microsoft 365 (including Office desktop
 applications), Windows Professional, and advanced security and device
 management capabilities to help nonprofits securely run and grow their
 organizations. Nonprofits can obtain additional seats for just \$5 per
