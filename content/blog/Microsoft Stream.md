@@ -4,7 +4,7 @@ description = "Video has grown into an essential component of our personal lives
 date = 2019-06-12
 
 [taxonomies]
-tags = ["cloud boost", "microsoft stream"]
+tags = ["cloud boost", "microsoft stream", "microsoft 365"]
 +++
 
 Stream is not only storage for videos --- it enables a more social,
