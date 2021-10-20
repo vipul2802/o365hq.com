@@ -47,9 +47,8 @@ So, what's next? {#so-whats-next style="text-align:center;"}
 2.  **Contact your CSP** and let them know about what happened.
     We at **IT Partner** provide a free 24/7 [Security Incident Response
     service](https://buymssoft.com/constructor/services?item=ITPWW220MSPRC)
-    for all our clients who purchase M call anyway, we wouldicrosoft 365 subscriptions through
-    us. If you are not our client -- please be
-    happy to help.
+    for all our clients who purchase Microsoft 365 subscriptions through us. 
+    If you are not our client -- please, call anyway, we would be happy to help.
 3.  Try to **understand the intentions** of the bad actor(s).
     1.  Study your Microsoft 365 sign-in logs and security reports. What
         services have they accessed? For how long? Using what devices? From
