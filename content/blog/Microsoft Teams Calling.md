@@ -4,7 +4,7 @@ description = "Phone calls continue to be an important part of doing business - 
 date = "2021-02-24"
 
 [taxonomies]
-tags = ["microsoft teams"]
+tags = ["microsoft teams", "microsoft 365"]
 +++
 
 Nowadays most of organizations are adapting to a work from home model, and Microsoft Teams Calling provides you with a secure, first – rate integrated calling solution built on the Microsoft cloud to streamline and modernize your enterprise voice services. With this platform you have everything you need to make and receive phone calls from anywhere – including your desk phone, mobile phone, or computer.
@@ -14,7 +14,7 @@ There are two options to add Voice calling in Microsoft Teams to your Microsoft 
 
 ### 1. Microsoft 365 Business Voice (for organizations with fewer than 300 users).
 
-Business Voice is a modern cloud-based telephony solution that integrates into Office 365. It gives you calling together with chat and meetings in a single app, Microsoft Teams. Business Voice includes a phone system, domestic calling plan, and audio conferencing. It is an add-on subscription for up to 300 users and can’t be used on its own. You can add Microsoft 365 Business Voice plan on top of your Business Basic, Standard or Premium license to provide your business with a phone number to make and receive calls from any number. 
+Business Voice is a modern cloud-based telephony solution that integrates into Microsoft 365. It gives you calling together with chat and meetings in a single app, Microsoft Teams. Business Voice includes a phone system, domestic calling plan, and audio conferencing. It is an add-on subscription for up to 300 users and can’t be used on its own. You can add Microsoft 365 Business Voice plan on top of your Business Basic, Standard or Premium license to provide your business with a phone number to make and receive calls from any number. 
 
 ![Microsoft Teams](/img/1.png)
 
