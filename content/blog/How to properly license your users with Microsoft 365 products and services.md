@@ -4,7 +4,7 @@ description = "Today’s cloud technology empowers companies to reshape their bu
 date = 2021-06-28
 
 [taxonomies]
-tags = ["microsoft 365"]
+tags = ["microsoft 365", "office 365"]
 +++
 
 It is a complete, intelligent solution, including Office 365, Windows 10, and Enterprise Mobility + Security, that allows your team to be creative and collaborate securely.
