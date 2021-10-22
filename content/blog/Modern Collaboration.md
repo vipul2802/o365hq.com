@@ -89,10 +89,10 @@ within the Teams app, where the whole team can see it. Your entire team
 can celebrate every success, communicate appreciation, and foster
 greater comradery.
 
-Teamwork is made easy with Office 365 apps integration into Microsoft
+Teamwork is made easy with Microsoft 365 apps integration into Microsoft
 Teams, enabling you to cooperate with your team members and edit files
--- all from one location. With Office 365 ProPlus, your team can be more
-productive and inclusive as they create, communicate, and collaborate on
-team projects.
+-- all from one location. With Microsoft 365 Apps for enterprise, 
+your team can be more productive and inclusive as they create, communicate, 
+and collaborate on team projects.
 
 ![](https://o365hq.com/images/719.png)
