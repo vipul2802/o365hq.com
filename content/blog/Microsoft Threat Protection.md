@@ -23,7 +23,7 @@ provides actionable recommendations, making the SecOp's day-to-day life
 easier. Microsoft Threat Protection AIR is also designed for
 security readers to have access to the automated investigations as well.
 
-SecOps engineers can use the Office 365 Security & Compliance portal,
+SecOps engineers can use the Microsoft 365 Security & Compliance portal,
 and then navigate to the Alerts dashboard. Microsoft has made it simple
 to navigate to the alert page and examine the alerts directly. The
 Report Message add-in for Outlook and Outlook on the web enables people
@@ -52,8 +52,8 @@ AIR also analyzes the users. If the system identifies a
 malicious URL click associated with the user, you can click
 into the evidence tab to find out more about this user. This will give
 you context about who they are and what's been going on with them
-recently within Office 365. SecOps should follow up with this user and
-investigate further. This integration of Office 365 Advanced Threat
+recently within Microsoft 365. SecOps should follow up with this user and
+investigate further. This integration of Microsoft 365 Advanced Threat
 Protection with MCAS helps provide an organization extensive
 visibility into the threat landscape. This comprehensive protection is a
 key differentiator for Microsoft Threat Protection.
@@ -83,7 +83,7 @@ ATP integration.
 
 SecOps can easily follow up directly with the user who has performed
 some risky user behavior and investigate further, because perhaps this
-action was not the real user at all. This integration of Office 365
+action was not the real user at all. This integration of Microsoft 365
 ATP with MCAS helps provide customers an extensive
 visibility into the threat landscape. This comprehensive, integrated
 protection is a differentiator for MTP.
@@ -107,7 +107,7 @@ behavior.
 ### Zero-hour auto purge investigation
 
 Zero-hour auto purge helps to remove the infected messages from your
-Office 365 mailboxes.
+Microsoft 365 mailboxes.
 
 ![](https://o365hq.com/images/667.png)
 
@@ -141,7 +141,7 @@ Defender ATP AIR has discovered about the incident.
 MTP AIR is deep-linked into Microsoft Defender
 ATP investigations on machines that are Azure AD or Hybrid
 Azure AD joined and enrolled in Microsoft Defender ATP
-services. This takes advantage of the policies based on Office
+services. This takes advantage of the policies based on Microsoft
 ATP alerts and investigations. This "signal/information
 sharing" between Office ATP and Microsoft Defender ATP
 allows this integration to happen, and to happen automatically when a
