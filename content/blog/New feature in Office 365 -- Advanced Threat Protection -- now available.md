@@ -1,6 +1,6 @@
 +++
-title = "New feature in Office 365 -- Advanced Threat Protection -- now available"
-description = "Office 365 Advanced Threat Protection (ATP) includes safe links, safe attachments, spoof intelligence, and advanced anti-phishing capabilities. "
+title = "New feature in Microsoft 365 -- Advanced Threat Protection -- now available"
+description = "Microsoft 365 Advanced Threat Protection (ATP) includes safe links, safe attachments, spoof intelligence, and advanced anti-phishing capabilities. "
 date = 2018-03-01
 
 [taxonomies]
