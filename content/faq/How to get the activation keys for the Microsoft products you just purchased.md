@@ -31,7 +31,7 @@ article ready for just such situations.
 
 Call the Microsoft Licensing Activation Centers worldwide telephone
 numbers to activate your software over the phone. In the US, the toll number
-is (716) 871-2781, and toll-free number is (888) 352-7140. Please check
+is (716) 871-2781, and toll-free number is (888) 352-7140. Please, check
 the [Microsoft Licensing Activation
 Centers](https://www.microsoft.com/en-us/licensing/existing-customer/activation-centers)
 website for worldwide telephone numbers.
