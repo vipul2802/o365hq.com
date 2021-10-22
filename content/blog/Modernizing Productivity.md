@@ -4,7 +4,7 @@ description = "Utilizing OneDrive for Business, SharePoint, and Microsoft Teams 
 date = 2019-06-21
 
 [taxonomies]
-tags = ["microsoft 365", "microsoft teams", "office 365", "sharepoint online"]
+tags = ["microsoft 365", "microsoft teams", "sharepoint online"]
 +++
 
 ![](https://o365hq.com/images/398.png)
