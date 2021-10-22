@@ -12,7 +12,7 @@ tags = ["microsoft 365", "microsoft teams", "office 365", "sharepoint online"]
 ### Enhancing the experience of OneDrive
 
 OneDrive for Business makes it easy to get back to all personal files
-and the shared files in Office 365. When working within the group's
+and the shared files in Microsoft 365. When working within the group's
 files, it is possible to see the metadata for each item. These features
 make it simple for the users to access all their files from one place,
 without having to go and visit multiple sites -- all with a common
@@ -138,7 +138,7 @@ published SharePoint news article in Teams flows into the conversation
 feed. SharePoint News is a great way to connect and engage with others
 within the group by providing relevant and relatable content.
 
-### Office 365 mobile experience
+### Microsoft 365 mobile experience
 
 Staying connected across devices is important because it allows
 employees to be productive while they are outside of the office. With
