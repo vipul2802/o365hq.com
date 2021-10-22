@@ -10,7 +10,7 @@ tags = ["microsoft teams", "office 365"]
 ### What is Microsoft 365?
 
 Microsoft 365 is an integrated solution bringing together the
-best-in-class productivity of Office 365 with advanced security and
+best-in-class productivity of Microsoft 365 with advanced security and
 device management capabilities to help safeguard your business.
 
 ### Where is the value?
@@ -55,7 +55,7 @@ What's inside:
 Microsoft 365 Business was purpose-built for small and medium-sized
 businesses of under 300 users that need a solution that provides their
 employees with the best-in-class productivity and collaboration
-capabilities of Office 365, plus device management and security
+capabilities of Microsoft 365, plus device management and security
 solutions to safeguard business data and assets across devices.
 
 #### Get more done
