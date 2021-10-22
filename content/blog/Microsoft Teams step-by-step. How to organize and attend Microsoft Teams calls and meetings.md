@@ -18,7 +18,7 @@ internet connection and do not support an offline mode.
 ### Get Microsoft Teams client
 
 The Microsoft Teams desktop client is a standalone application and
-currently not part of Office 365 ProPlus. Teams are available for both
+currently not part of Microsoft 365 Apps for enterprise. Teams are available for both
 Windows (7+), both 32-bit and 64-bit versions, and MacOS (10.10+). On
 Windows, Teams requires .NET Framework 4.5 or later; the Teams installer
 will offer to install it for you if you don't have it.
