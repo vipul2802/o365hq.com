@@ -62,7 +62,7 @@ validating access tokens.
 
 AAD B2C authentication is based on JSON Web Tokens
 (JWTs) -- an open standard ([RFC
-7519](https://tools.ietf.org/html/rfc7519) for securely sending
+7519](https://tools.ietf.org/html/rfc7519)) for securely sending
 information between parties inside compact, digitally signed tokens.
 
 ### Do I need to rewrite my applications to use AAD B2C?
