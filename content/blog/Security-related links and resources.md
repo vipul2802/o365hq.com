@@ -73,12 +73,12 @@ Overview of data loss prevention policies ---
 <https://support.office.com/en-us/article/Overview-of-data-loss-prevention-policies-1966b2a7-d1e2-4d92-ab61-42efbb137f5e>\
 Create a DLP policy from a template ---
 [https://support.office.com/en-us/article/Create-a-DLP-policy-from-a-template-59414438-99f5-488b-975c-5023f2254369](https://support.office.com/en-us/article/Create-a-DLP-policy-from-a-template-59414438-99f5-488b-975c-5023f2254369)\
-Encryption in Office 365 ---
+Encryption in Microsoft 365 ---
 <https://support.office.com/en-us/article/Encryption-in-Office-365-0A322724-08CA-43DB-B69A-AFBFA20484CD>
 
 ### Threat Intelligence
 
-Office 365 Threat Intelligence Overview ---
+Microsoft 365 Threat Intelligence Overview ---
 <https://support.office.com/en-us/article/Office-365-Threat-Intelligence-overview-32405DA5-BEE1-4A4B-82E5-8399DF94C512>\
 Office 365 Threat Intelligence ---
 <https://support.office.com/en-us/article/Office-365-Threat-Intelligence-overview-32405DA5-BEE1-4A4B-82E5-8399DF94C512>
