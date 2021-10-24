@@ -4,7 +4,7 @@ description = "Customers are wrestling with the idea of providing a productive e
 date = 2018-07-27
 
 [taxonomies]
-tags = ["microsoft 365"]
+tags = ["microsoft 365", "office 365"]
 +++
 
 Cloud-based IDPs, like Azure Active Directory B2C (AAD
@@ -62,7 +62,7 @@ validating access tokens.
 
 AAD B2C authentication is based on JSON Web Tokens
 (JWTs) -- an open standard ([RFC
-7519](https://tools.ietf.org/html/rfc7519)) for securely sending
+7519](https://datatracker.ietf.org/doc/html/rfc7519)) for securely sending
 information between parties inside compact, digitally signed tokens.
 
 ### Do I need to rewrite my applications to use AAD B2C?
