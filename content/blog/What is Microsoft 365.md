@@ -4,7 +4,7 @@ description = "Customers are wrestling with the idea of providing a productive e
 date = 2018-07-27
 
 [taxonomies]
-tags = ["microsoft 365", "office 365"]
+tags = ["microsoft 365"]
 +++
 
 Cloud-based IDPs, like Azure Active Directory B2C (AAD
