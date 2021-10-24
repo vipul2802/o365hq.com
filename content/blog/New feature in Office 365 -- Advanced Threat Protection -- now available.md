@@ -4,7 +4,7 @@ description = "Microsoft 365 Advanced Threat Protection (ATP) includes safe link
 date = 2018-03-01
 
 [taxonomies]
-tags = ["advanced threat protection", "microsoft 365"]
+tags = ["advanced threat protection", "microsoft 365", "office 365"]
 +++
 
 
