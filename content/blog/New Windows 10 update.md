@@ -12,7 +12,7 @@ What is new?
 **Timeline**\
 The service operates on the basis of the "History of tabs" in browsers
 and stores information about previously opened sites and files. It also
-displays data about tabs from the Edge browser and files from Office
+displays data about tabs from the Edge browser and files from Microsoft
 365, on both Android and iOS devices.
 
 **Focus Assist**\
@@ -49,8 +49,8 @@ ensures that they are compatible with Windows 10 updates.
 **ConfigMgr**\
 In the recently released version of ConfigMgr 1802, it was possible to
 perform step-by-step deployment cycles. This is the next step in
-automating the maintenance of workplaces based on Windows 10 and Office
-365 ProPlus. If the update is deployed to the target group computers
+automating the maintenance of workplaces based on Windows 10 and Microsoft 365 Apps for enterprise.
+If the update is deployed to the target group computers
 without errors, it is automatically launched for the next group of
 employees.
 
