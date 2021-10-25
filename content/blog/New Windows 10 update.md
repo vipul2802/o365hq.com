@@ -4,7 +4,7 @@ description = "Latest major release – the Windows 10 April 2018 Update – Mic
 date = 2018-05-07
 
 [taxonomies]
-tags = ["windows 10", "windows 10 update"]
+tags = ["windows 10"]
 +++
 
 What is new?
