@@ -39,7 +39,7 @@ Bill Burr from NIST, Article on Passwords ---
 Office 365 Advanced Threat Protection ---
 <https://products.office.com/en-us/exchange/online-email-threat-protection>\
 Exchange Online Protection ---
-<https://products.office.com/en-us/exchange/exchange-email-security-spam-protection>
+<https://www.microsoft.com/en-us/microsoft-365/exchange/exchange-email-security-spam-protection>
 
 ### Device Security
 
