@@ -4,7 +4,7 @@ description = "Microsoft will not take any active measures to block older Office
 date = "2020-07-17"
 
 [taxonomies]
-tags = ["microsoft 365"]
+tags = ["microsoft 365", "office 365"]
 +++
 
 Customers will face an increased security risk, and may find themselves
