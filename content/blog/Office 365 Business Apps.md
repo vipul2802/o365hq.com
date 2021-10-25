@@ -1,10 +1,10 @@
 +++
-title = "Office 365 Business Apps"
-description = "Office 365 business apps allow you to control many of the background operations at your business. With Microsoft Invoicing you can take care of all your online payments. Microsoft Bookings will help you schedule appointments online. Outlook Customer Manager makes it easy to enhance customer relationships. And finally, MileIQ provides you with the opportunity to claim reimbursement of business miles."
+title = "Microsoft 365 Business Apps"
+description = "Microsoft 365 business apps allow you to control many of the background operations at your business. With Microsoft Invoicing you can take care of all your online payments. Microsoft Bookings will help you schedule appointments online. Outlook Customer Manager makes it easy to enhance customer relationships. And finally, MileIQ provides you with the opportunity to claim reimbursement of business miles."
 date = 2019-09-10
 
 [taxonomies]
-tags = ["office 365 business apps"]
+tags = ["microsoft 365 business apps"]
 +++
 
 ### Outlook Customer Manager
