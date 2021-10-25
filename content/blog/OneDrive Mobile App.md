@@ -1,6 +1,6 @@
 +++
 title = "OneDrive Mobile App"
-description = "OneDrive for Business and Office 365 enable employees to retain, share, and sync their files from any device. With OneDrive for Business it is simple to work with data within Office 365. In the top toolbar, users can download the file, move it to another location, and more. In the Information pane, you can see recent activity for the file, and view and manage sharing directly from that pane."
+description = "OneDrive for Business and Microsoft 365 enable employees to retain, share, and sync their files from any device. With OneDrive for Business it is simple to work with data within Microsoft 365. In the top toolbar, users can download the file, move it to another location, and more. In the Information pane, you can see recent activity for the file, and view and manage sharing directly from that pane."
 date = 2019-08-14
 
 [taxonomies]
@@ -42,7 +42,7 @@ resulting image formatted nicely into a PDF file that can be
 subsequently uploaded to a OneDrive for Business folder. You might
 consider using this capability with business travel receipts or forms
 that need to be printed and signed. Now, you can share it with others
-from within your secure and reliable Office 365 environment.
+from within your secure and reliable Microsoft 365 environment.
 
 ![](https://o365hq.com/images/487.png)
 
