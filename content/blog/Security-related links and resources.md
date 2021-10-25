@@ -20,10 +20,6 @@ tags = ["cloud security", "security links"]
 
 <https://www.microsoft.com/en-us/trustcenter>
 
-### Office 365 Trust Center
-
-<https://products.office.com/en-us/business/office-365-trust-center-welcome?legRedir=true&CorrelationId=34ec3526-2ff1-4d63-b72f-d8dd8b76bba8>
-
 ### Microsoft Tech community
 
 <https://techcommunity.microsoft.com/>
