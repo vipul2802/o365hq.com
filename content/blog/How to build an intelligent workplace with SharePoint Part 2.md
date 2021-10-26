@@ -60,8 +60,8 @@ Service](https://provisioning.sharepointpnp.com/) . It allows you to simply
 deploy samples and solutions and customize them to meet your needs. We
 encourage you to check it out!
 
-The world of 3D is transforming perception with [SharePoint
-spaces](https://www.exploresharepointspaces.com) . It empowers users to
+The world of 3D is transforming perception with SharePoint
+spaces. It empowers users to
 create a mixed reality experience within the intranet on any device. Employees
 can interact with content in real time, viewing it from different angles
 and manipulating the models. It's pretty impressive, and may be
