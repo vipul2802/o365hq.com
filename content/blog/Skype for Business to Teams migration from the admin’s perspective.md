@@ -116,7 +116,7 @@ your situation, the users may be upgraded selectively or downgraded for
 whatever reason.
 
 The second track presumes Microsoft automatically migrating the whole
-Office 365 tenant at once. This track is intended for purely online small
+Microsoft 365 tenant at once. This track is intended for purely online small
 organizations with limited IT resources. As a first step, Microsoft
 provides advance notice (typically 30-60 days) sent through the Message
 Center, email, and Admin UI, and followed by multiple reminders. Before
