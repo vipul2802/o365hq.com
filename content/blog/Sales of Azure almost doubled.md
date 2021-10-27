@@ -4,7 +4,7 @@ description = "Quarterly Microsoft revenue surpasses analysts’ expectations du
 date = 2018-04-27
 
 [taxonomies]
-tags = ["azure"]
+tags = ["azure", "microsoft 365"]
 +++
 
 Microsoft Corp. on Thursday topped Wall Street forecasts for quarterly
