@@ -1,6 +1,6 @@
 +++
 title = "SharePoint Sites and Portals"
-description = "Office 365 Communication sites allow companies to share their news with everyone by supporting broadcasting a message, telling a story, or disseminating content to a corporate audience. By means of SharePoint hub sites, companies can consolidate, prioritize, and share information across multiple sites."
+description = "Microsoft 365 Communication sites allow companies to share their news with everyone by supporting broadcasting a message, telling a story, or disseminating content to a corporate audience. By means of SharePoint hub sites, companies can consolidate, prioritize, and share information across multiple sites."
 date = 2019-06-26
 
 [taxonomies]
@@ -20,7 +20,7 @@ parts and customizing them allows organizations to plan the site to suit
 their needs and set it up as their own.
 
 Employees receive the most recent news right in their SharePoint in
-Office 365 or SharePoint mobile app. The news from "organizational news
+Microsoft 365 or SharePoint mobile app. The news from "organizational news
 source" sites will appear right at the top of one's view. The unique
 hub provides extra capacities, such as attaching the newest items, an
 updated layout, and ongoing support. It is not necessary to create
@@ -71,7 +71,7 @@ with smooth navigation between associated sites.
 
 ### Create organization news
 
-Office 365 allows access to many different sites, Teams, hubs,
+Microsoft 365 allows access to many different sites, Teams, hubs,
 communications, and news sources, and enables creating and publishing items
 right from a company news site. When building a News article and sending
 an email message to the team, you can include images in the banner and
