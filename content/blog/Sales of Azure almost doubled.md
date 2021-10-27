@@ -9,7 +9,7 @@ tags = ["azure"]
 
 Microsoft Corp. on Thursday topped Wall Street forecasts for quarterly
 profit as the technology company signed up more businesses to its Azure
-cloud computing services and Office 365.
+cloud computing services and Microsoft 365.
 
 Azure's growth has propelled Microsoft to the No. 2 position in the
 \$15.6 billion cloud computing market, with a 14 percent share, behind
@@ -33,7 +33,7 @@ AWS's 32 percent, research firm Canalys estimated in February.
     14% of the cloud computing market, behind only Amazon Web Services
     with a 32% share.
 -   Productivity and Business Processes, which includes office suite
-    Office 365, grew 17% to \$ 9 billion.
+    Microsoft 365, grew 17% to \$ 9 billion.
 -   Sales of Windows, Xbox, and Surface increased by 13%, to \$ 9.9
     billion.
 
