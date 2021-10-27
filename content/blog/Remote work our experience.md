@@ -26,7 +26,7 @@ your remote work and stay both productive and creative.
 5.  In remote work, there is a lure to start working without getting out
     of bed. This idea is bad. You should have a quiet working zone. It's
     hard to craft, but it really matters.
-6.  Save files to the cloud so you can coauthor within the Office 365
+6.  Save files to the cloud so you can coauthor within the Microsoft 365
     suite of products. Users should save individual documents and drafts
     in OneDrive, where files are private by default but can be shared.
     They should save shared documents to the Teams or SharePoint sites
