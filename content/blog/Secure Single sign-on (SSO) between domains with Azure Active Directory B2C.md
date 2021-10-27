@@ -23,10 +23,10 @@ increased 13% (up 10% in constant currency), with the following business
 highlights:
 
 -   Office commercial products and cloud services revenue increased 10%
-    (up 8% in constant currency) driven by Office 365 commercial revenue
+    (up 8% in constant currency) driven by Microsoft 365 commercial revenue
     growth of 38% (up 35% in constant currency)
 -   Office consumer products and cloud services revenue increased 8% (up
-    6% in constant currency) and Office 365 consumer subscribers
+    6% in constant currency) and Microsoft 365 consumer subscribers
     increased to 31.4 million
 -   LinkedIn revenue increased 37% (up 34% in constant currency) with
     continued acceleration in engagement highlighted by LinkedIn
