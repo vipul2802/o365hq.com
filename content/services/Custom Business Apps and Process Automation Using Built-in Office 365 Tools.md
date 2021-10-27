@@ -30,7 +30,7 @@ In this solution, we are able to use Microsoft services such as:
 1.  [PowerApps](https://powerapps.microsoft.com/)
 2.  [Flow ](https://flow.microsoft.com)
 3.  [SharePoint
-    Online ](https://products.office.com/en-US/sharepoint/sharepoint-online-collaboration-software)
+    Online ](https://www.microsoft.com/en-US/microsoft-365/sharepoint/compare-sharepoint-plans)
 4.  [Exchange
     Online ](https://products.office.com/en-US/exchange/exchange-online)
 5.  [Dynamics 365 ](https://dynamics.microsoft.com/)
