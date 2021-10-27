@@ -4,7 +4,7 @@ description = "Below you will see a list of security-related links."
 date = 2018-11-30
 
 [taxonomies]
-tags = ["cloud security", "security links"]
+tags = ["cloud security", "security links", "microsoft 365"]
 +++
 
 ### Immersion Registration Page
