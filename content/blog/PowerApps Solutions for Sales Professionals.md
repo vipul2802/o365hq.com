@@ -4,7 +4,7 @@ description = "Microsoft PowerApp helps users build a solution that manages prod
 date = 2019-09-16
 
 [taxonomies]
-tags = ["microsoft 365", "microsoft 365 business apps", "office 365"]
+tags = ["microsoft 365", "microsoft 365 business apps", "office 365", "office 365 business apps"]
 +++
 
 If you are a sales representative and you spend most of your day on the
