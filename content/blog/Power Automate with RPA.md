@@ -4,7 +4,7 @@ description = "All enterprises are embracing the importance of using data to dri
 date = 2020-04-14
 
 [taxonomies]
-tags = ["office 365 business apps", "powerapps"]
+tags = ["microsoft 365 business apps", "microsoft 365", "powerapps"]
 +++
 
 Microsoft is integrating AI, Machine Learning, and Robotic Process
