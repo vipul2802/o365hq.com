@@ -4,7 +4,7 @@ description = "Microsoft PowerApp helps users build a solution that manages prod
 date = 2019-09-16
 
 [taxonomies]
-tags = ["office 365", "office 365 business apps"]
+tags = ["microsoft 365", "microsoft 365 business apps", "office 365"]
 +++
 
 If you are a sales representative and you spend most of your day on the
@@ -53,7 +53,7 @@ customer knows who they are working with.
 
 The Sales Buddy app has proven to be the best way to manage your product
 and customer information. You have data from multiple sources right at
-your fingertips -- Dynamics 365 and Office 365 -- empowering you to do
+your fingertips -- Dynamics 365 and Microsoft 365 -- empowering you to do
 your job more efficiently, all from the sales floor.
 
 ![](https://o365hq.com/images/517.png)
@@ -68,7 +68,7 @@ process.
 PowerApps has built-in connections to a wide variety of data sources.
 These connection options ensure that users can build apps against data
 that already exists within their organization. The Sales Buddy app is
-connected to Dynamics 365 and Office 365.
+connected to Dynamics 365 and Microsoft 365.
 
 ![](https://o365hq.com/images/515.png)
 
