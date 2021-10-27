@@ -16,7 +16,7 @@ of companies.
 
 BC comprises financials, sales, services and operations, project
 accounting, and HR; it streamlines processes and provides AI insights for
-smarter decision-making. On top of this -- it is integrated with Office
+smarter decision-making. On top of this -- it is integrated with Microsoft
 365. Now your data from BC can travel to Office apps and back with no
 boundaries -- this is a fantastic experience.
 

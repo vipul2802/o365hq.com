@@ -4,7 +4,7 @@ description = "Phone System is the Microsoft technology for enabling call contro
 date = 2019-07-25
 
 [taxonomies]
-tags = ["microsoft 365", "office 365", "phone system"]
+tags = ["microsoft 365", "phone system"]
 +++
 
 Starting August 1, 2019 Phone System

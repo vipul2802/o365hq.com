@@ -4,7 +4,7 @@ description = "When people ask us about remote work, we tell them our team and I
 date = 2020-03-19
 
 [taxonomies]
-tags = ["office 365"]
+tags = ["office 365", "microsoft 365"]
 +++
 
 ### User identity and access
