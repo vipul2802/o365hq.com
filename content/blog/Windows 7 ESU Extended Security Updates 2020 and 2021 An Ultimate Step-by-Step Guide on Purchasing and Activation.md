@@ -92,7 +92,7 @@ activation process.
     2021](https://buymssoft.com/license/CSP-DG7GMGF0FL73-0003) -- Year
     2, you must own the same number of Year 1 licenses!
 
-Office 365 / Azure AD tenant name will be required to place an order for
+Microsoft 365 / Azure AD tenant name will be required to place an order for
 ESU licenses. It's ok if you don't have one. We will register a tenant
 for you. It's free and with no strings attached. If you have a tenant
 and want to use it -- make sure you complete a questionnaire after you
