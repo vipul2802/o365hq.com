@@ -125,7 +125,7 @@ important information is only accessible by those who are authorized to
 receive and view the information and that critical data is not
 accidentally released or deleted. Policies can be customized and
 leveraged to automatically secure data according to compliance laws.
-Policies can be applied across Microsoft Office 365, Teams, Exchange
+Policies can be applied across Microsoft 365, Teams, Exchange
 Online, and SharePoint.
 
 ![](https://o365hq.com/images/743.png)
