@@ -196,7 +196,7 @@ it is appropriate. There are solutions within Microsoft 365 to help you
 manage your own data subject requests for the data that's located within
 the Microsoft 365 environment, and a similar sort of software in Azure
 and Dynamics that allow you to process requests for identities or
-customer records (possibly stored in Dynamics). Within the Office 365
+customer records (possibly stored in Dynamics). Within the Microsoft 365
 environment, you can search across Exchange Online, SharePoint Online,
 OneDrive for Business (including Teams and Groups) and public folders.
 There are over 80 supported sensitive data types, but a
