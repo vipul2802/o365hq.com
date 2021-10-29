@@ -10,7 +10,7 @@ tags = ["advanced threat protection", "modern security", "security"]
 ![](https://o365hq.com/images/637.jpg)
 
 Your sensitive data is being exploited by some sort of phishing attack
-all the time. Office 365 Advanced Threat Protection continuously
+all the time. Microsoft Defender for Office 365 continuously
 identifies tons of various malicious URLs and email attachments
 and prevents them from reaching your mailboxes. Microsoft Threat
 Protection offers high-quality assistance to keep your business and
@@ -45,11 +45,11 @@ URLs redirecting to an attacker-controlled server that detects
 information based on the recipient's email address and then gathers
 data specific to that organization.
 
-### Office 365 ATP
+### Microsoft Defender for Office 365
 
 Spoofing emails are very stealthy, and as long as cybercriminals stay
 undetected, they can easily trick employees into revealing confidential
-company data. Office 365 ATP is a great way to defend your
+company data. Microsoft Defender for Office 365 is a great way to defend your
 users from malicious phishing scams at the early stages of campaigns. It
 offers protection solutions and advanced security technologies that
 block all the phishing attempts in real time.
