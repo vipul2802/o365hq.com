@@ -9,7 +9,7 @@ tags = ["cloud security", "security links", "microsoft 365"]
 
 ### Immersion Registration Page
 
-<http://aka.ms/cieonline>
+<https://www.microsoft.com/en-us/immersion/>
 
 ### Microsoft 365 Documentation for IT
 
