@@ -4,7 +4,7 @@ description = "In July 2019 Microsoft announced its plans to retire Skype for Bu
 date = 2021-06-01
 
 [taxonomies]
-tags = ["microsoft teams", "migration"]
+tags = ["microsoft teams", "migration", "microsoft 365"]
 +++
 
 Companies had two years to upgrade and move to Microsoft Teams, the hub for team collaboration in Microsoft 365. After Skype for Business Online retires on July 31, 2021, the service will no longer be accessible. Third-party audio-conferencing providers will also stop working. We strongly recommend that you start planning your upgrade today, so you will have enough time to finish it prior to the retirement date.
