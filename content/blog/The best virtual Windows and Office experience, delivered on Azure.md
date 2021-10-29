@@ -1,6 +1,6 @@
 +++
 title = "The best virtual Windows and Office experience, delivered on Azure"
-description = "Windows Virtual Desktop is a comprehensive desktop and app virtualization service running in the cloud. It’s the only virtual desktop infrastructure (VDI) that delivers simplified management, multi-session Windows 10, optimizations for Office 365 ProPlus, and support for Remote Desktop Services (RDS) environments. Deploy and scale your Windows desktops and apps on Azure in minutes and get built-in security and compliance features."
+description = "Windows Virtual Desktop is a comprehensive desktop and app virtualization service running in the cloud. It’s the only virtual desktop infrastructure (VDI) that delivers simplified management, multi-session Windows 10, optimizations for Microsoft 365 Apps for enterprise, and support for Remote Desktop Services (RDS) environments. Deploy and scale your Windows desktops and apps on Azure in minutes and get built-in security and compliance features."
 date = 2020-04-30
 
 [taxonomies]
@@ -11,7 +11,7 @@ tags = ["microsoft azure", "windows virtual desktop"]
 
 1.  Multi-session Windows 10 that delivers the cost advantages of
     server-based virtualization
-2.  The best service to virtualize Office 365 ProPlus running in
+2.  The best service to virtualize Microsoft 365 Apps for enterprise running in
     multi-user virtual scenarios
 3.  The only service to provide Windows 7 virtual desktop with free
     Extended Security Updates, giving you more options to support legacy
@@ -34,7 +34,7 @@ CAL licenses. Finally, labor savings are realized by the shift
 from IaaS to PaaS, removing the need to manage core services like
 broker/gateway/web access, etc., reducing management overhead.
 
-Deliver the best Office 365 ProPlus experience in a multi-session
+Deliver the best Microsoft 365 Apps for enterprise experience in a multi-session
 environment to your users. New Container technology enables fast load
 times and provides a performance experience for Outlook, OneDrive,
 Cortana, Search, and Skype. Create persistent and non-persistent
