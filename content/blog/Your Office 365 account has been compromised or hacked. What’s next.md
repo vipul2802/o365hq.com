@@ -4,7 +4,7 @@ description = "One of the most common security support requests from our custome
 date = 2019-11-01
 
 [taxonomies]
-tags = ["cloud app security", "cloud security", "security"]
+tags = ["cloud app security", "cloud security", "security", "microsoft 365"]
 +++
 
 So, that happened... One way or another, your credentials leaked outside
@@ -98,7 +98,7 @@ So, what's next? {#so-whats-next style="text-align:center;"}
     Security](https://buymssoft.com/license/CSP-ELIT-00e8ff14e7b2)
     subscription to all or some of your users.
 15. OPTIONAL: Think about subscribing all or some of your users
-    to [Microsoft 365 Advanced Threat Protection Plan
+    to [Microsoft Defender for Office 365 Plan
     1](https://buymssoft.com/license/CSP-ELIT-0c69e5c76b63).
 16. OPTIONAL: Think about your historic emails and documents
     that are now at the bad actor's disposal. What can they find there? Can
