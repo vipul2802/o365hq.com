@@ -64,8 +64,7 @@ UWP App.
 
 Intune allows administrators to easily assign and push apps to users and
 devices. It stays in sync with the added apps, and you can then manage
-automated application deployment. Microsoft allows you to deploy Office
-365 ProPlus apps to Windows 10 devices with Microsoft Intune. This helps
+automated application deployment. Microsoft allows you to deploy Microsoft 365 Apps for enterprise to Windows 10 devices with Microsoft Intune. This helps
 employees turn their devices into productivity powerhouses, while Azure
 AD and Intune help register the device and deploy all the necessary
 updates and changes.
