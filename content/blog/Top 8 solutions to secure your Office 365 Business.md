@@ -1,5 +1,5 @@
 +++
-title = "Top 8 solutions to secure your Office 365 Business"
+title = "Top 8 solutions to secure your Microsoft 365 Business"
 description = "Online security is given a lot of attention lately, with high-profile hacks and cyberattacks all over the world. Big enterprises are spending more than ever to guarantee reasonable cybersecurity, since the stakes of a breach are very high. But small and medium-sized businesses are often becoming targets of cybercriminals too. "
 date = 2019-01-10
 
@@ -7,9 +7,9 @@ date = 2019-01-10
 tags = ["advanced threat protection", "cloud security", "microsoft 365", "office 365 tenant"]
 +++
 
-Office 365 Business is a great and affordable solution not only to
+Microsoft 365 Business is a great and affordable solution not only to
 increase productivity, but to enhance security as well. Here are simple
-steps that will help organizations using Office 365 Business plan to
+steps that will help organizations using Microsoft 365 Business plan to
 stay on the safe side.
 
 ### Training users (employees)
@@ -42,7 +42,7 @@ threats and gives recommendations on how to improve the situation and
 get a better score. You can choose which recommendations to follow at
 what time, so it's very flexible and depends on the company's needs.
 
-If you want to know more about how to find and fix risks in Office 365 with
+If you want to know more about how to find and fix risks in Microsoft 365 with
 Secure Score, please [see
 here.](https://social.technet.microsoft.com/wiki/contents/articles/36430.office-365-secure-score-find-and-fix-risks-in-office-365.aspx)
 
@@ -56,7 +56,7 @@ layer of defense will still protect the account, because it uses:
 
 -   something you have (like your smartphone) or something you are
     (like your face or fingerprint).\
-    If your company is using Office 365, then MFA is already
+    If your company is using Microsoft 365, then MFA is already
     there. At the same time, if you make security hard, people will work
     around it, so MFA should be implemented with the right
     model. It is possible to start with a couple of employees and [set
@@ -91,13 +91,13 @@ account should be:
 
 ### Protect against spam and malware
 
-Office 365 already has built-in malware and spam filters, but there's no
+Microsoft 365 already has built-in malware and spam filters, but there's no
 limit to perfection, and you can additionally:
 
 -   set an anti-malware policy that will block attachments most often used
     by hackers. To do this, follow the instructions in the picture below
 -   fine-tune your Exchange Online or EOP (already included in
-    Office 365 Business Essentials and Business Premium plans) to make
+    Microsoft 365 Business Basic and Business Premium plans) to make
     your organization an unassailable fortress for malware and spam
     attacks. See here if you want to learn more. It might be a little
     tricky, so [don't hesitate to reach out.](o365hq.com/services/free-office-365-security-assessment-service)
@@ -144,7 +144,7 @@ identifying suspicious behavior and possibly showing that an account was
 compromised. So if you want to keep up with various mailbox activities,
 you will need to [enable mailbox
 auditing](https://docs.microsoft.com/en-us/office365/securitycompliance/enable-mailbox-auditing)
-in Office 365 and get the full picture.
+in Microsoft 365 and get the full picture.
 
 ![](https://o365hq.com/images/197.png)
 
