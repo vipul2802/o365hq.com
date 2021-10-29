@@ -51,7 +51,7 @@ Teams!
 ![](https://o365hq.com/images/696.png)
 
 This process is streamlined and automated once a group member is added
-to a specific group and a user profile is created within Office 365. A
+to a specific group and a user profile is created within Microsoft 365. A
 prepopulated message is then posted within the team's conversations,
 alerting everyone on the team.
 
