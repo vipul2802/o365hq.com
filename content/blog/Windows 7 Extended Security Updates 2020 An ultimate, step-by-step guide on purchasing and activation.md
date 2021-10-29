@@ -5,7 +5,7 @@ date = 2020-01-10
 draft = true
 
 [taxonomies]
-tags = ["howto", "windows 10 update"]
+tags = ["howto", "windows 10 update", "windows 10"]
 +++
 
 We will help you get those elusive and hard-to-find Windows 7 Extended
