@@ -13,8 +13,8 @@ announce the acquisition of FSLogix.
 
 In September 2018, Microsoft announced Windows Virtual Desktop --
 a Microsoft 365 service that empowers customers to run a modern desktop 
-experience on Azure. Office 365 ProPlus is already the best Office experience. 
+experience on Azure. Microsoft 365 Apps for enterprise is already the best Office experience. 
 With the FSLogix acquisition, customers will benefit from the faster load times for user
-profiles in Outlook and OneDrive, enabling Office 365 ProPlus to deliver
+profiles in Outlook and OneDrive, enabling Microsoft 365 Apps for enterprise to deliver
 even higher performance in multiuser virtual environments (including
 Windows Virtual Desktop).
