@@ -1,6 +1,6 @@
 +++
 title = "What is Windows Virtual Desktop?"
-description = "Windows Virtual Desktop is the only service that delivers simplified management, a multi-session Windows 10 experience, optimizations for Office 365 ProPlus, and support for Windows Server Remote Desktop Services (RDS) desktops and apps. With Windows Virtual Desktop, you can deploy and scale your Windows desktops and apps on Azure in minutes."
+description = "Windows Virtual Desktop is the only service that delivers simplified management, a multi-session Windows 10 experience, optimizations for Microsoft 365 Apps for enterprise, and support for Windows Server Remote Desktop Services (RDS) desktops and apps. With Windows Virtual Desktop, you can deploy and scale your Windows desktops and apps on Azure in minutes."
 date = 2020-02-24
 
 [taxonomies]
@@ -16,7 +16,7 @@ Key opportunities include:
 
 -   Set up a multi-session Windows 10 deployment that delivers a full
     Windows 10 experience with scalability
--   Virtualize Office 365 ProPlus and optimize it to run in multi-user
+-   Virtualize Microsoft 365 Apps for enterprise and optimize it to run in multi-user
     virtual scenarios
 -   Provide Windows 7 virtual desktops with free Extended Security
     Updates
