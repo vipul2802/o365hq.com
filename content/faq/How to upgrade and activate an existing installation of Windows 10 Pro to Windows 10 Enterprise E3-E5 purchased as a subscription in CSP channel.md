@@ -38,7 +38,7 @@ information is correct, and click Join.
 
 ![](https://o365hq.com/images/168.png)
 
-After the reboot, select "Other User" and enter your account in Office
+After the reboot, select "Other User" and enter your account in Microsoft
 365.
 
 ![](https://o365hq.com/images/170.png)
