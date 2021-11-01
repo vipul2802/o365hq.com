@@ -4,7 +4,7 @@ description = "Information rights management is a technology that allows you to 
 date = 2019-12-16
 
 [taxonomies]
-products = ["Office 365"]
+products = ["Office 365", "microsoft 365"]
 types = ["Implementation"]
 
 [extra]
@@ -66,7 +66,7 @@ provided for an additional fee. 
 ### Prerequisites
 
 1.  Office 365 E3 and newer or Azure Information Protection P1/P2
-2.  Administrative access to your Office 365 Tenant
+2.  Administrative access to your Microsoft 365 Tenant
 
 ### Plan
 
