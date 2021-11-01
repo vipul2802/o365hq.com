@@ -4,7 +4,7 @@ description = "Education is some of the most important work in the world. Micros
 date = "2020-12-21"
 
 [taxonomies]
-tags = ["microsoft 365", "microsoft teams"]
+tags = ["microsoft 365", "microsoft teams", "office 365"]
 +++
 
 ### Welcome to Microsoft Public Cloud
