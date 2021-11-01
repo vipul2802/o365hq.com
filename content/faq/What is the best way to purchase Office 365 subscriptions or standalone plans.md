@@ -1,13 +1,13 @@
 +++
-title = "What is the best way to purchase Office 365 subscriptions or standalone plans?"
-description = "What is the best way to purchase Office 365 subscriptions or standalone plans?"
+title = "What is the best way to purchase Microsoft 365 subscriptions or standalone plans?"
+description = "What is the best way to purchase Microsoft 365 subscriptions or standalone plans?"
 date = 2018-06-22
 
 [taxonomies]
-tags = ["office 365"]
+tags = ["office 365", "microsoft 365"]
 +++
 
-You can purchase your Office 365 subscription in a few different ways
+You can purchase your Microsoft 365 subscription in a few different ways
 (or channels):\
 
 1.  Through the Cloud Solution Provider (CSP) program. Best for
