@@ -23,6 +23,6 @@ Enter your password and click Next
 Well done! This completes Windows 10 device setup.
 
 The first time you sign in, you will be prompted to log in to your
-Office 365 account.
+Microsoft 365 account.
 
 ![](https://o365hq.com/images/161.png)
