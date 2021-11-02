@@ -70,7 +70,7 @@ employees and make it more effective. We will:
 
 ### Prerequisites 
 
-1.  You must have the appropriate Office 365 subscription or should be
+1.  You must have the appropriate Microsoft 365 subscription or should be
     prepared to purchase it
 
 ### Additional cost items not provided by the project
