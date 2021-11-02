@@ -4,7 +4,7 @@ description = "Microsoft Cloud App Security is a comprehensive solution for prov
 date = 2019-06-28
 
 [taxonomies]
-products = ["Office 365"]
+products = ["Office 365", "microsoft 365"]
 types = ["Security and Protection"]
 
 [extra]
@@ -102,7 +102,7 @@ provided for an additional fee. 
 
 ### Prerequisites
 
-1.  Office 365 tenant and Microsoft Cloud App Security service. Either
+1.  Microsoft 365 tenant and Microsoft Cloud App Security service. Either
     customer production Office 365 tenant with CAS (through E5
     license) or trial Office 365 tenant and CAS trial (for up
     to 30 days)
