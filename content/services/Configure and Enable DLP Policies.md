@@ -4,7 +4,7 @@ description = "DLP-system (Data Leak Prevention) is a specialized software that 
 date = 2019-12-16
 
 [taxonomies]
-products = ["Office 365"]
+products = ["Office 365", "microsoft 365]
 types = ["Security and Protection"]
 
 [extra]
@@ -66,7 +66,7 @@ provided for an additional fee. 
 
 ### Prerequisites
 
-Office 365 subscription with one of the following services:\
+Microsoft 365 subscription with one of the following services:\
 -Exchange Online\
 -Sharepoint Online\
 -Microsoft Teams
