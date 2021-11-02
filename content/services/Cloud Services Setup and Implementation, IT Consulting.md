@@ -1,10 +1,10 @@
 +++
 title = "Cloud Services Setup and Implementation, IT Consulting"
-description = "This service is about helping you start using Office 365 cloud services. "
+description = "This service is about helping you start using Microsoft 365 cloud services. "
 date = 2019-06-20
 
 [taxonomies]
-products = ["Office 365"]
+products = ["Office 365", "microsoft 365"]
 types = ["Consulting"]
 
 [extra]
@@ -15,7 +15,7 @@ manager = "Roman Sotnik"
 +++
 
 The **IT Partner** team has extensive experience in setting up and
-implementing migrations to various **Office 365** services.
+implementing migrations to various **Microsoft 365** services.
 We are ready to listen to you, to understand your goals and objectives,
 answer any of your questions, and prepare recommendations on what
 products might suit you and how to best use them. We'll help you discover 

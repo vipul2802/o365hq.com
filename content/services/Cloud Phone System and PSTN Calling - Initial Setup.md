@@ -1,6 +1,6 @@
 +++
 title = "Cloud Phone System and PSTN Calling - Initial Setup"
-description = "We will help you deploy, configure, and set up the Cloud Phone System & Enterprise Voice in Office 365. This will allow a Teams user to place and receive PSTN (Public Switched Telephone Network) calls and have access to PBX features. The Cloud Phone System allows you to replace your existing PBX system with a set of features delivered from Office 365 and tightly integrated into your organization's cloud experience."
+description = "We will help you deploy, configure, and set up the Cloud Phone System & Enterprise Voice in Microsoft 365. This will allow a Teams user to place and receive PSTN (Public Switched Telephone Network) calls and have access to PBX features. The Cloud Phone System allows you to replace your existing PBX system with a set of features delivered from Office 365 and tightly integrated into your organization's cloud experience."
 date = 2018-02-02
 
 [taxonomies]
@@ -15,11 +15,11 @@ manager = "Mike Mackey"
 +++
 
 The Cloud Phone System is the Microsoft technology for enabling call control
-and PBX capabilities in the Office 365 cloud with Microsoft
+and PBX capabilities in the Microsoft 365 cloud with Microsoft
 Teams clients. (Please note that Skype for Business clients, while still supported by
 Microsoft, are outside of the scope of this service.) The Cloud Phone System
 allows you to replace your existing PBX system with a set of
-features delivered from Office 365 and tightly integrated into your
+features delivered from Microsoft 365 and tightly integrated into your
 organization's cloud experience.
 
 With the Phone System, your users can use Skype for Business Online and
@@ -50,14 +50,14 @@ The project provides enterprise voice functionality to Teams in Office
 -   Basic call policy
 -   Etc.
 
-Our **objective** is to set up the Office 365 calling service for your
+Our **objective** is to set up the Microsoft 365 calling service for your
 business.
 
 ### IT Partner responsibilities
 
 1.  Assign the correct licenses for Phone System service
 2.  Assist with porting your old numbers
-3.  Assign telephone numbers to your Office 365 users
+3.  Assign telephone numbers to your Microsoft 365 users
 4.  Set emergency locations and assign numbers and emergency locations
     to users
 5.  Configure Cloud PBX voice and voicemail services (Auto
@@ -94,9 +94,9 @@ business.
 
 ### Prerequisites
 
-You must have Office 365 tenant with Cloud PBX and
+You must have Microsoft 365 tenant with Cloud PBX and
 PSTN licenses
 
 ### Results
 
-Working modern calling service based on Office 365
+Working modern calling service based on Microsoft 365
