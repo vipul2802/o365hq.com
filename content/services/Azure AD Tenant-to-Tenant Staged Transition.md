@@ -1,6 +1,6 @@
 +++
 title = "Azure AD Tenant-to-Tenant Staged Transition"
-description = "Azure Active Directory migration from one Office 365 tenant to another. Usually, you will need this type of migration when a company merges or acquires another company, or you would like to migrate to a different geographic region."
+description = "Azure Active Directory migration from one Microsoft 365 tenant to another. Usually, you will need this type of migration when a company merges or acquires another company, or you would like to migrate to a different geographic region."
 date = 2019-07-10
 
 [taxonomies]
