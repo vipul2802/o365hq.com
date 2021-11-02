@@ -1,10 +1,10 @@
 +++
-title = "Business Process Automation Using Built-in Office 365 Tools and Services"
+title = "Business Process Automation Using Built-in Microsoft 365 Tools and Services"
 description = "Business Process Automation (BPA) is the implementation of a business process management system with the help of IT. Such a system simplifies business operations, improves the quality of work, and reduces costs using modern and efficient technologies."
 date = 2019-05-15
 
 [taxonomies]
-products = ["Office 365"]
+products = ["microsoft 365"]
 types = ["Implementation"]
 
 [extra]
@@ -62,7 +62,7 @@ Create and implement one of the following automation services:
 
 ### Prerequisites
 
-1.  You must have the appropriate Office 365 subscription or should be
+1.  You must have the appropriate Microsoft 365 subscription or should be
     prepared to purchase it
 
 ### Plan
