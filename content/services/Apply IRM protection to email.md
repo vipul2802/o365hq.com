@@ -4,7 +4,7 @@ description = "Information rights management is a technology that allows you to 
 date = 2019-12-16
 
 [taxonomies]
-products = ["Office 365", "microsoft 365"]
+products = ["microsoft 365"]
 types = ["Implementation"]
 
 [extra]
