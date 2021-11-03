@@ -4,7 +4,7 @@ description = ""
 date = 2018-07-04
 
 [taxonomies]
-tags = ["microsoft 365 tenant"]
+tags = ["microsoft 365 tenant", "office 365 tenant"]
 +++
 
 If you need to find your Microsoft 365 tenant name, it's pretty easy.
