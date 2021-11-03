@@ -1,6 +1,6 @@
 +++
 title = "Cutover Exchange Online Migration from a Third-Party hosted Exchange Server"
-description = "A flexible and quick way to migrate all emails, contacts, tasks, and other data from a third-party hosted and managed Exchange Server to Office 365 Exchange Online."
+description = "A flexible and quick way to migrate all emails, contacts, tasks, and other data from a third-party hosted and managed Exchange Server to Microsoft  365 Exchange Online."
 date = 2018-02-01
 
 [taxonomies]
@@ -33,9 +33,9 @@ you to receive all emails regardless of the MX switching duration.
 1.  Hold a kickoff meeting to exchange contact information, plan key
     steps, and discuss the project
 2.  Plan and guide the cutover from the source system to Exchange Online
-3.  Provide new Exchange Online mailboxes by creating Office 365 user
+3.  Provide new Exchange Online mailboxes by creating Microsoft 365 user
     accounts and assigning Exchange Online user licenses
-4.  Add and validate email domain(s) to Office 365
+4.  Add and validate email domain(s) to Microsoft 365
 5.  Start a migration batch
 6.  Provide a report with the number of mailboxes that were successfully
     migrated and those that cannot be migrated, if any
@@ -74,7 +74,7 @@ provided for an additional fee.
 
 ### Prerequisites
 
-1.  You must have a new Office 365 tenant without users (or with user
+1.  You must have a new Microsoft 365 tenant without users (or with user
     accounts we can delete)
 2.  You must have logins and passwords of all users involved in the
     migration or you must be ready to change them before the migration,
