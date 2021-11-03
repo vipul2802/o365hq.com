@@ -4,7 +4,7 @@ description = "Business Process Automation (BPA) is an implementation of a busin
 date = 2019-05-29
 
 [taxonomies]
-products = ["Office 365", "microsoft 365"]
+products = ["microsoft 365"]
 types = ["Implementation"]
 
 [extra]
