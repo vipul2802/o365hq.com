@@ -4,7 +4,7 @@ description = "DLP-system (Data Leak Prevention) is a specialized software that 
 date = 2019-12-16
 
 [taxonomies]
-products = ["Office 365", "microsoft 365]
+products = ["Office 365", "microsoft 365"]
 types = ["Security and Protection"]
 
 [extra]
