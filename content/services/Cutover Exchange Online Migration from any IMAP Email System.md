@@ -1,6 +1,6 @@
 +++
 title = "Cutover Exchange Online Migration from any IMAP Email System"
-description = "We will migrate users, email data, and email folders from any IMAP system to Office 365 / Exchange Online."
+description = "We will migrate users, email data, and email folders from any IMAP system to Microsoft 365 / Exchange Online."
 date = 2018-02-02
 
 [taxonomies]
@@ -28,7 +28,7 @@ needed.
 Our *objective* is a full migration of all mailboxes from the source
 IMAP system. Only users, emails, and email folders are migrated.
 A migration project will be considered successful if all mailboxes are
-moved to Office 365 without downtime or data loss and with minimal user
+moved to Microsoft 365 without downtime or data loss and with minimal user
 disruption.
 
 ### IT Partner responsibilities
@@ -76,7 +76,7 @@ additional fee.
 
 ### Prerequisites
 
-1.  You must have a destination Office 365 tenant with Exchange Online
+1.  You must have a destination Microsoft 365 tenant with Exchange Online
     licenses available
 2.  You must have admin access to your email domain DNS zone
 3.  You must have a source IMAP system with either admin access
@@ -91,7 +91,7 @@ The plan may vary depending on your needs.
 3.  Creating users or AD connect tool configuration
 4.  Starting email migration
 5.  Verifying email migration
-6.  Changing MX record to the new Office 365 tenant
+6.  Changing MX record to the new Microsoft 365 tenant
 7.  Final email migration
 8.  Verification and fixing issues, if any
 

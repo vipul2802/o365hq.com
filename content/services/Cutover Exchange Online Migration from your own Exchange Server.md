@@ -17,15 +17,15 @@ manager = "Mike Mackey"
 This service will help any customer running at least one Exchange Server
 on-premises migrate to the cloud seamlessly.
 
-Our **objective** is to migrate Exchange mailboxes to Office 365.
+Our **objective** is to migrate Exchange mailboxes to Microsoft 365.
 
 ### IT Partner responsibilities
 
 1.  Hold a kickoff meeting to exchange contact information, plan key
     steps, and discuss the project
-2.  Provide new Exchange Online mailboxes by creating Office 365 user
+2.  Provide new Exchange Online mailboxes by creating Microsoft 365 user
     accounts and assigning Exchange Online user licenses
-3.  Add and validate email domain(s) to Office 365
+3.  Add and validate email domain(s) to Microsoft 365
 4.  Start a migration batch
 5.  Provide a report with the number of mailboxes that were successfully
     migrated and those that cannot be migrated, if any
@@ -69,7 +69,7 @@ provided for an additional fee.
 
 ### Prerequisites
 
-1.  You must have an Office 365 tenant with Exchange Online licenses
+1.  You must have a Microsoft 365 tenant with Exchange Online licenses
 2.  You must have access to your email domain DNS zone
 3.  You need a full installation of Exchange Server in your environment
     (can be licensed for free with appropriate 365 plan) with a valid
@@ -85,7 +85,7 @@ The plan may vary depending on your needs.
 4.  Preparing for a migration
 5.  Email migration start
 6.  Verification of email migration
-7.  Changing MX record to a new Office 365 tenant
+7.  Changing MX record to a new Microsoft 365 tenant
 8.  Final email migration
 9.  Post-migration tasks
 
@@ -93,7 +93,7 @@ The plan may vary depending on your needs.
 
 1.  Users can access Exchange Online on their desktop PCs, mobile phones,
     and tablets from any place, any time
-2.  Your Exchange Server successfully migrated to the new tenant Office 365
+2.  Your Exchange Server successfully migrated to the new tenant Microsoft 365
     and is accessible by all users
 3.  All necessary Transport rules have been created and are working
 4.  Mail can be sent and received using Exchange Online
