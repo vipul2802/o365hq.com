@@ -1,6 +1,6 @@
 +++
-title = "Cutover G Suite to Office 365 Migration - Just Email and Email Folders"
-description = "Migration of email data and email folders from G Suite (Google Apps) to Office 365 / Exchange Online."
+title = "Cutover G Suite to Microsoft 365 Migration - Just Email and Email Folders"
+description = "Migration of email data and email folders from G Suite (Google Apps) to Microsoft 365 / Exchange Online."
 date = 2018-02-02
 
 [taxonomies]
@@ -16,24 +16,24 @@ manager = "Mike Mackey"
 
 *Note: If you have contacts, tasks, and calendars in your mailbox and you
 need to migrate this data in addition to your email messages and email
-folders, then you need a different Service -- G Suite to Office 365.*
+folders, then you need a different Service -- G Suite to Microsoft 365.*
 
 We can migrate the content of user mailboxes from your source email
-system to Office 365. We will use the Internet Message Access Protocol
+system to Microsoft 365. We will use the Internet Message Access Protocol
 (IMAP) to migrate email. Please note that only email and email
 folders will be migrated.
 
 Our objective is to provide planning, design, and migration from G Suite
-mailboxes to Office 365 tenant via IMAP protocol without
+mailboxes to Microsoft 365 tenant via IMAP protocol without
 downtime or data loss and with minimal user disruption.
 
 The migration project will be considered successful if all mailboxes are
-moved to Office 365.
+moved to Microsoft 365.
 
 ### IT Partner responsibilities
 
 1.  Gather information and verify the original G Suite
-2.  Configure the destination Office 365 tenant
+2.  Configure the destination Microsoft 365 tenant
 3.  Create and configure users
 4.  License assignment
 5.  Create and configure a migration plan
@@ -70,12 +70,12 @@ final budget. If you require more extensive documentation, it can be
 provided for an additional fee.  
 
 Our migration solution has been proven through numerous implementations
-to provide high user satisfaction with Office 365 after switching from G
+to provide high user satisfaction with Microsoft 365 after switching from G
 Suite.
 
 ### Prerequisites
 
-1.  You must have an Office 365 tenant with Exchange Online licenses
+1.  You must have a Microsoft 365 tenant with Exchange Online licenses
 2.  You must have access to your email domain DNS zone
 3.  You must have admin access to G Suite
 4.  The Source must be a paid version of Google Drive. Free Google Drive
@@ -113,7 +113,7 @@ The plan may vary depending on your needs.
 3.  User creation or AD connect tool configuration
 4.  Email and data migration start
 5.  Migration process verification
-6.  MX record to a new Office 365 tenant 
+6.  MX record to a new Microsoft 365 tenant 
 7.  Final email and data migration
 8.  Verification and fixing issues
 
@@ -121,7 +121,7 @@ The plan may vary depending on your needs.
 
 1.  Users can access Exchange Online on their desktop PCs, mobile phones,
     and tablets from any place, any time 
-2.  All emails are successfully migrated to Office 365 tenant and are accessible
+2.  All emails are successfully migrated to Microsoft 365 tenant and are accessible
     by all user profiles
 3.  All necessary Transport rules are created and working 
 4.  Mail can be sent and received using Exchange Online 
