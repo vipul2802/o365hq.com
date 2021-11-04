@@ -1,10 +1,10 @@
 +++
-title = "Free Office 365 Security Assessment"
+title = "Free Microsoft 365 Security Assessment"
 description = "Small- and medium-sized businesses have to deal with the same cyberattacks and the same industry and government data regulations as large companies, but without the big IT department and budget to plan and implement protective measures. Migration to the cloud helps, but still leaves some very important vulnerabilities, like social engineering-based attacks. We will help you evaluate how secure your business data is and propose concrete steps to fix the vulnerabilities. "
 date = 2018-08-06
 
 [taxonomies]
-products = ["Office 365"]
+products = ["Office 365", "microsoft 365"]
 types = ["Security and Protection"]
 
 [extra]
@@ -33,8 +33,8 @@ tools and services that already exist and are built into the platform but
 not enabled by default. Some of them are very powerful and free, like a
 basic level of MFA. Some will require an additional license.
 
-With the Free Office 365 Security Assessment service, IT Partner will
-connect to your Office 365 tenant and use tools like Secure Score, Azure
+With the Free Microsoft 365 Security Assessment service, IT Partner will
+connect to your Microsoft 365 tenant and use tools like Secure Score, Azure
 AD, and PowerShell to generate a security report that will reflect your
 current situation and contain a prioritized list of recommendations on
 how to increase your data security, control, and protection.
@@ -53,7 +53,7 @@ about:
 
 ### IT Partner responsibilities
 
--   Office 365 data collection and analysis
+-   Microsoft 365 data collection and analysis
 -   Building of a security report
 
 ### Client responsibilities
@@ -65,14 +65,14 @@ about:
 
 ### Outside  the scope of this project (additional cost items)
 
--   Initial setup and configuration of any Office 365 services
--   Gathering of any data located outside of Office 365 tenant (for example, desktop
+-   Initial setup and configuration of any Microsoft 365 services
+-   Gathering of any data located outside of Microsoft 365 tenant (for example, desktop
     computers, servers, and active networking equipment are outside the scope)
 
 ### Prerequisites
 
--   You must have an Office 365 tenant used in a production environment
--   You must have a global admin access to your Office 365 tenant
+-   You must have a Microsoft 365 tenant used in a production environment
+-   You must have a global admin access to your Microsoft 365 tenant
 
 ### Plan
 

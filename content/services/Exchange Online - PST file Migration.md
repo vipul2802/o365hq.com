@@ -14,12 +14,12 @@ duration = "1 week"
 manager = "Mike Mackey"
 +++
 
-We perform an Outlook .pst file migration to Microsoft Office 365
+We perform an Outlook .pst file migration to Microsoft 365
 (Exchange Online). Importing .pst files to user mailboxes is one way to
 migrate your organization's email, tasks, calendars, and contacts to
-Office 365.
+Microsoft 365.
 
-We have two possible ways to import .pst files to Office 365. The first
+We have two possible ways to import .pst files to Microsoft 365. The first
 way is to upload the data files over the network to temporary storage in
 the Microsoft cloud. The second way is to copy the .pst files to a hard
 drive with BitLocker encryption and then physically ship the drive to
@@ -33,9 +33,9 @@ Partner or the Client, upon agreement.
 1.  Hold a kickoff meeting to exchange contact information, plan key
     steps, and discuss the project
 2.  Prepare .pst files for downloading in the selected manner
-3.  Provide new Exchange Online mailboxes by creating Office 365 user
+3.  Provide new Exchange Online mailboxes by creating Microsoft 365 user
     accounts and assigning Exchange Online user licenses
-4.  Add and validate email domain(s) to Office 365
+4.  Add and validate email domain(s) to Microsoft 365
 5.  Start a migration batch
 6.  Provide a report with the number of mailboxes that were successfully
     migrated and those that cannot be migrated, if any

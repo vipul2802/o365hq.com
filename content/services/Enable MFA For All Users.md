@@ -4,7 +4,7 @@ description = "Multi-Factor Authentication (MFA) is a simple but very efficient 
 date = 2019-08-14
 
 [taxonomies]
-products = ["Office 365"]
+products = ["Office 365", "microsoft 365"]
 types = ["Implementation"]
 
 [extra]
@@ -59,7 +59,7 @@ provided for an additional fee. 
 
 ### Prerequisites
 
-1.  Any Office 365 service
+1.  Any Microsoft 365 service
 2.  Azure AD Premium or another subscription with the ability to use
     MFA
 

@@ -31,7 +31,7 @@ tenant issues.
 
 ### Client responsibilities
 
--   Manage any issues not directly related to Office 365
+-   Manage any issues not directly related to Microsoft 365
 
 ### Outside of the scope of this service (additional cost items)
 

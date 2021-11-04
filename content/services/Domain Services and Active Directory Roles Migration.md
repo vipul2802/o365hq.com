@@ -16,7 +16,7 @@ manager = "Roman Sotnik"
 
 Domain services and active directory roles migration may be necessary if 
 you are migrating from an SBS server to a new server, or from On-Premises 
-solution to Office 365 and you want to keep the Domain Controller in your 
+solution to Microsoft 365 and you want to keep the Domain Controller in your 
 network, but a new operating system or hardware is required.
 
 ### IT Partner responsibilities
@@ -42,7 +42,7 @@ network, but a new operating system or hardware is required.
 ### Additional cost items not provided by the project
 
 1.  Migration to Azure AD
-2.  Email and/or documents transfer to Office 365
+2.  Email and/or documents transfer to Microsoft 365
 3.  Support of the devices with static network settings
 4.  Remote installation of the Microsoft Windows OS on the server, if
     necessary, for example, when using a virtual machine or remote server

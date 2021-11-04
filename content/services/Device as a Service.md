@@ -4,7 +4,7 @@ description = "Device as a Service is a comprehensive, flexible solution that bu
 date = 2018-08-06
 
 [taxonomies]
-products = ["Office 365"]
+products = ["Office 365", "microsoft"]
 types = ["Implementation"]
 
 [extra]

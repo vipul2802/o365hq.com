@@ -4,7 +4,7 @@ description = "A communication plan is your road map for getting information abo
 date = 2018-08-06
 
 [taxonomies]
-products = ["Office 365"]
+products = ["Office 365", "microsoft 365"]
 types = ["Training"]
 
 [extra]
@@ -15,7 +15,7 @@ manager = "Mike Mackey"
 +++
 
 Good change management relies on clear and helpful communication about
-the upcoming changes. To smooth the path of your Office 365 or Intune or
+the upcoming changes. To smooth the path of your Microsoft 365 or Intune or
 Dynamics 365 deployment, your rollout communication plan should include
 four areas.
 
@@ -119,8 +119,8 @@ high-level Intune rollout communications plan.
 
 ### Additional cost items not provided by the project
 
-1.  Initial setup and configuration of any Office 365 services
-2.  Gathering any data located outside of Office 365 tenant (desktop
+1.  Initial setup and configuration of any Microsoft 365 services
+2.  Gathering any data located outside of Microsoft 365 tenant (desktop
     computers, servers, active network equipment is out of scope)
 
 ### Prerequisites

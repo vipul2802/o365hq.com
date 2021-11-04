@@ -4,7 +4,7 @@ description = "Free consultation that will help you take your first steps in Clo
 date = 2018-06-18
 
 [taxonomies]
-products = ["Office 365"]
+products = ["Office 365", "microsoft 365"]
 types = ["Consulting"]
 
 [extra]
@@ -18,9 +18,9 @@ Microsoft Cloud is a powerful portfolio of services that helps you
 unleash your best ideas, get things done, and stay connected on the go.
 We are ready to help you understand the functionality of each service,
 define goals, and plan migration and deployment. This session focuses on
-Office 365 and Microsoft Azure.
+Microsoft 365 and Microsoft Azure.
 
-Our **objective** is to answer your Office 365 and Microsoft Azure
+Our **objective** is to answer your Microsoft 365 and Microsoft Azure
 questions and connect you with our engineers and our team of managers.
 
 The session is held remotely at a time convenient for all. Duration is
