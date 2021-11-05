@@ -1,6 +1,6 @@
 +++
-title = "Hybrid Office 365 Migration from your own Exchange Server"
-description = "Hybrid migration provides integration between an on-premises Exchange organization and Office 365 Exchange Online. It can be used in two scenarios: as a method of migration between an on-premises Exchange Server and Office 365 (Exchange Online) or as a permanent state for your on-premises Exchange and Office 365 organizations. "
+title = "Hybrid Microsoft 365 Migration from your own Exchange Server"
+description = "Hybrid migration provides integration between an on-premises Exchange organization and Microsoft 365 Exchange Online. It can be used in two scenarios: as a method of migration between an on-premises Exchange Server and Microsoft 365 (Exchange Online) or as a permanent state for your on-premises Exchange and Microsoft 365 organizations. "
 date = 2018-02-01
 
 [taxonomies]
@@ -17,7 +17,7 @@ manager = "Mike Mackey"
 A hybrid deployment offers companies the ability to extend the
 functionality of an existing on-premises Microsoft Exchange to Exchange
 Online. This provides a single space between an on-premises
-Exchange organization and Exchange Online in Microsoft Office 365.
+Exchange organization and Exchange Online in Microsoft 365.
 
 The following topology example provides an overview of a typical
 Exchange 2016 deployment. With a single-forest, single-domain
@@ -25,7 +25,7 @@ organization with two domain controllers and one Exchange 2016 server
 installed, we start deploying and configure a required Azure AD Connect
 server and use the Azure AD Connect password synchronization feature to
 let users log in with the same credentials for both their on-premises
-network account and their Office 365 account. Then we complete the
+network account and their Microsoft 365 account. Then we complete the
 hybrid deployment prerequisites and use the Hybrid Configuration wizard
 to select options for the hybrid deployment.
 
@@ -82,7 +82,7 @@ on-premises and Exchange Online users.
 1.  Customer team training (could be added as an additional service)
 2.  Desktop software settings
 3.  Unified Messaging (US) features cannot be used in a hybrid solution
-    in conjunction with Office 365. If you use this feature in your
+    in conjunction with Microsoft 365. If you use this feature in your
     infrastructure, additional settings can be required depending on the
     solution you are using.
 
@@ -94,7 +94,7 @@ provided for an additional fee. 
 
 ### Prerequisites
 
-1.  You must have an Office 365 tenant with Exchange Online licenses
+1.  You must have a Microsoft 365 tenant with Exchange Online licenses
 2.  You must have access to your email domain DNS zone
 3.  You need a full installation of Exchange 2010, 2013, or 2016 server
     in your environment with a valid UCC SSL certificate
@@ -109,7 +109,7 @@ The plan may vary depending on your needs.
 4.  Migration planning
 5.  Email migration start
 6.  Email migration check
-7.  Changing MX record to the new Office 365 tenant
+7.  Changing MX record to the new Microsoft 365 tenant
 8.  Final email migration
 9.  Post-migration tasks
 

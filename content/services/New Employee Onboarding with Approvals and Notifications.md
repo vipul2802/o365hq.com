@@ -16,7 +16,7 @@ manager = "Roman Sotnik"
 
 We will develop a solution that will greatly
 simplify the process of onboarding new employees in your organization
-and delegate that process to authorized users without giving them Office
+and delegate that process to authorized users without giving them Microsoft
 365 global administrator rights.
 
 A sample scenario:
@@ -58,7 +58,7 @@ A sample scenario:
 
 ### Prerequisites
 
--   You must have global admin level access to the Office 365 tenant
+-   You must have global admin level access to the Microsoft 365 tenant
 -   You must have SharePoint Online service
 -   Your organization must use Azure AD service
 

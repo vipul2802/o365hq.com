@@ -1,10 +1,10 @@
 +++
-title = "Office 365 Break/Fix Support (included for free with any O365 plan)"
+title = "Microsoft 365 Break/Fix Support (included for free with any M365 plan)"
 description = "With this service, we combine the best of both sides: Microsoft, as a vendor, provides managed support with a fee for the services they sell through us, IT partner. And we (IT partner) provide a free Break/Fix support service to pre-solve any problems that Microsoft did not solve early. "
 date = 2018-07-30
 
 [taxonomies]
-products = ["Office 365"]
+products = ["Office 365", "microsoft 365"]
 types = ["Managed Services"]
 
 [extra]
@@ -38,7 +38,7 @@ the problem.
 
 With this service, IT Partner will help in solving such issues as:
 
-1.  Resolving issues related to Office 365 services in case of
+1.  Resolving issues related to Microsoft 365 services in case of
     malfunction or incorrect work
 2.  Help with security issues, when compromising of accounts or any
     other threat occurs

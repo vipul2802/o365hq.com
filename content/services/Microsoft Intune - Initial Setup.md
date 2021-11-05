@@ -4,7 +4,7 @@ description = "Microsoft Intune is a service from Microsoft that allows you to m
 date = 2019-05-22
 
 [taxonomies]
-products = ["Office 365"]
+products = ["Office 365", "microsoft 365"]
 types = ["Security and Protection"]
 
 [extra]
@@ -66,7 +66,7 @@ using Microsoft Intune in your company.
 
 -   Enterprise Mobility + Security (EMS) / Microsoft Intune
     subscription
--   Office 365 subscription (for Office apps and app protection policy
+-   Microsoft 365 subscription (for Office apps and app protection policy
     managed apps)
 -   Apple APNs Certificate (to enable iOS device platform
     management)

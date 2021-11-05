@@ -1,6 +1,6 @@
 +++
 title = "Journey from Skype for Business to Microsoft Teams. Pilot."
-description = "IT Partners is here to support you on your journey from being an existing Skype for Business and Office 365 customer to Microsoft Teams. The optimal pilot test plan incorporates scenarios that demonstrate how your users work. While individual features/tasks are important (e.g., share a live application), the end-to-end process of how users realize productivity and results should formulate our test plan."
+description = "IT Partners is here to support you on your journey from being an existing Skype for Business and Microsoft 365 customer to Microsoft Teams. The optimal pilot test plan incorporates scenarios that demonstrate how your users work. While individual features/tasks are important (e.g., share a live application), the end-to-end process of how users realize productivity and results should formulate our test plan."
 date = 2019-06-26
 
 [taxonomies]

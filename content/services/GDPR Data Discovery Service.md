@@ -4,7 +4,7 @@ description = "The General Data Protection Regulation (GDPR) is the law of the E
 date = 2019-04-23
 
 [taxonomies]
-products = ["Office 365"]
+products = ["Office 365", "microsoft 365"]
 types = ["Training"]
 
 [extra]
@@ -125,26 +125,26 @@ discover, classify, and protect files on the following data stores:
 #### Step 4 (online) -- Prepare for Search and Discovery
 
 Recognition of Personal Identifiable Information (PII) in
-Office 365 data sources relies on automated data classification through
+Microsoft 365 data sources relies on automated data classification through
 recognition of sensitive data types. The data classification process can
 be automated in a way that existing data is scanned and labeled
 automatically, and new data is classified upon creation.
 
-Office 365 Labels and Advanced Data Governance (ADG) will be
+Microsoft 365 Labels and Advanced Data Governance (ADG) will be
 used for data classification and labeling. Classification can be done
 automatically or by enabling the user to apply a label to content
 manually. Once labeled and classified, the data can then be protected by
 additional means or searched for the presence of specific words or data
 types.
 
-#### Step 5 (online) -- Search and Discovery in Office 365
+#### Step 5 (online) -- Search and Discovery in Microsoft 365
 
-We will use the Content Search feature in the Office 365 Security &
+We will use the Content Search feature in the Microsoft 365 Security &
 Compliance Center to create the inventory. Content Search allows you to
-search all content locations in your Office 365 organization. This
+search all content locations in your Microsoft 365 organization. This
 includes all mailboxes (including inactive mailboxes, and the mailboxes
-for all Office 365 Groups and Microsoft Teams), all SharePoint and
-OneDrive for Business sites (which includes the sites for all Office 365
+for all Microsoft 365 Groups and Microsoft Teams), all SharePoint and
+OneDrive for Business sites (which includes the sites for all Microsoft 365
 groups and Microsoft Teams), and all public folders.
 
 ### Results

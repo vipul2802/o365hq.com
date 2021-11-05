@@ -1,10 +1,10 @@
 +++
 title = "Microsoft Teams - Tenant-to-Tenant Migration"
-description = "We will migrate your Microsoft Teams structure and documents from one Office 365 tenant to another Office 365 tenant."
+description = "We will migrate your Microsoft Teams structure and documents from one Microsoft 365 tenant to another Microsoft 365 tenant."
 date = 2019-05-14
 
 [taxonomies]
-products = ["Office 365"]
+products = ["Office 365", "microsoft 365"]
 types = ["Migration"]
 
 [extra]
@@ -15,12 +15,12 @@ manager = "Mike Mackey"
 +++
 
 This is a service description for the Microsoft Teams migration service
-from one Office 365 tenant to another. Usually, you will need this type
+from one Microsoft 365 tenant to another. Usually, you will need this type
 of migration when a company merges or acquires another company, or you
 would like to migrate to a different geographic region.
 
 Our **objective** is to plan, design, and migrate Microsoft Teams service
-from one Office 365 tenant to a different Office 365 tenant.
+from one Microsoft 365 tenant to a different Microsoft 365 tenant.
 
 A migration project will be considered **successful** when Microsoft
 Teams data is migrated without loss of data within an agreed time frame
@@ -46,7 +46,7 @@ and without downtime for users. What would be migrated:
     Partner
 2.  Coordinate any outside vendor resources and schedules, if needed
 3.  If Microsoft Team desktop clients are to be used for connectivity to
-    Office 365, reconfigure those clients
+    Microsoft 365, reconfigure those clients
 4.  Manage user membership in Teams
 
 ### Outside the scope of this project (additional cost items)
@@ -56,9 +56,9 @@ and without downtime for users. What would be migrated:
 
 ### Prerequisites
 
-1.  You must have global admin level access to the source Office 365
+1.  You must have global admin level access to the source Microsoft 365
     tenant
-2.  You must have global admin level access to the destination Office
+2.  You must have global admin level access to the destination Microsoft
     365 tenant with Teams license available
 
 ### Plan

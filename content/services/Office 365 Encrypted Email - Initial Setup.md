@@ -1,10 +1,10 @@
 +++
-title = "Office 365 Encrypted Email - Initial Setup"
-description = "Office 365 uses encryption in two ways: in the service, and as a customer control. In the service, encryption is used in Office 365 by default. If you want to increase the security level of messaging and protect extremely sensitive data, we will provide implementation service to email encryption and rights protection capabilities. "
+title = "Microsoft 365 Encrypted Email - Initial Setup"
+description = "Microsoft 365 uses encryption in two ways: in the service, and as a customer control. In the service, encryption is used in Microsoft 365 by default. If you want to increase the security level of messaging and protect extremely sensitive data, we will provide implementation service to email encryption and rights protection capabilities. "
 date = 2019-02-22
 
 [taxonomies]
-products = ["Office 365"]
+products = ["Office 365", "microsoft 365"]
 types = ["Security and Protection"]
 
 [extra]
@@ -14,20 +14,20 @@ duration = "1 day"
 manager = "Mike Mackey"
 +++
 
-Microsoft provides three email encryption options for your Office 365.
+Microsoft provides three email encryption options for your Microsoft 365.
 IT Partner will be able to implement any of them. You might compare the
 options shown below. Also, please check out the [YouTube video
 explanation](https://www.youtube.com/watch?v=KmfxCd5ublI).
 
   ------------------------------------------------------------------------------------------------------------------------------------------------------
-                    Office 365        Information Rights Management in Exchange Online                                               S/MIME for message
+                    Microsoft 365        Information Rights Management in Exchange Online                                               S/MIME for message
                     Message                                                                                                          signing and
                     Encryption                                                                                                       encryption
   ----------------- ----------------- ---------------------------------------------------------------------------------------------- -------------------
-  What is it?\      Office 365        IRM is an encryption solution that also applies usage restrictions to email messages. S/MIME is a
+  What is it?\      Microsoft 365        IRM is an encryption solution that also applies usage restrictions to email messages. S/MIME is a
                     Message.          It helps prevent sensitive information from being printed, forwarded, or copied by             certificate-based
                     Encryption        unauthorized people.\                                                                          encryption solution
-                    (OME) is IRM capabilities in Office 365 use Azure Rights Management (Azure RMS).\     that allows you to
+                    (OME) is IRM capabilities in Microsoft 365 use Azure Rights Management (Azure RMS).\     that allows you to
                     a service built                                                                                                  both encrypt and
                     on Azure Rights                                                                                                  digitally sign a
                     Management (Azure                                                                                                message. The
@@ -67,13 +67,14 @@ explanation](https://www.youtube.com/watch?v=KmfxCd5ublI).
                     in with a work or                                                                                                compromised, the
                     school account                                                                                                   recipient needs to
                     be associated with                                                                                                  get a new private
-                    Office 365.                                                                                                      key and
+                    Microsoft 365.                                                                                                      key and
                     Recipients can                                                                                                   redistribute public
                     also send                                                                                                        keys to all
                     encrypted                                                                                                        potential senders.\
                     replies. They                                                                                                    
                     don't need an                                                                                                    
-                    Office 365                                                                                                       
+                    Microsoft
+                    365                                                                                                       
                     subscription to                                                                                                  
                     view encrypted                                                                                                   
                     messages or send                                                                                                 
@@ -159,9 +160,9 @@ explanation](https://www.youtube.com/watch?v=KmfxCd5ublI).
                     attorney\                                                                                                        
   ------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Our **objective** is to enable email encryption in your Office 365
+Our **objective** is to enable email encryption in your Microsoft 365
 tenant and provide instruments to control sensitive data with flexible
-policies or ad hoc customer controls that are built into Office 365.
+policies or ad hoc customer controls that are built into Microsoft 365.
 
 An implementation project will be considered **successful** when you:
 
@@ -175,7 +176,7 @@ An implementation project will be considered **successful** when you:
 
 ### IT Partner responsibilities
 
--   Set up Email Encryption in Office 365
+-   Set up Email Encryption in Microsoft 365
 -   Create mail flow rules that define the conditions for encryption
 -   Bring your own key (BYOK) settings if needed
 
@@ -189,7 +190,7 @@ An implementation project will be considered **successful** when you:
 
 ### Outside  the scope of this project (additional cost items)
 
--   Mailbox migration to Office 365 (Exchange Online)
+-   Mailbox migration to Microsoft 365 (Exchange Online)
 -   AD and group policy settings
 
 Upon completion of the engagement, we will provide a project closeout
@@ -200,29 +201,29 @@ for an additional fee.
 
 ### Prerequisites
 
--   You must have global admin level access to the source Office 365
+-   You must have global admin level access to the source Microsoft 365
     tenant
--   You must have global admin level access to the destination Office
+-   You must have global admin level access to the destination Microsoft
     365 tenant, with Exchange Online licenses available
 
 To use the new OME capabilities, you need one of the following
 plans:
 
--   Office 365 Message Encryption is offered as part of Office 365 E3
+-   Microsoft 365 Message Encryption is offered as part of Office 365 E3
     and E5, Microsoft E3 and E5, Office 365 A1, A3, and A5, and Office
     365 G3 and G5. Customers do not need additional licenses to receive
     the new protection capabilities powered by Azure Information
     Protection
 -   You can also add Azure Information Protection Plan 1 to the
-    following plans to receive the new Office 365 Message Encryption
-    capabilities: Exchange Online Plan 1, Exchange Online Plan 2, Office
-    365 F1, Office 365 Business Essentials, Office 365 Business Premium,
+    following plans to receive the new Microsoft 365 Message Encryption
+    capabilities: Exchange Online Plan 1, Exchange Online Plan 2, Microsoft
+    365 F1, Microsoft 365 Business Basic, Microsoft 365 Business Standard,
     or Office 365 Enterprise E1
--   Each user benefiting from Office 365 Message Encryption needs to be
+-   Each user benefiting from Microsoft 365 Message Encryption needs to be
     licensed to be covered by the feature
 -   For the full list, see the [Exchange Online service
     descriptions](https://docs.microsoft.com/en-us/office365/servicedescriptions/exchange-online-service-description/exchange-online-service-description)
-    for Office 365 Message Encryption.
+    for Microsoft 365 Message Encryption.
 
 ### Plan
 
@@ -237,7 +238,7 @@ May vary depending on your needs.
 
 ### Results
 
-You will be able to use Office 365 Message Encryption (OME)
+You will be able to use Microsoft 365 Message Encryption (OME)
 capabilities that protect your emails, and mail flow rules that define the
 conditions for encryption. Your email recipients should be able to
 receive and reply to your secure emails using any device with any email
@@ -245,9 +246,9 @@ client.
 
 ### Relevant articles
 
-1.  [Office 365 Message Encryption
+1.  [Microsoft 365 Message Encryption
     FAQ](https://support.office.com/en-us/article/office-365-message-encryption-faq-0432dce9-d9b6-4e73-8a13-4a932eb0081e)
-2.  [Office 365 Message
+2.  [Microsoft 365 Message
     Encryption](https://products.office.com/en-us/exchange/office-365-message-encryption)
-3.  [Email encryption in Office
+3.  [Email encryption in Microsoft
     365](https://support.office.com/en-us/article/email-encryption-in-office-365-c0d87cbe-6d65-4c03-88ad-5216ea5564e8)

@@ -4,7 +4,7 @@ description = "Teams initial planning and setup in an organization for specific 
 date = 2019-07-25
 
 [taxonomies]
-products = ["Office 365"]
+products = ["Office 365", "microsoft 365"]
 types = ["Implementation"]
 
 [extra]
