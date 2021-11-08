@@ -70,7 +70,7 @@ additional fee.
 
 ### Prerequisites
 
-1.  You must have an Office 365 tenant with OneDrive for Business
+1.  You must have a Microsoft 365 tenant with OneDrive for Business
     licenses
 2.  You must have admin access to users' PCs
 

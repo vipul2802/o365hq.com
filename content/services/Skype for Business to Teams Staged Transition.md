@@ -17,12 +17,12 @@ manager = "Roman Sotnik"
 
 **Microsoft Teams** is a multi-functional, cross-platform messenger for
 collaborative solutions of corporate tasks. Previously included only in
-the paid **Office 365** package, now Teams is also available for free
+the paid **Microsoft 365** package, now Teams is also available for free
 use. Messenger is designed for Windows, MacOS, iOS, and Android
 platforms. It includes messaging, joint chats and conferences, file
 sharing, and co-editing.
 
-The messenger has integration with Office 365 and supports collaboration
+The messenger has integration with Microsoft 365 and supports collaboration
 with Word, Excel, PowerPoint, OneNote, SharePoint, and Power BI
 applications, as well as with third-party applications. Mobile versions
 of Teams for iOS and Android allow you to always be in touch with your
@@ -50,7 +50,7 @@ transition basic.
 2.  Provide a dedicated point of contact responsible for working with IT
     Partner
 3.  Coordinate any outside vendor resources and schedules
-4.  Provide administrative access to Office 365
+4.  Provide administrative access to Microsoft 365
 5.  Configure all network equipment, such as load balancers, routers,
     firewalls, and switches
 6.  Review and approve engagement deliverables in a timely manner

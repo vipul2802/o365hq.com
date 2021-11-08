@@ -63,7 +63,7 @@ provided for an additional fee. 
 
 ### Prerequisites
 
--   You must have an Office 365 tenant with SharePoint Online licenses
+-   You must have a Microsoft 365 tenant with SharePoint Online licenses
 -   You must have admin access to SharePoint Online
 -   You must have a file server connected to the Internet
 

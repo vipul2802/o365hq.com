@@ -28,7 +28,7 @@ Business issues.
     feature
 -   Turn mobile notifications on or off
 -   Create customized meeting invitations
--   Activity Reports monitoring in the Office 365 Admin Center
+-   Activity Reports monitoring in the Microsoft 365 Admin Center
 
 ### Client responsibilities
 

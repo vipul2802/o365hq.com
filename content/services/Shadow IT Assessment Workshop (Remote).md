@@ -4,7 +4,7 @@ description = "Shadow IT is a term that refers to applications and infrastructur
 date = 2019-03-14
 
 [taxonomies]
-products = ["Office 365"]
+products = ["Office 365", "microsoft 365"]
 types = ["Training"]
 
 [extra]
@@ -58,9 +58,9 @@ Our **objective** is to deliver the Shadow IT Assessment, including:
 
 ### Prerequisites
 
--   Office 365 tenant and Microsoft Cloud App Security service. Either
-    customer production Office 365 tenant with CAS (through E5
-    license) or trial Office 365 tenant and CAS trial (for up
+-   Microsoft 365 tenant and Microsoft Cloud App Security service. Either
+    customer production Microsoft 365 tenant with CAS (through E5
+    license) or trial Microsoft 365 tenant and CAS trial (for up
     to 30 days)
 -   Access to logs from customer firewalls or proxies
 -   Log Collector should be configured and ready to work [More

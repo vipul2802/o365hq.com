@@ -68,7 +68,7 @@ files from any valid source to SharePoint Online.
 
 ### Prerequisites
 
-1.  You must have an Office 365 tenant with SharePoint Online licenses
+1.  You must have a Microsoft 365 tenant with SharePoint Online licenses
 2.  You must have admin access to your SharePoint Server
 3.  Plan site(s) structure and permission for SharePoint Online
 

@@ -4,7 +4,7 @@ description = "We will plan, design, and implement a Windows Autopilot, the futu
 date = 2019-05-23
 
 [taxonomies]
-products = ["Office 365"]
+products = ["Office 365", "microsoft 365"]
 types = ["Implementation"]
 
 [extra]
@@ -92,10 +92,10 @@ AAD or MDM environment to register devices.]{.mark}
         Azure Active Directory Premium and Microsoft Intune **or**
     b.  Microsoft 365 Enterprise (E3 or E5) -- includes Enterprise
         Management and Security, Azure Active Directory Premium,
-        Microsoft Intune, and Office 365 ProPlus **or**
+        Microsoft Intune, and Microsoft 365 Apps for enterprise **or**
     c.  Microsoft 365 Business -- (excluding Office 365 Business, which
-        can't be configured by Windows Autopilot -- Office ProPlus is
-        required for that) and a select set of Azure Active Directory
+        can't be configured by Windows Autopilot -- Microsoft 365 Apps for enterprise
+        is required for that) and a select set of Azure Active Directory
         Premium and Microsoft Intune features
 2.  Sufficient rights to the Azure portal
 3.  Intune service (or another MDM solution) to manage devices
@@ -160,7 +160,7 @@ The plan may vary depending on your needs.
 ### Success criteria
 
 1.  Implementation plan is developed and approved
-2.  Client's Office 365 tenant and Azure services are configured to support
+2.  Client's Microsoft 365 tenant and Azure services are configured to support
     Windows Autopilot functionality
 3.  Windows Autopilot can be used to deploy, repurpose, break-fix, and
     retire all the supported devices configured for the Autopilot

@@ -4,7 +4,7 @@ description = "Shadow IT is a term that refers to applications and infrastructur
 date = 2019-03-14
 
 [taxonomies]
-products = ["Office 365"]
+products = ["Office 365", "microsoft 365"]
 types = ["Training"]
 
 [extra]
@@ -57,9 +57,9 @@ Our **objective** is to deliver the Shadow IT Assessment, including:
 
 ### Prerequisites
 
--   Office 365 tenant and Microsoft Cloud App Security service, either
-    customer production Office 365 tenant with CAS (through E5
-    license) or trial Office 365 tenant and CAS trial (for up
+-   Microsoft 365 tenant and Microsoft Cloud App Security service, either
+    customer production Microsoft 365 tenant with CAS (through E5
+    license) or trial Microsoft 365 tenant and CAS trial (for up
     to 30 days)
 -   Access to logs from customer firewalls or proxies
 -   Infrastructure to host Log Collector (if applicable) [More
@@ -116,14 +116,14 @@ workshop
 
 -   Removing uploaded logs
 -   Decommissioning of Log Collector
--   Closing Office 365 and CAS trials (if needed)
+-   Closing Microsoft 365 and CAS trials (if needed)
 
 [Please note.]{.mark} There's a specific need for extra time to be
 inserted:
 
 -   between Kickoff and Day 1 -- at least one (1) week -- time necessary for
     customer to prepare and fill in the questionnaire, as well as time
-    for IT Partner to prepare some engagement tools (trial Office
+    for IT Partner to prepare some engagement tools (trial Microsoft
     365 tenant and trial CAS)
 -   between Day 1 and Day 2:
     -   at least 2 -- 3 days if using the manual method of uploading
@@ -188,7 +188,7 @@ CAS features
 
 Network [Engineers]{lang="DE-AT"} (if applicable)
 
-[O365 Tenant Admin ]{lang="PL"}
+[M365 Tenant Admin ]{lang="PL"}
 
 [60 minutes]{lang="DE-AT"}
 
@@ -210,13 +210,13 @@ Deep dive into selected Microsoft CAS features (especially
 [Security Engineers]{lang="DE-AT"}
 
 Network [Engineers]{lang="DE-AT"} (if applicable)\
-O365 Tenant Admin
+M365 Tenant Admin
 
 [60 minutes]{lang="DE-AT"}
 
 [Technical ]{lang="DE-AT"}Setup with the customer
 
-Setting up O365 and CAS for Shadow IT discovery
+Setting up M365 and CAS for Shadow IT discovery
 
 Logs from customer's firewalls/proxies provided to CAS for
 analysis\
@@ -226,7 +226,7 @@ analysis\
 
 Network [Engineers]{lang="DE-AT"} (if applicable)
 
-[O365 Tenant Admin ]{lang="PL"}
+[M365 Tenant Admin ]{lang="PL"}
 
 [180]{lang="PL"}[ minutes]{lang="DE-AT"}
 
@@ -253,7 +253,7 @@ Visibility into cloud usage in customer's environment[.]{lang="DE-AT"}
 
 [Security Engineers]{lang="DE-AT"}
 
-O365 Tenant Admin
+M365 Tenant Admin
 
 [180]{lang="PL"}[ minutes]{lang="DE-AT"}
 
@@ -270,7 +270,7 @@ of Shadow IT (usage of unapproved cloud applications or services)
 
 None\
 \
-NOTE: Occasional access to O365 Tenant Admin might be
+NOTE: Occasional access to M365 Tenant Admin might be
 necessary.
 
 [180]{lang="PL"}[ minutes]{lang="DE-AT"}

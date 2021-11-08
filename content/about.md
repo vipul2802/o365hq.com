@@ -4,7 +4,7 @@ title = "About us"
 
 ### Key facts about us
 
-We are IT Partner, an experienced Microsoft Licensing Service Provider, Microsoft Cloud Solutions Productivity and Gold Certified Partner. We have provided cloud-managed support and migration services since before it was popular. We honed our experience on hundreds of successful projects which allowed us to offer setup, migration and support services for Office 365 and Azure. We also do standard stuff, like Microsoft volume licensing, IT support, and managed services.
+We are IT Partner, an experienced Microsoft Licensing Service Provider, Microsoft Cloud Solutions Productivity and Gold Certified Partner. We have provided cloud-managed support and migration services since before it was popular. We honed our experience on hundreds of successful projects which allowed us to offer setup, migration and support services for Microsoft 365 and Azure. We also do standard stuff, like Microsoft volume licensing, IT support, and managed services.
 
 IT Partner has been a member of the Microsoft Partner Program since 2006.
 

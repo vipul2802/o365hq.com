@@ -14,7 +14,7 @@ duration = "1 week"
 manager = "Mike Mackey"
 +++
 
-As more organizations move to Office 365 during mergers and
+As more organizations move to Microsoft 365 during mergers and
 acquisitions, they need robust solutions to consolidate their SharePoint
 Online infrastructure and documents. We will help you migrate site
 collections, sites, lists, and libraries with permissions and design.
@@ -72,7 +72,7 @@ done for an additional fee.
 
 ### Prerequisites
 
--   You must have an Office 365 tenant with SharePoint Online licenses
+-   You must have a Microsoft 365 tenant with SharePoint Online licenses
 -   You must have admin access to your SharePoint Online
 -   Plan site(s) structure and permission for SharePoint Online
 

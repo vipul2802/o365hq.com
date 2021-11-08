@@ -1,10 +1,10 @@
 +++
-title = "SharePoint Online and Office 365 Apps Customization"
+title = "SharePoint Online and Microsoft 365 Apps Customization"
 description = "Customization and branding of SharePoint and other cloud services."
 date = 2019-08-14
 
 [taxonomies]
-products = ["Office 365"]
+products = ["Office 365", "microsoft 365"]
 types = ["Implementation"]
 
 [extra]
@@ -40,7 +40,7 @@ customization and implement them in the appropriate services.
 
 ### Prerequisites
 
-Any Office 365 services.
+Any Microsoft 365 services.
 
 ### Plan
 
