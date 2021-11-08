@@ -4,7 +4,7 @@ description = "Let us give your employees the tools, resources, and solutions th
 date = 2020-03-16
 
 [taxonomies]
-products = ["Office 365"]
+products = ["Office 365", "microsoft 365"]
 types = ["Training"]
 
 [extra]
@@ -25,7 +25,7 @@ manager = "Mike Mackey"
     coworkers, 24/7.
 3.  Add audio/video conferencing to a new or existing meeting with just
     one click using Outlook with Microsoft Teams.
-4.  Use Office 365 Groups to give your teammates access to a shared
+4.  Use Microsoft 365 Groups to give your teammates access to a shared
     inbox, calendar, file repository, and/or notebook.
 
 ### Creating
@@ -69,4 +69,4 @@ manager = "Mike Mackey"
     Engineer](https://buymssoft.com/constructor/services?item=docmmu)
 
 We would like to have a conversation with you about how your
-organization can use Office 365 to enable your digital transformation to working from home (WFH) and elsewhere.
+organization can use Microsoft 365 to enable your digital transformation to working from home (WFH) and elsewhere.

@@ -4,7 +4,7 @@ description = ""
 date = 2019-08-01
 
 [taxonomies]
-products = ["Office 365"]
+products = ["Office 365", "microsoft 365"]
 types = ["Consulting"]
 
 [extra]

@@ -1,6 +1,6 @@
 +++
-title = "Office 365 Tenant-to-Tenant Cutover Email Migration"
-description = "Mailbox migration from one Office 365 tenant to another. Usually, you will need this type of migration when a company merges or acquires another company, or you would like to migrate to a different geographic region. "
+title = "Microsoft 365 Tenant-to-Tenant Cutover Email Migration"
+description = "Mailbox migration from one Microsoft 365 tenant to another. Usually, you will need this type of migration when a company merges or acquires another company, or you would like to migrate to a different geographic region. "
 date = 2018-02-02
 
 [taxonomies]
@@ -14,12 +14,12 @@ duration = "1 week"
 manager = "Mike Mackey"
 +++
 
-Occasionally, a customer needs a migration inside the Office 365 cloud
+Occasionally, a customer needs a migration inside the Microsoft 365 cloud
 platform. For example, if one company acquires another company and both
-are using Office 365, there may be many reasons to start merging. 
+are using Microsoft 365, there may be many reasons to start merging. 
 
 Our objective is to provide planning, design, and migration of email
-service from one Office 365 tenant to another. 
+service from one Microsoft 365 tenant to another. 
 
 While the domain is transferring from the source tenant to the new tenant,
 incoming mail will not be received for about 24 hours. This is due to
@@ -50,7 +50,7 @@ the extended migration service.
 3.  Configure all network equipment, such as load balancers, routers,
     firewalls, and switches
 4.  If Microsoft Outlook or other desktop email clients are used to
-    connect to Office 365, deploy email software on client workstations
+    connect to Microsoft 365, deploy email software on client workstations
 5.  Perform changes to internal and external DNS, as required
 6.  Assist with identification of high-risk users (top executives
     and VIP users, users with 50 GB mailboxes or larger and/or
@@ -76,9 +76,9 @@ provided for an additional fee. 
 
 ### Prerequisites
 
-1.  You must have global admin level access to the source Office 365
+1.  You must have global admin level access to the source Microsoft 365
     tenant
-2.  You must have global admin level access to the destination Office
+2.  You must have global admin level access to the destination Microsoft
     365 tenant, with Exchange Online licenses available
 3.  You must have access to your email domain DNS zone
 
@@ -91,7 +91,7 @@ The plan may vary depending on your needs.
 3.  Creating users or configuring AD Connect tool
 4.  Email migration start
 5.  Verification of email migration
-6.  Changing MX record to new Office 365 tenant
+6.  Changing MX record to new Microsoft 365 tenant
 7.  Final email migration
 8.  Post-migration tasks
 
@@ -99,7 +99,7 @@ The plan may vary depending on your needs.
 
 1.  Users can access Exchange Online on their desktop PCs, mobile phones,
     and tablets from any place, any time
-2.  Old Office 365 tenant successfully migrated to new Office 365 tenant
+2.  Old Microsoft 365 tenant successfully migrated to new Microsoft 365 tenant
     and accessible by all users
 3.  All necessary Transport rules are created and working
 4.  Mail can be sent and received using Exchange Online

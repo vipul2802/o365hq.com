@@ -62,7 +62,7 @@ provided for an additional fee. 
 
 ### Prerequisites
 
-1.  You must have an Azure AD (Office 365) tenant, with OneDrive for
+1.  You must have an Azure AD (Microsoft 365) tenant, with OneDrive for
     Business licenses assigned to your users
 2.  You must have admin access to the source file server
 

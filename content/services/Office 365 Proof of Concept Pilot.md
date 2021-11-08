@@ -1,10 +1,10 @@
 +++
-title = "Office 365 Proof of Concept/Pilot"
-description = "We will help you deploy, configure, and test the feasibility of using cloud technologies and solutions like Exchange Online for your business. Also, the service is designed to help customers understand Office 365 capabilities, determine their readiness for migration to Office 365 services, and get a hands-on experience with Office 365."
+title = "Microsoft 365 Proof of Concept/Pilot"
+description = "We will help you deploy, configure, and test the feasibility of using cloud technologies and solutions like Exchange Online for your business. Also, the service is designed to help customers understand Microsoft 365 capabilities, determine their readiness for migration to Microsoft 365 services, and get a hands-on experience with Microsoft 365."
 date = 2018-02-02
 
 [taxonomies]
-products = ["Office 365"]
+products = ["microsoft 365"]
 types = ["Consulting"]
 
 [extra]
@@ -15,9 +15,9 @@ manager = "Mike Mackey"
 +++
 
 The pilot project includes resources, tools, and our experts to make
-your rollout of Office 365 a success.
+your rollout of Microsoft 365 a success.
 
-Our **objective** is a successful Office 365 rollout focusing on driving
+Our **objective** is a successful Microsoft 365 rollout focusing on driving
 adoption and helping everyone understand the benefits.
 
 ### IT Partner responsibilities
@@ -26,8 +26,8 @@ adoption and helping everyone understand the benefits.
 2.  Creating user accounts and setting the primary (reply-to) address
 3.  Setting up email forwarding at your current provider and testing
     mail flow
-4.  Reviewing the features of Office 365
-5.  Reviewing Office 365 ROI vs. existing software
+4.  Reviewing the features of Microsoft 365
+5.  Reviewing Microsoft 365 ROI vs. existing software
 
 ### Client responsibilities
 
@@ -57,13 +57,13 @@ Directory Federation Services
 ### Prerequisites
 
 -   Your current email provider must provide email forwarding
--   You need to manage your Office 365-related DNS records at
+-   You need to manage your Microsoft 365-related DNS records at
     your DNS hosting provider
 
 ### Results
 
--   Office 365 services are better configured and customized to suit
+-   Microsoft 365 services are better configured and customized to suit
     your needs
--   Adoption of Office 365 services is measured and increases over time
+-   Adoption of Microsoft 365 services is measured and increases over time
 -   Users become more productive and spend less time trying to fix
     problems or issues

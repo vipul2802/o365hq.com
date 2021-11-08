@@ -4,7 +4,7 @@ description = "This workshop is an opportunity to receive deeper visibility on p
 date = 2019-03-14
 
 [taxonomies]
-products = ["Office 365"]
+products = ["Office 365", "microsoft 365"]
 types = ["Training"]
 
 [extra]

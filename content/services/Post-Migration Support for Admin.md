@@ -1,10 +1,10 @@
 +++
 title = "Post-Migration Support for Admin"
-description = "Qualified assistance in resolving any issues after migration to the Office 365 cloud services. "
+description = "Qualified assistance in resolving any issues after migration to the Microsoft 365 cloud services. "
 date = 2019-06-20
 
 [taxonomies]
-products = ["Office 365"]
+products = ["Office 365", "microsoft 365"]
 types = ["Managed Services"]
 
 [extra]
@@ -15,7 +15,7 @@ manager = "Roman Sotnik"
 +++
 
 Our specialists are ready to provide advice and solutions on issues that
-may occur after migration to any of the Office 365 services, such as
+may occur after migration to any of the Microsoft 365 services, such as
 Exchange Online, SharePoint Online, Dynamics 365, and others.
 
 We are ready to provide advice on the configuration of products or
@@ -45,9 +45,9 @@ only, and does not include end-user support.
 
 1.  Customer team training
 2.  Desktop software settings
-3.  Any issues not directly related to Office 365
+3.  Any issues not directly related to Microsoft 365
 
 ### Results
 
-Professional support in solving any issues you may have with your Office
+Professional support in solving any issues you may have with your Microsoft
 365 services.

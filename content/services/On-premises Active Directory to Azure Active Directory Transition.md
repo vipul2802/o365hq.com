@@ -37,7 +37,7 @@ and IT assets while lowering support and operating costs.
 ### IT Partner responsibilities
 
 1.  Perform a gap analysis of an existing on-premises AD environment and
-    determine the necessity of additional Office 365/Azure licenses
+    determine the necessity of additional Microsoft 365/Azure licenses
 2.  Prepare the existing On-Prem Active Directory and Azure AD for the
     migration
 3.  Configure Azure AD policy
@@ -66,7 +66,7 @@ and IT assets while lowering support and operating costs.
 5.  Review and approve engagement deliverables in a timely manner
 6.  Request and approve all change management tickets (if applicable) in
     the Client environment
-7.  Make sure all users have proper licenses assigned in Office 365
+7.  Make sure all users have proper licenses assigned in Microsoft 365
     tenant
 8.  Provide access to physical and virtual servers, as needed
 9.  Provide necessary remote and/or physical access to facility and
@@ -74,7 +74,7 @@ and IT assets while lowering support and operating costs.
 10. Provide virtual or physical servers necessary to achieve the project
     goals
 11. Perform changes to internal and external DNS as required
-12. All the necessary Office 365 and/or Azure subscriptions must be
+12. All the necessary Microsoft 365 and/or Azure subscriptions must be
     purchased before user migration can be started
 13. Resolution of basic tickets, which may be resolved by following
     end-user adoption instructions provided by Microsoft 
@@ -132,7 +132,7 @@ The plan may vary depending on your needs.
 
 1.  A gap analysis of an existing on-prem AD environment and Azure AD has been 
     performed
-2.  The necessity of an additional Office 365/Azure licenses has been
+2.  The necessity of additional Microsoft 365/Azure licenses has been
     determined and licenses purchased (license cost is not included in
     this SOW cost)
 3.  The existing Azure AD has been prepared for the migration

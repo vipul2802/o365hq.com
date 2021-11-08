@@ -4,7 +4,7 @@ description = "OneDrive file migration from one tenant to another, with minimal 
 date = 2019-07-24
 
 [taxonomies]
-products = ["Office 365"]
+products = ["Office 365", "microsoft 365"]
 types = ["Migration"]
 
 [extra]
@@ -67,7 +67,7 @@ additional fee.
 
 ### Prerequisites
 
-1.  Office 365 tenant with appropriate OneDrive for Business license
+1.  Microsoft 365 tenant with appropriate OneDrive for Business license
 
 ### Plan
 

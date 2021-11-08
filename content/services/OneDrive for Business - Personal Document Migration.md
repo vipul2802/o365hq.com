@@ -32,7 +32,7 @@ Google Drive accounts are not a supported source.
 -   Google Drive to SharePoint Online
 -   Google Drive to Teams
 -   Google Sites to SharePoint Online
--   Office 365 Group to Office 365 Group
+-   Microsoft 365 Group to Microsoft 365 Group
 -   OneDrive for Business to OneDrive for Business
 
 Our **objective** is full document migration to OneDrive for Business,
@@ -93,7 +93,7 @@ provided for an additional fee. 
 
 ### Prerequisites
 
-1.  You must have an Office 365 tenant with OneDrive for Business,
+1.  You must have a Microsoft 365 tenant with OneDrive for Business,
     SharePoint Online, or Teams licenses
 2.  You must have admin access to your source and destination systems
 
