@@ -32,7 +32,7 @@ Small and midsize businesses can purchase Windows 365 directly or through a clou
 
 Windows 365 allows only one user per license and doesn’t support multiple users on a single Cloud PC. The existing Windows 365 Business licenses can`t be converted to Windows 365 Enterprise. If you purchase to Windows 365 Enterprise through a [Microsoft Cloud Solution Provider (CSP)](https://o365hq.com/), your CSP partner can submit support requests for nontechnical issues such as enrollment, membership, billing, subscription, and user management. You can check the comparison table between Windows 365 Business and Windows 365 Enterprise to find the best solution for your business.
                         
-<iframe src="https://itp365-my.sharepoint.com/:w:/g/personal/ds_itpartner365_com/EVatnBZ1k81EjfREe-Ey7qQBoLPsMg28s253hcINBby_ow?e=ltHlJ1&action=embedview" width="100%" height="600px" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://onedrive.live.com/embed?cid=6BBFDD038E0969FD&resid=6BBFDD038E0969FD%215884&authkey=AOhHG0FvqTseVWw&em=2" width="100%" height="600px" frameborder="0" scrolling="no"></iframe>
 
 <iframe src="https://itp365-my.sharepoint.com/:w:/g/personal/ds_itpartner365_com/EYoNmd3W3HdOvSCYQcvTXc8BMOhAXH0mtXXFTbOMntfbeg?e=Ek1PWv&action=embedview" width="100%" height="600px" frameborder="0" scrolling="no"></iframe>
 
