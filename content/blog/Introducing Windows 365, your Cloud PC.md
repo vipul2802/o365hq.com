@@ -34,7 +34,7 @@ Windows 365 allows only one user per license and doesn’t support multiple user
                         
 <iframe src="https://onedrive.live.com/embed?cid=6BBFDD038E0969FD&resid=6BBFDD038E0969FD%215884&authkey=AOhHG0FvqTseVWw&em=2" width="100%" height="600px" frameborder="0" scrolling="no"></iframe>
 
-<iframe src="https://itp365-my.sharepoint.com/:w:/g/personal/ds_itpartner365_com/EYoNmd3W3HdOvSCYQcvTXc8BMOhAXH0mtXXFTbOMntfbeg?e=Ek1PWv&action=embedview" width="100%" height="600px" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://onedrive.live.com/embed?cid=6BBFDD038E0969FD&resid=6BBFDD038E0969FD%215885&authkey=AE83X0bVlIw2Ksk&em=2" width="100%" height="600px" frameborder="0" scrolling="no"></iframe>
 
 Windows 365 is the world’s first Cloud PC. With Windows 365, Windows becomes a hybrid local OS and cloud OS. Organizations can choose whether a PC, with its locally installed OS, or a Cloud PC, with its cloud-based OS, is the best fit for a particular user or role in the organization. Microsoft also continues to innovate in Azure Virtual Desktop for those organizations with deep virtualization experience that want more customization and flexibility options. The evolution of Windows into a hybrid local and cloud OS allows you and your organization stay always up to date, enabling the best security settings for the environment at hand. In this table below you can find all the plans and pricing for Windows 365. All the products are available via CSP channel.
 
