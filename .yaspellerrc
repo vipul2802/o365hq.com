@@ -381,5 +381,8 @@
   "ignoreUrls": true,
   "ignoreUppercase": true,
   "ignoreCapitalization": true,
-  "ignoreDigits": true
+  "ignoreDigits": true,
+  "rebranding": true,
+  "finalization": true,
+  "NDRs": true
 }
