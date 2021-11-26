@@ -49,7 +49,7 @@ During this quick registration process, you will need to provide proof
 of your organization's eligibility (tax identification number or
 registered documentation from government entities, like a charity
 commission), as described on the
-[Eligibility](https://www.microsoft.com/en-us/nonprofits/eligibility)
+[Eligibility](https://www.microsoft.com/en-us/nonprofits/eligibility?activetab=pivot1%3aprimaryr4)
 page.
 
 (*Please note, the person completing registration will be the Global
