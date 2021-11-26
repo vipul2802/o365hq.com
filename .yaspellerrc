@@ -375,14 +375,16 @@
     "ETRs",
     "unassigned",
     "USLs",
-    "Zendesk"
+    "Zendesk",
+    "rebranding",
+    "finalization",
+    "NDRs"
+  
   ],
 
   "ignoreUrls": true,
   "ignoreUppercase": true,
   "ignoreCapitalization": true,
-  "ignoreDigits": true,
-  "rebranding": true,
-  "finalization": true,
-  "NDRs": true
+  "ignoreDigits": true
+  
 }
