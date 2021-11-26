@@ -1,7 +1,7 @@
 +++
 title = "Microsoft 365 tenant-to-tenant migration"
 description = "At the time of mergers and acquisitions, organizations might need a migration inside the Microsoft 365 cloud platform. The migration process requires preparation and additional planning to avoid Data Loss and bounced emails. This involves certain steps to help you successfully achieve your goal."
-date = 2021-11-26
+date = 2021-11-25
 
 [taxonomies]
 tags = ["microsoft 365", "migration"]
