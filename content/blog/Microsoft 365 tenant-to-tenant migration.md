@@ -1,7 +1,7 @@
 +++
 title = "Microsoft 365 tenant-to-tenant migration"
-description = "At the time of mergers and acquisitions, organizations might need a migration inside the Microsoft 365 cloud platform. The migration process requires preparation and additional planning to avoid Data Loss and bounced emails. This involves certain steps to help you successfully achieve your goal."
-date = 2021-11-25
+description = "At the time of mergers and acquisitions, organizations might need a migration inside the Microsoft 365 cloud platform. The migration process requires preparation and additional planning to avoid Data Loss and bounced emails."
+date = 2021-11-26
 
 [taxonomies]
 tags = ["microsoft 365", "migration"]
@@ -105,6 +105,6 @@ Once the migration has been completed, it is important to support end users and 
 
 * Achieve all the success criteria of the project and close it. 
 
-Migrating Microsoft 365 data during a merger or acquisition can be a challenging task. With [IT Partner](https://o365hq.com/about), you can be sure that the migration process is always secure and goes smoothly.  
+Migrating Microsoft 365 data during a merger or acquisition can be a challenging task. This involves certain steps to help you successfully achieve your goal. With [IT Partner](https://o365hq.com/about), you can be sure that the migration process is always secure and goes smoothly.  
 
 IT Partner has migrated [hundreds of organizations](https://o365hq.com/portfolio/ielo-design-pte-ltd/), and our team would be happy to provide you with great support services.
