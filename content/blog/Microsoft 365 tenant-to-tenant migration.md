@@ -41,7 +41,7 @@ This business scenario is used when the business unit adopts the target companyâ
 
 When you need to split users across two tenants, you should consider cloud tenant move. If you follow this scenario, identities will remain in the source tenant, but all users in the affected domain and all workloads are moved to a new cloud tenant.  
 
-![Microsoft 365 tenant-to-tenant migration](/img/T2T-1.png)
+![Microsoft 365 tenant-to-tenant migration](/img/T2T.png)
 
 ### What are the services that require data migration?
 
