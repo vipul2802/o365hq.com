@@ -14,11 +14,7 @@ duration = "3 days"
 manager = "Roman Sotnik"
 +++
 
-This procedure may be required if you have decided to use On-Premises
-Microsoft Exchange rather than Exchange Online and you need to remove
-all Exchange traces from your domain. Incorrect removal of Exchange can
-lead to problems in the further domain operation and make it impossible
-to reinstall Exchange and integrate AD with various services.
+This procedure may be required if you have decided to refuse On-Premises Microsoft Exchange and start using Exchange Online only and you need to remove all Exchange traces from your domain. Incorrect removal of Exchange can lead to problems in the further domain operation and make it impossible to reinstall Exchange and integrate AD with various services.
 
 ### IT Partner responsibilities:
 
