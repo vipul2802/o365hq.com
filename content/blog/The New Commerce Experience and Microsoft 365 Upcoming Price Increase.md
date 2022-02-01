@@ -26,6 +26,8 @@ Alongside the price increase, Microsoft is moving away from the fractured channe
 3.  Annual term offers and multi-year agreements with discounts and competitive pricing. 
 4.  Prices Premiums for short-term subscriptions for those who need seat-count flexibility. 
 
+![The New Commerce Experience and Microsoft 365 Upcoming Price Increase](/img/TableNCE.png)
+
 ### What is the timeline for NCE? 
 
 The seamless transition to the new experience will happen once your subscription is up for renewal: 
