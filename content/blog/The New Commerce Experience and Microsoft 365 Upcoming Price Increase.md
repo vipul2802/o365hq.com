@@ -4,7 +4,7 @@ description = "Microsoft launched Office 365 over a decade ago. Since then, Micr
 date = 2021-12-21
 
 [taxonomies]
-tags = ["microsoft 365"]
+tags = ["microsoft 365", "office 365"]
 +++
 
 Earlier this year Microsoft announced the first substantive price increase that will go into effect on **March 1, 2022**. There will be no changes to pricing for education and consumer products at this time, only to some of the commercial pricing for Microsoft 365: 
