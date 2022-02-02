@@ -11,7 +11,7 @@ We are happy to announce that [Windows 7 Extended Security Updates
 (ESU) 2020
 SKU](https://buymssoft.com/license/CSP-DG7GMGF0FL73-0002 "p/n: CSP-DG7GMGF0FL73-0002")
 is available on Buymssoft.com for purchase for
-\$62^[1](#fn11224028605e1e1c1175529-1)^ per year. The price will
+\$62^[1]^ per year. The price will
 increase in 2021.
 
 Extended Security Updates (ESU) for Windows 7 have been available for
@@ -68,7 +68,7 @@ updates after January 14, 2020.
 
 **Footnotes**
 
-^[1](#fnrev11224028605e1e1c1175529-1)^ The original price for Win 7
+^[1]^ The original price for Win 7
 ESU was \$50. But on Dec 10, 2019, it was increased to \$62.
 We got this communication from Microsoft:\
 "UPDATE: Windows 7 ESU in CSP -- Pricing\

@@ -9,7 +9,7 @@ tags = ["cloud app security", "cloud security", "security", "microsoft 365"]
 
 So, that happened... One way or another, your credentials leaked outside
 of your organization and bad
-actors^[1](#fn11128003305dfd0fba79395-1)^ gained access to your
+actors^[1]^ gained access to your
 account. Maybe you clicked on the link in the
 [phishing](https://en.wikipedia.org/wiki/Phishing) email and typed in
 your login and password on the legitimate-looking phishing website. Or
@@ -28,7 +28,7 @@ Depending on what bad actors see in your mailbox, inside your
 documents and your organization's systems, they may treat your account
 differently. The best outcome is when they don't see any opportunity to
 steal money or information and they use your account to spread
-laterally^[2](#fn11128003305dfd0fba79395-2)^ **INSIDE** and
+laterally^[2]^ **INSIDE** and
 **OUTSIDE** of your organization. They start sending hundreds
 of phishing emails to your contacts using your name, and your account gets
 blocked by Microsoft 365 protection mechanisms and that's it. The worst
@@ -90,7 +90,7 @@ So, what's next? {#so-whats-next style="text-align:center;"}
     AAD tenant.
 11. **Disable the IMAP protocol** for all your mailboxes.
     IMAP is often used for Password
-    Spray^[3](#fn11128003305dfd0fba79395-3)^ attacks, which are
+    Spray^[3]^ attacks, which are
     practically undetectable.
 12. **Reset user password** and **unlock the account**.
 13. **Educate your users**.
