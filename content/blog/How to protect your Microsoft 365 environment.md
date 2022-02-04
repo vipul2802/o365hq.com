@@ -97,7 +97,7 @@ Safe Links can help protect your organization from malicious phishing attacks by
 To get to Safe Links, complete the following steps: 
 
 1. Go to https://protection.office.com and sign in with your admin account. 
-2. IIn the Security & Compliance Center, in the left navigation pane, under **Threat management**, 
+2. In the Security & Compliance Center, in the left navigation pane, under **Threat management**, 
    select **Policy**.
 3. On the Policy page, select **Safe Links**. 
 
@@ -191,7 +191,7 @@ There are multiple types of social engineering techniques available in Attack si
 * Link to malware. 
 * Drive-by-URL. 
 
-[To launch a simulated phishing attackCompliance Manager](https://docs.microsoft.com/en-us/microsoft-365/security/office-365-security/attack-simulation-training?view=o365-worldwide) do the following steps: 
+[To launch a simulated phishing attack Compliance Manager](https://docs.microsoft.com/en-us/microsoft-365/security/office-365-security/attack-simulation-training?view=o365-worldwide) do the following steps: 
 
 1. In the Microsoft 365 Defender portal at https://security.microsoft.com, go to **Email &**
    **collaboration** > **Attack simulation training** > **Simulations** tab.
