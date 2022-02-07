@@ -211,7 +211,7 @@ We recommend that you start with these enhanced security features:
 
 The [PAW](https://docs.microsoft.com/en-us/security/compass/privileged-access-devices) is the highest security configuration designed for extremely sensitive roles in organizations. The PAW configuration includes security controls and policies that restrict local administrative access and productivity tools to minimize the attack surface to only what is absolutely required for performing sensitive job tasks. It blocks the most common vector for phishing attacks: email and web browsing. The workstation uses credential guard, device guard, app guard, and exploit guard to protect the host from malicious behavior. 
 
-#### Azure AD Privileged Identity Management. 
+#### Azure AD Privileged Identity Management.
 
 [Privileged Identity Management (PIM)](https://docs.microsoft.com/en-us/azure/active-directory/privileged-identity-management/pim-configure) helps you manage and monitor access to important resources in your organization. PIM offers time-based and approval-based role activation to mitigate the risks of excessive, unnecessary, or misused access permissions on resources that you care about. 
 

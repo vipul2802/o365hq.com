@@ -34,7 +34,7 @@ Use Windows PowerShell
 
 You can use Windows PowerShell to find the tenant ID. You'll need the
 [Microsoft Azure PowerShell
-module](https://go.microsoft.com/fwlink/p/?LinkId=717444).
+module](https://docs.microsoft.com/en-us/powershell/azure/?view=azps-6.5.0).
 
 Open a Microsoft Azure PowerShell command window and run the following
 script, entering your Microsoft 365 credentials when prompted.
