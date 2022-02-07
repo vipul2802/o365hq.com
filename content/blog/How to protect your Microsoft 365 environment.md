@@ -1,13 +1,15 @@
 +++
 title = "How to protect your Microsoft 365 environment"
-description = "Microsoft 365 is a complete solution for businesses that brings together Office 365, Windows 10, and Enterprise Mobility + Security (EMS). With Covid-2019 businesses are forced to rapidly adopt modern technologies to implement an entirely new working environment and support remote employees. Securing Microsoft 365 has become a crucial part of this transition, especially as rates of cyberattacks targeting enterprise cloud platforms are increasing each day."
-date = 2021-02-02
+description = "Microsoft 365 is a complete solution for businesses that brings together Office 365, Windows 10, and Enterprise Mobility + Security (EMS). Securing Microsoft 365 has become a crucial part of this transition, especially as rates of cyberattacks targeting enterprise cloud platforms are increasing each day."
+date = 2022-02-02
 
 [taxonomies]
 tags = ["microsoft 365", "security", "tenant security", "security links", "modern security", "cloud security", "advanced threat protection"]
 +++
 
-By investing in security, you ensure your organization has a safe and productive remote workforce in a Microsoft 365 environment. We recommend that you start with these **10 ESSENTIAL QUICK STEPS** to help you protect your own Microsoft 365 environment:
+With Covid-2019 businesses are forced to rapidly adopt modern technologies to implement an entirely new working environment and support remote employees. By investing in security, you ensure your organization has a safe and productive remote workforce in a Microsoft 365 environment. 
+
+We recommend that you start with these **10 ESSENTIAL QUICK STEPS** to help you protect your own Microsoft 365 environment:
 
 ### Step 1. Enable Security Defaults
 
@@ -21,7 +23,7 @@ By investing in security, you ensure your organization has a safe and productive
 5. Choose **Yes** to enable security defaults or **No** to disable security defaults, and then 
    choose **Save**.
 
-   ### Step 2. Implement Internal Trainings 
+### Step 2. Implement Internal Trainings 
 
 It is important to establish high security awareness in your organization to prevent modern cyberattacks. Make sure all your users, including security professionals, understand the new environment after you have moved it to the cloud. There are several actions your staff should take to prevent various phishing attacks: 
 
@@ -72,7 +74,7 @@ With AAD Identity Protection tool you can successfully accomplish these three ke
 
 Every day people receive numerous documents, presentations and attachments related to their work, links in emails, or any other activity. The improved [Microsoft 365 Defender portal](https://security.microsoft.com/homepage) brings Defender for Endpoint, Defender for Office 365, Microsoft 365 Defender into one single platform and includes various capabilities that protect your environment based on your organization`s security needs. You should use these recommendations as a starting point: 
 
-**Create a Safe Attachment Policy**
+#### Create a Safe Attachment Policy
 
 It is usually difficult to define whether an attachment is safe or not by just looking at the email. Creating a safe attachment policy will help you protect against malicious files and attachments. You need to [Connect Microsoft 365 to Microsoft Defender for Cloud Apps](https://docs.microsoft.com/en-us/defender-cloud-apps/connect-office-365) to enable this feature. 
 
