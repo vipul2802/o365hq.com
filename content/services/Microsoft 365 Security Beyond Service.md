@@ -1,6 +1,6 @@
 +++
-title = "Microsoft 365 Security Byond Service"
-description = "Microsoft 365 Security Byond Service."
+title = "Microsoft 365 Security Beyond Service"
+description = "Microsoft 365 Security Beyond Service."
 date = 2019-07-10
 
 [taxonomies]
