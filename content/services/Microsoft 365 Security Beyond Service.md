@@ -1,6 +1,6 @@
 +++
-title = "Microsoft 365 Security 30 Days Service"
-description = "Microsoft 365 Security 30 Days Service."
+title = "Microsoft 365 Security Byond Service"
+description = "Microsoft 365 Security Byond Service."
 date = 2019-07-10
 
 [taxonomies]
@@ -8,15 +8,15 @@ products = ["Office 365", "microsoft 365"]
 types = ["Security and Protection"]
 
 [extra]
-sku = "ITPWW030SECOT"
-price = "2000"
+sku = "ITPWW050SECOT"
+price = "6000"
 duration = "30 days"
 manager = "Roman Sotnik"
 +++
 
 We will perform all the necessary configurations of your tenant to set up basic secured environment.  
 
-Our objective is to provide a plan and design a way to enable core Microsoft 365 security features.  
+Our objective is to provide a plan and design a way to enable core Microsoft 365 security features. The project will be considered successful when all user data is fully migrated from Gmail and Google Drive to the Microsoft 365 tenant. 
 
 We take time to understand your business needs and assess the best tools and solutions. Our company provides service to small and large organizations and across many industries, helping them create, implement, and manage their cybersecurity tools and processes. 
 
@@ -35,6 +35,26 @@ Our team of experts is standing by to provide expertise and unbiased guidance on
 4. Enforcing Threat Protection, e.g. connecting M365 to MS Defender for Cloud Apps 
 5. Configuring Azure Active Directory Identity Protection 
 6. Configuring Teams with three tiers of protection (including sharing, classification, data loss prevention, and Azure Information Protection) 
+7. Microsoft Sentinel Initial configuration (e.g. basic M365 connectors) 
+8. At least monthly check ups of dashboards and reports in the Microsoft 365 Defender portal, Defender for Cloud Apps. 
+9. Look for and implement software updates. 
+10. Look for sharing risk by reviewing the built-in reports in Defender for Cloud Apps (on the Investigate tab). 
+11. Configure Privileged Access Workstations (PAWs) for admin activity. 
+12. Configure Azure AD Privileged Identity Management. 
+13. Configure a security information and event management (SIEM) tool to collect logging data from Office 365, Defender for Cloud Apps, and other services, including AD FS. The audit log stores data for only 90 days. Capturing this data in SIEM tool allows you to store data for a longer period. 
+14. Enable and enforce MFA for all users. 
+15. Implement a set of conditional access and related policies. 
+16. Conduct attack simulations for spear-phishing, password-spray, and brute-force password attacks using Attack simulation training (included with Office 365 Threat Intelligence. 
+17. Look for sharing risk by reviewing the built-in reports in Defender for Cloud Apps (on the Investigate tab). 
+18. Continue to regularly review dashboards and reports in the Microsoft 365 Defender portal, Defender for Cloud Apps, and SIEM tools. 
+19. Continue to look for and implement software updates. 
+20. Integrate eDiscovery into your legal and threat response processes. 
+21. Implement Secure Privileged Access (SPA) for identity components on premises (AD, AD FS). 
+22. Use Defender for Cloud Apps to monitor for insider threats. 
+23. Discover shadow IT SaaS usage by using Defender for Cloud Apps. 
+24. Refine policies and operational processes. 
+
+Use Azure AD Identity Protection to identify insider threats. 
 
 ### Client responsibilities
 
