@@ -74,7 +74,7 @@ With AAD Identity Protection tool you can successfully accomplish these three ke
 
 Every day people receive numerous documents, presentations and attachments related to their work, links in emails, or any other activity. The improved [Microsoft 365 Defender portal](https://security.microsoft.com/homepage) brings Defender for Endpoint, Defender for Office 365, Microsoft 365 Defender into one single platform and includes various capabilities that protect your environment based on your organization`s security needs. You should use these recommendations as a starting point: 
 
-#### Create a Safe Attachment Policy
+**Create a Safe Attachment Policy**
 
 It is usually difficult to define whether an attachment is safe or not by just looking at the email. Creating a safe attachment policy will help you protect against malicious files and attachments. You need to [Connect Microsoft 365 to Microsoft Defender for Cloud Apps](https://docs.microsoft.com/en-us/defender-cloud-apps/connect-office-365) to enable this feature. 
 
@@ -218,3 +218,6 @@ The [PAW](https://docs.microsoft.com/en-us/security/compass/privileged-access-de
 ![How to protect your Microsoft 365 environment](/img/HTprotect4.png)
 
 Understanding the capabilities of your Microsoft 365 platform can be a challenging and time-consuming task to achieve. Adoption of Microsoft 365 will allow your organization to keep confidential and personal data safe and secure. [IT Partner Team](https://o365hq.com/about) is always ready to discuss your business needs and help you strengthen your IT security. Check our services below and [contact us](https://o365hq.com/contacts)today. Our cloud services experts will do their best to help you get the most out of your Microsoft 365 environment. 
+
+
+
