@@ -1,6 +1,6 @@
 +++
 title = "How to protect your Microsoft 365 environment"
-description = "Microsoft 365 is a complete solution for businesses that brings together Office 365, Windows 10, and Enterprise Mobility + Security (EMS). Securing Microsoft 365 has become a crucial part of this transition, especially as rates of cyberattacks targeting enterprise cloud platforms are increasing each day."
+description = "Microsoft 365 is a complete solution for businesses that brings together Office 365, Windows 10, and Enterprise Mobility + Security (EMS). Securing Microsoft 365 has become crucial, especially as rates of cyberattacks targeting enterprise cloud platforms are increasing each day."
 date = 2022-02-02
 
 [taxonomies]
@@ -15,11 +15,11 @@ We recommend that you start with these **10 ESSENTIAL QUICK STEPS** to help you 
 
 [MFA](https://docs.microsoft.com/en-us/microsoft-365/admin/security-and-compliance/set-up-multi-factor-authentication?view=o365-worldwide) is a valuable tool for slowing down attackers. It is also called 2-step verification and it requires a code from your phone to get access to Microsoft 365 when you log in. MFA is easy to set up and at the same time it is one of the most effective ways to increase the security of your organization. To set up multifactor authentication, you turn on Security defaults: 
 
-1. Sing in to the [Microsoft 365 admin center](https://admin.microsoft.com/Adminportal/Home)
+1. Sign in to the [Microsoft 365 admin center](https://admin.microsoft.com/Adminportal/Home)
    with global admin credentials. 
 2. In the left nav choose **Show All** and under **Admin centers**, choose **Azure Active Directory**.
 3. In the **Azure Active Directory admin center** choose **Azure Active Directory**>**Properties**.
-4. At the bottom of the page, choose**Manage Security defaults**.
+4. At the bottom of the page, choose **Manage Security defaults**.
 5. Choose **Yes** to enable security defaults or **No** to disable security defaults, and then 
    choose **Save**.
 
@@ -37,7 +37,7 @@ It is also recommended to enable per-user Azure AD Multi-Factor Authentication t
 
 To enforce MFA across all your Microsoft 365 accounts: 
 
-1. Sing in to your [Microsoft 365 admin account](https://portal.azure.com/#home).
+1. Sign in to your [Microsoft 365 admin account](https://portal.azure.com/#home).
 2. Choose **Azure AD Security**. 
 3. In the left nav choose **Conditional Access**.
 4. Choose **New Policy** and name your policy, for example, **Enforce MFA**.
@@ -64,7 +64,7 @@ The number of attacks on the identity systems is increasing each day. Leveraging
 
 With AAD Identity Protection tool you can successfully accomplish these three key tasks: 
 
-* [Automate the detection and remediation of identity-based risks](https://docs.microsoft.com/en-us/azure/active-directory/identity-protection/howto-identity-protection-configure-risk-policies)
+* [Automate the detection and remediation of identity-based risks](https://docs.microsoft.com/en-us/azure/active-directory/identity-protection/howto-identity-protection-configure-risk-policies).
 * [Investigate risks](https://docs.microsoft.com/en-us/azure/active-directory/identity-protection/howto-identity-protection-investigate-risk) using data in the portal.
 * [Export risk detection data to your SIEM](https://docs.microsoft.com/en-us/azure/sentinel/data-connectors-reference#azure-active-directory-identity-protection).
 
@@ -74,13 +74,13 @@ With AAD Identity Protection tool you can successfully accomplish these three ke
 
 Every day people receive numerous documents, presentations and attachments related to their work, links in emails, or any other activity. The improved [Microsoft 365 Defender portal](https://security.microsoft.com/homepage) brings Defender for Endpoint, Defender for Office 365, Microsoft 365 Defender into one single platform and includes various capabilities that protect your environment based on your organization`s security needs. You should use these recommendations as a starting point: 
 
-**Create a Safe Attachment Policy**
+#### Create a Safe Attachment Policy
 
-It is usually difficult to define whether an attachment is safe or not by just looking at the email. Creating a safe attachment policy will help you protect against malicious files and attachments. You need to [Connect Microsoft 365 to Microsoft Defender for Cloud Apps](https://docs.microsoft.com/en-us/defender-cloud-apps/connect-office-365) to enable this feature. 
+It is usually difficult to define whether an attachment is safe or not by just looking at the email. Creating a safe attachment policy will help you protect files and attachments from malicious attacks. You need to [Connect Microsoft 365 to Microsoft Defender for Cloud Apps](https://docs.microsoft.com/en-us/defender-cloud-apps/connect-office-365) to enable this feature. 
 
 To create a Safe attachment policy, complete the following steps: 
 
-1. Go to https://protection.office.com and sign in with your admin account.
+1. Go to (https://protection.office.com) and sign in with your admin account.
 2. In the Security & Compliance Center, in the left navigation pane, under **Threat management**, 
    select **Policy**.
 3. On the Policy page, select **Safe Attachments**.
@@ -92,18 +92,18 @@ To create a Safe attachment policy, complete the following steps:
 
 For additional information, see [Set up anti-phishing policies in Defender for Office 365](https://docs.microsoft.com/en-us/microsoft-365/security/office-365-security/configure-mdo-anti-phishing-policies?view=o365-worldwide).
 
-**Use Safe Links Policy**
+#### Use Safe Links Policy
 
 Safe Links can help protect your organization from malicious phishing attacks by providing time-of-click verification of web addresses (URLs) in email messages and Office documents. Protection is defined through Safe Links policies. 
 
 To get to Safe Links, complete the following steps: 
 
-1. Go to https://protection.office.com and sign in with your admin account. 
+1. Go to (https://protection.office.com) and sign in with your admin account. 
 2. In the Security & Compliance Center, in the left navigation pane, under **Threat management**, 
    select **Policy**.
 3. On the Policy page, select **Safe Links**. 
 
-**Create an anti-phishing policy**
+#### Create an anti-phishing policy
 
 Anti-phishing protection is a part of Microsoft Defender for Office 365. It helps you protect your organization from malicious impersonation-based phishing attacks. If you haven't configured a custom domain yet, you do not need to do this. You should enable targeted anti-phishing protection only if you have configured one or more custom domains for your Microsoft 365 environment. You can get started with this protection by creating a policy to secure your most important users and your custom domain. 
 
@@ -117,7 +117,7 @@ To create an anti-phishing policy in Defender for Office 365, complete the follo
 
 For more information, see [Learn about anti-phishing policy in Microsoft Defender for Office 365 options](https://docs.microsoft.com/en-us/microsoft-365/security/office-365-security/set-up-anti-phishing-policies?view=o365-worldwide).
 
-**Configure the default anti-malware policy**
+#### Configure the default anti-malware policy
 
 Microsoft 365 environment includes protection against malware, but it is also possible to increase this protection by blocking attachments with file types that are commonly used for malware.   
 
@@ -130,9 +130,9 @@ To configure [anti-malware protection](https://docs.microsoft.com/en-us/microsof
 4. In the next page, under **Protection settings**, select the checkbox next to **Enable the common**
    **attachments filter**. The file types that are blocked are listed directly below this option. To add or delete file types, select **Customize file types** at the end of the list. 
 
-**Set up mail flow rules**
+#### Set up mail flow rules
 
-Ransomware can be hidden inside macros. It is crucial to block file types that could contain ransomware or other malicious URLs and warn your users not to open such files from people they do not know. Creating a mail flow rule can help you protect against ransomware. You can also use the mail transport rules to stop auto-forwarding for email.  
+Ransomware can be hidden inside macros. It is crucial to block file types that could contain ransomware or other malicious URLs and warn your users not to open such files from people they do not know. Creating a mail flow rule can help you protect your users against ransomware. You can also use the mail transport rules to stop auto-forwarding for email.  
 
 Follow these steps below to create a mail transport rule: 
 
@@ -143,7 +143,7 @@ Follow these steps below to create a mail transport rule:
 5. Apply the settings in the following table for each rule. Leave the rest of the settings at the
    default, unless you want to change them.  
 
-**Set up Office message Encryption**
+#### Set up Office message Encryption
 
 Included in Microsoft 365, Office message encryption allows organizations to [manage internal and external encrypted emails](https://support.microsoft.com/en-us/office/send-view-and-reply-to-encrypted-messages-in-outlook-for-pc-eaa43495-9bbb-4fca-922a-df90dee51980). Email message encryption enables you to use protection options, such as *Do not Forward*, *Encrypt and Confidential* when sending an email and helps you ensure that only certain intended recipients can view message content. You should consider purchasing these licenses below to implement Office message Encryption (OME): 
 
@@ -158,9 +158,9 @@ Included in Microsoft 365, Office message encryption allows organizations to [ma
 
 Microsoft Teams is a secure platform that is used by millions of users on a regular basis. So, it is important to configure additional meaningful steps up in Teams protection. Microsoft offers three tiers of protection for data, identities, and devices: 
 
-* Baseline protection 
-* Sensitive protection 
-* Highly sensitive protection 
+* Baseline protection.
+* Sensitive protection.
+* Highly sensitive protection.
 
 Baseline protection includes public and private teams. Public teams can be accessed by anybody in the organization. While private teams can only be discovered and accessed by members of the team.  
 Teams for sensitive and highly sensitive protection are only private teams in which sharing is limited and sensitivity labels are used to set policies around guest sharing, device access, and content encryption. 
@@ -173,15 +173,15 @@ Microsoft 365 offers a rich set of capabilities to help you achieve compliance w
 
 ![How to protect your Microsoft 365 environment](/img/HTprotect2.png)
 
-## Advanced protection capabilities to increase security in your business 
+### Advanced protection capabilities to increase security in your business 
 
 These enhanced security features will help your organization improve its cyber-attack prevention. These tasks take a bit more time to plan and implement but they greatly increase your security posture: 
 
-#### Microsoft Compliance Manager 
+#### Microsoft Compliance Manager.
 
 [Compliance Manager](https://docs.microsoft.com/en-us/microsoft-365/compliance/compliance-manager?view=o365-worldwide) is available to organizations with Office 365 and Microsoft 365 licenses, and to US Government Community Cloud (GCC) Moderate, GCC High, and Department of Defense (DoD) customers. It helps organizations test and monitor compliance activities as well as simplify compliance and reduce risk. The Compliance Manager dashboard reflects your current compliance score and guides you to key improvement actions. 
 
-#### Attack simulation training
+#### Attack simulation training.
 
 Attack stimulations test your organization`s security policies and train your employees to increase their awareness and reduce cyberattack vulnerability. These simulated attacks can help you identify high-risk users before a real attack affects your bottom line. 
 
@@ -193,12 +193,12 @@ There are multiple types of social engineering techniques available in Attack si
 * Link to malware. 
 * Drive-by-URL. 
 
-[To launch a simulated phishing attack Compliance Manager](https://docs.microsoft.com/en-us/microsoft-365/security/office-365-security/attack-simulation-training?view=o365-worldwide) do the following steps: 
+[To launch a simulated phishing attack](https://docs.microsoft.com/en-us/microsoft-365/security/office-365-security/attack-simulation-training?view=o365-worldwide) do the following steps: 
 
-1. In the Microsoft 365 Defender portal at https://security.microsoft.com, go to **Email &**
+1. In the Microsoft 365 Defender portal at (https://security.microsoft.com), go to **Email &**
    **collaboration** > **Attack simulation training** > **Simulations** tab.
 2. To go directly to the Simulations tab, use
-   https://security.microsoft.com/attacksimulator?viewid=simulations.
+   (https://security.microsoft.com/attacksimulator?viewid=simulations).
 3. On the **Simulations** tab, select **Launch a simulation** icon. 
 
 ![How to protect your Microsoft 365 environment](/img/HTprotect3.png)
@@ -217,7 +217,7 @@ The [PAW](https://docs.microsoft.com/en-us/security/compass/privileged-access-de
 
 ![How to protect your Microsoft 365 environment](/img/HTprotect4.png)
 
-Understanding the capabilities of your Microsoft 365 platform can be a challenging and time-consuming task to achieve. Adoption of Microsoft 365 will allow your organization to keep confidential and personal data safe and secure. [IT Partner Team](https://o365hq.com/about) is always ready to discuss your business needs and help you strengthen your IT security. Check our services below and [contact us](https://o365hq.com/contacts)today. Our cloud services experts will do their best to help you get the most out of your Microsoft 365 environment. 
+Understanding the capabilities of your Microsoft 365 platform can be a challenging and time-consuming task to achieve. Adoption of Microsoft 365 will allow your organization to keep confidential and personal data safe and secure. [IT Partner Team](https://o365hq.com/about) is always ready to discuss your business needs and help you strengthen your IT security. Check our services below and [contact us](https://o365hq.com/contacts) today. Our cloud services experts will do their best to help you get the most out of your Microsoft 365 environment. 
 
 
 
