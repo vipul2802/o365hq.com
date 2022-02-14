@@ -55,8 +55,8 @@ turns a certain communication site into a home site granting it
 *"Superpowers" of the home site*
 
 Building sites is quick, but there are tools to make it even quicker. One
-of these tools is [SharePoint Online Provisioning
-Service](https://provisioning.sharepointpnp.com/) . It allows you to simply
+of these tools is SharePoint Online Provisioning
+Service. It allows you to simply
 deploy samples and solutions and customize them to meet your needs. We
 encourage you to check it out!
 
