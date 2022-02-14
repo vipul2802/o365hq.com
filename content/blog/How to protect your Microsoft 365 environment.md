@@ -80,7 +80,7 @@ It is usually difficult to define whether an attachment is safe or not by just l
 
 To create a Safe attachment policy, complete the following steps: 
 
-1. Go to (https://protection.office.com) and sign in with your admin account.
+1. Go to [https://protection.office.com](https://protection.office.com) and sign in with your admin account.
 2. In the Security & Compliance Center, in the left navigation pane, under **Threat management**, 
    select **Policy**.
 3. On the Policy page, select **Safe Attachments**.
@@ -98,7 +98,8 @@ Safe Links can help protect your organization from malicious phishing attacks by
 
 To get to Safe Links, complete the following steps: 
 
-1. Go to (https://protection.office.com) and sign in with your admin account. 
+1. Go to [https://protection.office.com](https://protection.office.com) and sign in with your admin   
+   account.
 2. In the Security & Compliance Center, in the left navigation pane, under **Threat management**, 
    select **Policy**.
 3. On the Policy page, select **Safe Links**. 
@@ -195,10 +196,10 @@ There are multiple types of social engineering techniques available in Attack si
 
 [To launch a simulated phishing attack](https://docs.microsoft.com/en-us/microsoft-365/security/office-365-security/attack-simulation-training?view=o365-worldwide) do the following steps: 
 
-1. In the Microsoft 365 Defender portal at (https://security.microsoft.com), go to **Email &**
-   **collaboration** > **Attack simulation training** > **Simulations** tab.
+1. In the Microsoft 365 Defender portal at 
+   [https://security.microsoft.com](https://security.microsoft.com), go to **Email & collaboration** > **Attack simulation training** > **Simulations** tab.
 2. To go directly to the Simulations tab, use
-   (https://security.microsoft.com/attacksimulator?viewid=simulations).
+   [https://security.microsoft.com/attacksimulator?viewid=simulations](https://security.microsoft.com/attacksimulator?viewid=simulations).
 3. On the **Simulations** tab, select **Launch a simulation** icon. 
 
 ![How to protect your Microsoft 365 environment](/img/HTprotect3.png)
