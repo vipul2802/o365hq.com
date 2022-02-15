@@ -220,5 +220,4 @@ The [PAW](https://docs.microsoft.com/en-us/security/compass/privileged-access-de
 
 Understanding the capabilities of your Microsoft 365 platform can be a challenging and time-consuming task to achieve. Adoption of Microsoft 365 will allow your organization to keep confidential and personal data safe and secure. [IT Partner Team](https://o365hq.com/about) is always ready to discuss your business needs and help you strengthen your IT security. Check our services below and [contact us](https://o365hq.com/contacts) today. Our cloud services experts will do their best to help you get the most out of your Microsoft 365 environment. 
 
-
-
+<iframe src="https://onedrive.live.com/embed?cid=6BBFDD038E0969FD&resid=6BBFDD038E0969FD%215892&authkey=ACIe4fBLrqm7c4g&em=2" width="100%" height="600px" frameborder="0" scrolling="no"></iframe>
