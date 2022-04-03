@@ -1,6 +1,6 @@
 +++
 title = "Introducing Microsoft Teams Essentials"
-description = "The past few years have been challenging for all organizations, especially for small businesses as they had to adapt to the new hybrid work environment. On December 1st, 2021, Microsoft introduced Teams Essentials, a standalone app built specifically for small businesses."
+description = "The past few years have been challenging for all organizations, especially for small businesses as they had to adapt to the new hybrid work environment. On December 1st, 2021, Microsoft introduced [Teams Essentials](https://www.microsoft.com/en-us/microsoft-teams/compare-microsoft-teams-options?activetab=pivot:primaryr1), a standalone app built specifically for small businesses."
 date = 2022-03-30
 
 [taxonomies]
