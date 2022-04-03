@@ -165,8 +165,7 @@ including a \$3500 Azure Credits offer.
     nonprofits](https://www.microsoft.com/en-us/nonprofits/dynamics-365?activetab=pivot1%3aprimaryr3)
     -- Engage with donors and volunteers, connect with beneficiaries,
     and manage finances.
-3.  Check the interactive [Microsoft Teams
-    Demo](https://teamsdemo.office.com/).
+3.  Check the interactive Microsoft Teams Demo.
 4.  [Compare Microsoft 365 and Office 365 offers for
     nonprofits](https://www.microsoft.com/en-us/microsoft-365/nonprofit/office-365-nonprofit-plans-and-pricing).
 5.  [Download a Crash Course in Microsoft 365 Business Premium for
