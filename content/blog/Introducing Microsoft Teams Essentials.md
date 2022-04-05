@@ -9,7 +9,7 @@ tags = ["microsoft 365", "cloud phone system", "microsoft teams", "phone system"
 
 #### What is Microsoft Teams Essentials? 
 
-[Teams Essentials](https://www.microsoft.com/en-us/microsoft-teams/compare-microsoft-teams-options?activetab=pivot:primaryr1) is a part of Microsoft 365 that brings existing Teams capabilities together with features designed for small companies. It is an affordable meeting solution to support teamwork and productivity in a hybrid work environment for companies with up to 300 users. Teams Essentials allows to host professional meetings and collaborate in one place. It also makes it possible for nonprofits, religious organizations, schools, and community groups to connect and participate affectively with no IT expertise necessary.  
+[Teams Essentials](https://www.microsoft.com/en-us/microsoft-teams/compare-microsoft-teams-options?activetab=pivot:primaryr1) is a part of Microsoft 365 that brings existing Teams capabilities together with features designed for small companies. It is an affordable meeting solution to support teamwork and productivity in a hybrid work environment for companies with up to 300 users. Teams Essentials allows users to host professional meetings and collaborate in one place. It also makes it possible for nonprofits, religious organizations, schools, and community groups to connect and participate effectively with no IT expertise necessary.  
 
 ![Introducing Microsoft Teams Essentials](/img/teamsessential-1.png)
 
