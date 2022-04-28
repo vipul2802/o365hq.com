@@ -381,7 +381,9 @@
     "NDRs",
     "nav",
     "flyout",
-    "DoD"
+    "DoD", 
+    "dongle",
+    "multimodal"
 
   ],
 
