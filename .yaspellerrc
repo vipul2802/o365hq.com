@@ -383,7 +383,10 @@
     "flyout",
     "DoD", 
     "dongle",
-    "multimodal"
+    "multimodal",
+    "recoverability", 
+    "outsource"
+
 
   ],
 
