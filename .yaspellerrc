@@ -385,7 +385,12 @@
     "dongle",
     "multimodal",
     "recoverability", 
-    "outsource"
+    "outsource",
+    "themed",
+    "payloads",
+    "Payload",
+    "Pentesting"
+
 
 
   ],
