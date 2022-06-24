@@ -1,7 +1,7 @@
 +++
 title = "Train your users against cyber-attacks with Attack simulation training"
 description = "Cyber-attacks have become the new daily reality for organizations now that most of them have shifted to a hybrid working model. Cyber-attacks can cause major damage to businesses and their IT infrastructure and especially they aim to attack small and medium-sized companies. It is always better to prevent future attacks as it may be impossible to recover from them without the budget or resources to do so."
-date = 2022-06-23
+date = 2022-06-24
 
 [taxonomies]
 tags = ["microsoft 365", "modern security", "security", "cloud security"]
