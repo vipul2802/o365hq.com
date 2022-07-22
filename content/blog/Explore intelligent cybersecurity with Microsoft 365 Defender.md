@@ -73,7 +73,7 @@ Microsoft Defender for Office 365 comes in two different Plan types. **Plan 1** 
 
 * Microsoft Defender for Office 365 Plan 2 is included in Office 365 E5, Office 365 A5, and Microsoft 365 E5. 
 * Microsoft Defender for Office 365 Plan 1 is included in Microsoft 365 Business Premium. 
-* Microsoft Defender for Office 365 Plan 1 and Defender for Office 365 Plan 2 are each available as an add-on for certain subscriptions. To learn more, here is another link [Feature availability across Microsoft Defender for Office 365 plans](https://docs.microsoft.com/en-us/office365/servicedescriptions/office-365-advanced-threat-protection-service-description#feature-availability-across-advanced-threat-protection-atp-plans). 
+* Microsoft Defender for Office 365 Plan 1 and Defender for Office 365 Plan 2 are each available as an add-on for certain subscriptions. 
 
 ![Explore intelligent cybersecurity with Microsoft 365 Defender](/img/M365Defender4.png)
 
