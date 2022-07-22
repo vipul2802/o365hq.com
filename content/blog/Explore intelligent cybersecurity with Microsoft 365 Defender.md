@@ -21,7 +21,7 @@ Microsoft 365 Defender cross-product features include:
 
 #### Microsoft 365 Defender portal 
 
-The [Microsoft 365 Defender portal](https://security.microsoft.com/homepage?tid=4ed6ea8d-6f86-411d-b7e0-37401bdb9b68https://www.microsoft.com/en-us/security/business/threat-protection) is a single pane that brings together functionality from existing Microsoft security portals, like the Microsoft 365 Defender portal and the Office 365 Security & Compliance center, and emphasizes quick access to information, and simpler layouts for easier use.  
+The [Microsoft 365 Defender portal](https://security.microsoft.com/homepage?tid=4ed6ea8d-6f86-411d-b7e0-37401bdb9b68) is a single pane that brings together functionality from existing Microsoft security portals, like the Microsoft 365 Defender portal and the Office 365 Security & Compliance center, and emphasizes quick access to information, and simpler layouts for easier use.  
 
 Microsoft 365 Defender emphasizes unity, clarity, and common goals as it merges Microsoft Defender for Office 365 and Microsoft Defender for Endpoint and moves each security model into the unified portal. The roles already in the products will be converged into the Microsoft 365 Defender portal automatically. However, Microsoft Defender for Cloud Apps will still handle its own roles and permissions. 
 
