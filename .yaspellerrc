@@ -392,7 +392,9 @@
     "Pentesting",
     "macOS",
     "MSSPs",
-    "deprovision"
+    "deprovision",
+    "reputational",
+    "antimalware"
 
 
 
