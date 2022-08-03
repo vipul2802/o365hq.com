@@ -131,7 +131,7 @@ Auto-forwarding may result in data leakage or even data loss, so it is
 safer to turn off this capability for your employees. Creating a
 transport rule blocking any auto-forward message types is among the
 simplest and handiest ways to do it. The following
-[article](https://blogs.technet.microsoft.com/exovoice/2017/12/07/disable-automatic-forwarding-in-office-365-and-exchange-server-to-prevent-information-leakage/)
+[article](https://docs.microsoft.com/ru-ru/archive/blogs/exovoice/disable-automatic-forwarding-in-office-365-and-exchange-server-to-prevent-information-leakage)
 can give you a better idea on how it works.
 
 ![](https://o365hq.com/images/196.png)

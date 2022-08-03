@@ -24,7 +24,7 @@ Windows, Teams requires .NET Framework 4.5 or later; the Teams installer
 will offer to install it for you if you don't have it.
 
 **Windows Desktop client** can be downloaded and installed by end users
-directly from <https://teams.microsoft.com/downloads> if they have the
+directly from <https://www.microsoft.com/en-us/microsoft-teams/download-app> if they have the
 appropriate local permissions.
 
 **Mac users** can install Teams by using a PKG installation
