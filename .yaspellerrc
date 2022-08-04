@@ -394,7 +394,8 @@
     "MSSPs",
     "deprovision",
     "reputational",
-    "antimalware"
+    "antimalware",
+    "exfiltration"
 
 
 
