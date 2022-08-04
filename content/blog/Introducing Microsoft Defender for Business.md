@@ -13,7 +13,7 @@ Since security has become more important than ever, especially among small and m
 
 [Microsoft Defender for Business](https://www.microsoft.com/en-us/security/business/endpoint-security/microsoft-defender-business), a new cost-effective endpoint security solution built to help companies run their businesses in the new hybrid work environment. You can easily use it to protect your organization against cyber threats across Windows, macOS, iOS, and Android devices. Microsoft Defender for Business offers security policies activated out-of-the-box as well as simplified client configuration together with threat and vulnerability management, automated investigation, and remediation.  
 
-![Introducing Microsoft Defender for Business](/img/\\DefenderBiz1.png)
+![Introducing Microsoft Defender for Business](/img/DefenderBiz1.png)
 
 #### What are the capabilities of Microsoft Defender for Business? 
 
@@ -26,7 +26,7 @@ Microsoft Defender for Business is specifically built for companies with up to 3
 * **Automated investigation and remediation** examine alerts, prioritize tasks, and help you focus on more sophisticated threats. 
 * **APIs and integration** enable you to automate workflows and integrate security data into your existing security platforms and reporting tools. 
 
-![Introducing Microsoft Defender for Business](/img/\\DefenderBiz2.png)
+![Introducing Microsoft Defender for Business](/img/DefenderBiz2.png)
 
 #### What is the price for Microsoft Defender for Business? 
 
