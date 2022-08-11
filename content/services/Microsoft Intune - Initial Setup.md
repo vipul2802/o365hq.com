@@ -14,6 +14,8 @@ duration = "2 weeks"
 manager = "Roman Sotnik"
 +++
 
+### Description
+
 **Microsoft Intune** is a cloud service located on Microsoft servers in
 **Azure**; it allows you to manage the devices that are used by your
 employees to access corporate data.\
