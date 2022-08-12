@@ -23,7 +23,7 @@ Alternatively, customers can purchase a Teams Phone standalone SKU which allows 
 
 ### What if I have DO NOT USE next to Microsoft 365 Business Voice?
 
-If you have noticed this change in your tenant, we strongly recommend that you move from Business Voice to Teams Phone licenses as soon as possible. The license can still be used up to the current cycle they are on, but DO NOT USE means existing Business Voice customers will not be automatically transitioned to the new licensing model and their Business Voice licenses will not be renewed at the next renewal date.
+Like *DO NOT USE – Microsoft 365 Business Voice (without Calling Plan)*, for example. If you have noticed this change in your tenant, we strongly recommend that you move from Business Voice to Teams Phone licenses before your original license expiration date. The license can still be used while they are still active, but DO NOT USE means existing Business Voice customers will not be automatically transitioned to the new licensing model and their Business Voice licenses will not be renewed at the next renewal date.
 
 ![The end of Microsoft 365 Business Voice. Move from Business Voice to Microsoft Teams licenses today!](/img/MT1.png)
 
@@ -46,7 +46,7 @@ There are two license plans available for you depending on what your old license
 1.  [Teams Phone with Calling Plan](https://o365hq.com/license/CFQ7TTC0HL73-0001-P1Y-M) and [Microsoft Teams Audio Conferencing with dial-out to USA/CAN](https://o365hq.com/license/CFQ7TTC0JXCZ-0004-P1Y-M) if your old license plan is **Business Voice with Calling Plan**. 
 This recommended license plan provides cloud-based Phone System capabilities, a Domestic Calling Plan with Microsoft as your PSTN provider, and dial-in and dial-out capabilities to meeting attendees organized by a licensed user. 
 2.  [Microsoft Teams Phone Standard](https://o365hq.com/license/CFQ7TTC0LH0T-0001-P1Y-M) and [Microsoft Teams Audio Conferencing with dial-out to USA/CAN](https://o365hq.com/license/CFQ7TTC0JXCZ-0004-P1Y-M) if your old license plan is **Business Voice without Calling Plan**.  
-This license plan provides cloud-based Phone System capabilities that can be combined with a third-party calling plan with a PSTN provider using Operator Connect or Direct Routing and dial-in and dial-out capabilities to meeting attendees organized by a licensed user. 
+This license plan provides cloud-based Phone System capabilities that can be combined with [a third-party calling plan with a PSTN provider using Operator Connect or Direct Routing](https://docs.microsoft.com/nl-nl/microsoftteams/pstn-connectivity) and dial-in and dial-out capabilities to meeting attendees organized by a licensed user. 
 
 ![The end of Microsoft 365 Business Voice. Move from Business Voice to Microsoft Teams licenses today!](/img/MT2.png)
 
