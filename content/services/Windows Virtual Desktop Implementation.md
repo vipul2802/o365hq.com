@@ -14,6 +14,8 @@ duration = "1 week"
 manager = "Roman Sotnik"
 +++
 
+### Description
+
 Providing remote workstations (VDI) and terminal server services across a company, even a small one, requires a significant amount of work for administrators. Most of the time is spent configuring and integrating lots of components that this service consists of. Microsoft suggests looking at this challenge in a new way with Windows Virtual Desktop (WVD). WVD is a cloud-based desktop virtualization service and applications based on Microsoft Azure. The main benefits of WVD include:
 
 •	Integration and management of components responsible for providing remote desktops and applications. Microsoft offers them free of charge as a service with an SLA.  

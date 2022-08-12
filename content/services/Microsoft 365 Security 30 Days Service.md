@@ -14,6 +14,8 @@ duration = "30 days"
 manager = "Roman Sotnik"
 +++
 
+### Description
+
 We will perform all the necessary configurations of your tenant to set up basic secured environment.  
 
 Our objective is to provide a plan and design a way to enable core Microsoft 365 security features.  

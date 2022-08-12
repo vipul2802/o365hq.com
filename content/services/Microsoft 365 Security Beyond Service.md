@@ -14,9 +14,11 @@ duration = "30 days"
 manager = "Roman Sotnik"
 +++
 
+### Description
+
 We will perform all the necessary configurations of your tenant to set up basic secured environment.  
 
-Our objective is to provide a plan and design a way to enable core Microsoft 365 security features. The project will be considered successful when all user data is fully migrated from Gmail and Google Drive to the Microsoft 365 tenant. 
+Our **objective** is to provide a plan and design a way to enable core Microsoft 365 security features. The project will be considered successful when all user data is fully migrated from Gmail and Google Drive to the Microsoft 365 tenant. 
 
 We take time to understand your business needs and assess the best tools and solutions. Our company provides service to small and large organizations and across many industries, helping them create, implement, and manage their cybersecurity tools and processes. 
 
