@@ -1,7 +1,7 @@
 +++
 title = "Explore intelligent cybersecurity with Microsoft 365 Defender"
 description = "Modern businesses face greater cybersecurity risks and complexity of security challenges than ever before. As attacks have become more sophisticated and regular, alerts increase, and security teams are getting overwhelmed. Microsoft 365 Defender helps organizations concentrate more on proactive security to stop cyber threats before they happen."
-date = 2022-07-20
+date = 2022-07-21
 
 [taxonomies]
 tags = ["microsoft 365", "modern security", "security", "cloud security"]
@@ -93,6 +93,23 @@ Microsoft Defender for Cloud Apps is a user-based subscription service. Each lic
 The easiest way to get access to this service is to purchase a Microsoft 365 E5 license. Microsoft Defender for Cloud Apps is also available as part of the EM+S (Enterprise Mobility Security) E5 license, but it is important to know that it is going to be in addition to your standard Office 365 licenses. 
 
 ![Explore intelligent cybersecurity with Microsoft 365 Defender](/img/M365Defender5.png)
+
+#### Microsoft Defender for Business
+
+[Microsoft Defender for Business](https://www.microsoft.com/en-us/security/business/endpoint-security/microsoft-defender-business), a new cost-effective endpoint security solution built to help companies run their businesses in the new hybrid work environment. You can easily use it to protect your organization against cyber threats across Windows, macOS, iOS, and Android devices. Microsoft Defender for Business offers security policies activated out-of-the-box as well as simplified client configuration together with threat and vulnerability management, automated investigation, and remediation.  
+
+Microsoft Defender for Business is specifically built for companies with up to 300 employees to help them better protect their business. It is an easy-to-use solution that brings together enterprise-grade endpoint security capabilities: 
+
+* **Attack surface reduction** minimizes the level of cyber-attacks across your devices and apps. 
+* **Threat and vulnerability management** helps you detect and remediate software vulnerabilities. 
+* **Next-generation protection** offers antimalware and antivirus protection—on your devices and in the cloud. 
+* **Endpoint detection and response (EDR)** allows you to discover persistent threats and remove them from your environment.
+* **Automated investigation and remediation** examine alerts, prioritize tasks, and help you focus on more sophisticated threats. 
+* **APIs and integration** enable you to automate workflows and integrate security data into your existing security platforms and reporting tools. 
+
+Microsoft has designed this licensing model flexible and simple to help you easily onboard and manage endpoint security with low operational overhead. Microsoft Defender for Business is available for purchase as a [standalone offering, priced at $3 per user per month](https://o365hq.com/license/CFQ7TTC0HX56-0002-P1Y-M) and as [part of Microsoft 365 Business Premium at $22 per user per month](https://o365hq.com/license/CFQ7TTC0LCHC-0002-P1Y-M).
+
+![Explore intelligent cybersecurity with Microsoft 365 Defender](/img/DB.png)
 
 #### Licensing requirements for Microsoft 365 Defender 
 
