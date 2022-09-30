@@ -14,6 +14,8 @@ duration = "7 days"
 manager = "Roman Sotnik"
 +++
 
+### Description
+
 SharePoint Online or Teams migration is a great option for organizations that require a best-in-class solution. Migrating file shares and documents from on-premises or cloud-based file storage systems such as Google Drive, Box or Dropbox to SharePoint Online or Teams enables users to store, share and collaborate in a single, secure place in a real time and from any device.  
 
 Our **goal** is to guarantee a successful and smooth migration process of files, folders, and documents from your source to SharePoint Online or Teams. Project will be considered completed once all data has been fully and properly migrated to SharePoint Online or Teams. 
