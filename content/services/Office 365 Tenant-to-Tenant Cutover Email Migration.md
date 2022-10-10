@@ -36,8 +36,6 @@ the extended migration service.
     or CSV import
 3.  Do pre-stage migration (only emails and email folders older than 30
     days)
-4.  Proxy services setup, which allows for receiving all incoming emails
-    during a domain transfer
 5.  Final mailbox migration with calendars, contacts, rules, and other
     data
 6.  Change records in domain zones to accommodate migration needs
@@ -104,4 +102,3 @@ The plan may vary depending on your needs.
 3.  All necessary Transport rules are created and working
 4.  Mail can be sent and received using Exchange Online
 5.  Exchange Online Protection is configured and working
-6.  No incoming message loss during the migration process
