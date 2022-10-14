@@ -84,7 +84,7 @@ Sometimes a new employee is hired to take on the job responsibilities of a forme
 
 * **Delete an inactive mailbox**. 
 You can always remove the hold applied and permanently [delete an inactive mailbox](https://learn.microsoft.com/en-us/microsoft-365/compliance/delete-an-inactive-mailbox?view=o365-worldwide) if you do not need to preserve the contents of an inactive mailbox. Once you remove the hold, the mailbox will be retained for 183 days before it becomes non-recoverable. 
- 
+  
 ![How to delete former employees` Microsoft 365 accounts and properly preserve their mailbox data](https://o365hq.com/images/HTdelete4.png)
 
 To summarize, there is no single solution that can fit all your needs although our personal recommendation is to use shared mailboxes as a preferred method or preserving the mailbox data. Our experienced IT Partner team will help you better understand and improve the whole data preservation process. 
