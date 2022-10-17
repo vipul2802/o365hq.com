@@ -20,7 +20,7 @@ We recommend that you complete these steps below to secure the organization's da
 5.  [Remove and delete the Microsoft 365 license from a former employee](https://learn.microsoft.com/en-us/microsoft-365/admin/add-users/remove-former-employee-step-6?view=o365-worldwide).
 6.  [Delete a former employee's user account](https://learn.microsoft.com/en-us/microsoft-365/admin/add-users/remove-former-employee-step-7?view=o365-worldwide).
 
-![How to delete former employees` Microsoft 365 accounts and properly preserve their mailbox data](https://o365hq.com/images/HTdelete1.png)
+![How to delete former employees` Microsoft 365 accounts and properly preserve their mailbox data](/img/HTdelete1.png)
 
 ### What is the proper way of preserving mailbox data? 
 
@@ -49,7 +49,7 @@ To use a shared mailbox, the mailbox must have a license assigned to it. Once a 
 
 Admins can now convert a cloud-based user mailbox to a shared mailbox with a single click in the Exchange Admin Center (EAC). No need to use PowerShell anymore. A cloud-based shared mailbox can be converted to user mailbox with a single click, as well. 
 
-![How to delete former employees` Microsoft 365 accounts and properly preserve their mailbox data](https://o365hq.com/images/HTdelete2.png)
+![How to delete former employees` Microsoft 365 accounts and properly preserve their mailbox data](/img/HTdelete2.png)
 
 ### Option 2. Create and manage inactive mailboxes 
 
@@ -64,7 +64,7 @@ If you no longer need to retain the contents of an inactive mailbox, you can per
 
 Inactive mailboxes let you retain former employees' email after they resign and can be accessed by authorized people who have been granted [eDiscovery permissions](https://learn.microsoft.com/en-us/microsoft-365/compliance/assign-ediscovery-permissions?view=o365-worldwide) for compliance or legal reasons.   
 
-![How to delete former employees` Microsoft 365 accounts and properly preserve their mailbox data](https://o365hq.com/images/HTdelete3.png)
+![How to delete former employees` Microsoft 365 accounts and properly preserve their mailbox data](/img/HTdelete3.png)
 
 ### Management of inactive mailboxes 
 
@@ -85,6 +85,6 @@ Sometimes a new employee is hired to take on the job responsibilities of a forme
 * **Delete an inactive mailbox**. 
 You can always remove the hold applied and permanently [delete an inactive mailbox](https://learn.microsoft.com/en-us/microsoft-365/compliance/delete-an-inactive-mailbox?view=o365-worldwide) if you do not need to preserve the contents of an inactive mailbox. Once you remove the hold, the mailbox will be retained for 183 days before it becomes non-recoverable. 
  
-![How to delete former employees` Microsoft 365 accounts and properly preserve their mailbox data](https://o365hq.com/images/HTdelete4.png)
+![How to delete former employees` Microsoft 365 accounts and properly preserve their mailbox data](/img/HTdelete4.png)
 
 To summarize, there is no single solution that can fit all your needs although our personal recommendation is to use shared mailboxes as a preferred method or preserving the mailbox data. Our experienced IT Partner team will help you better understand and improve the whole data preservation process. 
