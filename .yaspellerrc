@@ -396,7 +396,9 @@
     "reputational",
     "antimalware",
     "exfiltration",
-    "Autoresponder"
+    "Autoresponder",
+    "WSfB",
+    "WebView"
   ],
 
   "ignoreUrls": true,
