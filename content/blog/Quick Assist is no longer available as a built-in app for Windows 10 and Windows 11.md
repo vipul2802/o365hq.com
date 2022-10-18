@@ -9,7 +9,7 @@ tags = ["microsoft 365", "quick assist", "microsoft 365 business apps", "windows
 
 ### What is Quick Assist? 
 
-[Quick Assist](https://learn.microsoft.com/en-us/windows/client-management/quick-assist) is a Microsoft app that allows you to share your device with another person over a remote connection. It can remotely connect to a user's device and then view its display, make annotations, or take full control. With Quick Assist, your support team can easily diagnose and troubleshoot technical issues and instruct users directly on their devices. But since April 27, 2022, the remote assistance with Quick Assist has changed, and it will no longer be a built-in tool integrated into Windows 10/11. To keep your remote assistance sessions secure, you must download the new Quick Assist from the [Microsoft Store](https://apps.microsoft.com/store/detail/9P7BP5VNWKX5?hl=en-us&gl=US#activetab=pivot:overviewtab), which will also be retired in the first quarter of 2023. 
+[Quick Assist](https://learn.microsoft.com/en-us/windows/client-management/quick-assist) is a Microsoft app that allows you to share your device with another person over a remote connection. It can remotely connect to a user's device and then view its display, make annotations, or take full control. With Quick Assist, your support team can easily diagnose and troubleshoot technical issues and instruct users directly on their devices. But since April 27, 2022, the remote assistance with Quick Assist has changed, and it will no longer be a built-in tool integrated into Windows 10/11. To keep your remote assistance sessions secure, you must download the new Quick Assist from the [Microsoft Store](https://apps.microsoft.com/store/detail/quick-assist/9P7BP5VNWKX5?hl=en-us&gl=us), which will also be retired in the first quarter of 2023. 
 
 ### How to deploy the new Quick Assist tool with Intune? 
 
@@ -53,7 +53,7 @@ Intune can always pull the latest version of quick assist from the store. Follow
 
 Once you install Quick Assist you may need to install and run WebView2 on your computer. WebView2 is required to run the Store app and helps improve security and performance. If you use Windows 11 or the Edge browser, you probably already have WebView2 installed.  
 
-If WebView2 is not already installed, it will be installed automatically the first time you launch Quick Assist. If you see a prompt for WebView2 it could indicate that the initial installation was not successful. Then you should go to the [Microsoft Endpoint Manager admin center](https://endpoint.microsoft.com/#home) and follow the instructions below: 
+If WebView2 is not already installed, it will be installed automatically the first time you launch Quick Assist. If you see a prompt for WebView2 it could indicate that the initial installation was not successful. Then you should go to the [Microsoft Endpoint Manager admin center](https://endpoint.microsoft.com/) and follow the instructions below: 
  
 * Navigate to **Devices** -> **Windows** -> **Configuration profiles** and choose **+ Create profile**. 
 * Select **Windows 10 and later platform as Platform** -> **Templates** as Profile type and **Administrative templates** as Template name. 
