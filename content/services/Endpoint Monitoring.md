@@ -8,7 +8,7 @@ products = ["microsoft 365"]
 types = ["Security and Protection"]
 [extra] 
 sku = "ITPWW270MSPRC" 
-price = "on demand"
+price = "$200 + $10 per seat"
 duration = "1 month" 
 manager = "Roman Sotnik" 
 +++
