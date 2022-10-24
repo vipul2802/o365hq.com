@@ -7,7 +7,7 @@ date = 2019-05-22
 products = ["microsoft 365"] 
 types = ["Security and Protection"]
 [extra] 
-sku = " ITPWW270MSPRC" 
+sku = "ITPWW270MSPRC" 
 price = "on demand"
 duration = "1 month" 
 manager = "Roman Sotnik" 
