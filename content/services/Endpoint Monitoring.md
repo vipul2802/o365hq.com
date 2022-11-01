@@ -1,6 +1,6 @@
 +++
-title = "Endpoint devices monitoring" 
-description = "Microsoft Intune is a service from Microsoft that allows you to manage corporate employee devices, both desktop and portable devices. We will help you plan the deployment of Microsoft Intune in your organization: develop the architecture and design, gradually connect all the devices, and help in solving possible problems when working with this system." 
+title = "Devices monitoring" 
+description = "The service for monitoring the operation parameters of such devices as computers, servers, network equipment, etc." 
 date = 2019-05-22
 
 [taxonomies] 
