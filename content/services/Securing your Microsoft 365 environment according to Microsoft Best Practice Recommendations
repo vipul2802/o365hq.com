@@ -3,7 +3,7 @@ description = "Service built to help you protect your Microsoft 365 environment 
 
 [taxonomies] products = ["Office 365", "microsoft 365"] types = ["Security and Protection"]
 
-[extra] sku = "ITPWW070SECOT" price = "" duration = "" manager = "Roman Sotnik" +++
+[extra] sku = "ITPWW070SECOT" price = "8500" duration = "30 days or more" manager = "Roman Sotnik" +++
 
 
 Online security has recently become a top priority for organizations of all sizes. Microsoft 365 for Business is a great and affordable solution to boost your productivity, improve your business security and reduce costs at the same time. 
@@ -45,6 +45,8 @@ Method 2: Implement a set of conditional access and related policies. (Azure AD 
 7. Train users on Office and Microsoft 365. 
 7.1. Conduct attack simulations for spear-phishing, password-spray, and brute-force password attacks using Attack simulation training (included with Office 365 Threat Intelligence). 
 7.2. Training for the Office client applications and services, such as Access, Excel, OneDrive, OneNote, Outlook, PowerPoint, Word, and Teams. 
+
+8. Check and complete possible secure score recommendations
 
 ### Client responsibilities   
 
