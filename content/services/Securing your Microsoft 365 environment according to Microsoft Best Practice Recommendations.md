@@ -1,9 +1,18 @@
-+++ title = "Securing your Microsoft 365 environment according to Microsoft Best Practice Recommendations" 
-description = "Service built to help you protect your Microsoft 365 environment using security capabilities, such as antiphishing, antispam, and antimalware protection" date = 2019-12-16
++++ 
+title = "Securing your Microsoft 365 environment according to Microsoft Best Practice Recommendations" 
+description = "Service built to help you protect your Microsoft 365 environment using security capabilities, such as antiphishing, antispam, and antimalware protection" 
+date = 2022-11-08
 
-[taxonomies] products = ["Office 365", "microsoft 365"] types = ["Security and Protection"]
+[taxonomies] 
+products = ["Office 365", "microsoft 365"] 
+types = ["Security and Protection"]
 
-[extra] sku = "ITPWW070SECOT" price = "8500" duration = "30 days or more" manager = "Roman Sotnik" +++
+[extra] 
+sku = "ITPWW070SECOT" 
+price = "$8500" 
+duration = "30 days or more" 
+manager = "Roman Sotnik" 
++++
 
 
 Online security has recently become a top priority for organizations of all sizes. Microsoft 365 for Business is a great and affordable solution to boost your productivity, improve your business security and reduce costs at the same time. 
