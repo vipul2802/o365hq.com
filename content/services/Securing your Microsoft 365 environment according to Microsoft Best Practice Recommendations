@@ -24,38 +24,35 @@ Method 2: Implement a set of conditional access and related policies. (Azure AD 
 2.2. Configure a set of admin accounts to limit the number of global admins and limit their privileges. 
 2.3. Set up built-in roles for assigning permissions where possible. 
 
-3. Use preset security policies. 
+3. Use preset security policies for Microsoft 365 Defender. 
 3.1. Determine the profile and the level of protection required for your email and collaboration content. 
 3.2. Create and assign preset security policies to users. 
 
 4. Protect all devices. 
 4.1. Deploy Microsoft Defender for Endpoint. 
 4.2. Connect your devices to Azure AD. 
-4.3. Set up managed devices
+4.3. Set up managed devices using basic Intune configuration
 
-5. Configure Teams with three tiers of protection: 
-5.1. Sharing and classification. 
-5.2. Data loss prevention. 
-5.3. Azure Information Protection. 
+5. Implement Microsoft Teams for collaboration and sharing
+5.1 Create Teams for collaboration
+5.2 Set up meetings
+5.3 Share files and videos
+5.4 Create a communication site
 
 6. Set up sharing settings for SharePoint and OneDrive. 
-6.1. Review and adjust your alert policies. 
-6.2. Manage calendar sharing for your business. 
+6.1. Review and adjust your sharing policies
 
 7. Train users on Office and Microsoft 365. 
-7.1. Set up Junk E-mail Filter in Microsoft Office Outlook. 
-7.2. Conduct attack simulations for spear-phishing, password-spray, and brute-force password attacks using Attack simulation training (included with Office 365 Threat Intelligence). 
-7.3. Training for the Office client applications and services, such as Access, Excel, OneDrive, OneNote, Outlook, PowerPoint, Word, and Teams. 
+7.1. Conduct attack simulations for spear-phishing, password-spray, and brute-force password attacks using Attack simulation training (included with Office 365 Threat Intelligence). 
+7.2. Training for the Office client applications and services, such as Access, Excel, OneDrive, OneNote, Outlook, PowerPoint, Word, and Teams. 
 
- ### Client responsibilities   
+### Client responsibilities   
 
 1. Coordinate Client resources and staff schedules 
 2. Provide a dedicated point of contact responsible for working with IT Partner. 
 3. Configure all network equipment, such as load balancers, routers, firewalls, and switches. 
 4. Perform changes to internal and external DNS, as required. 
 5. Review and approve engagement deliverables in a timely manner. 
-6. Assist with identification of high-risk users (admins, top executives and VIP users). 
-7. End user support. 
 
 ### Additional cost items not provided by the project
 
@@ -72,21 +69,19 @@ Method 2: Implement a set of conditional access and related policies. (Azure AD 
 
 1. The plan may vary depending on your needs. 
 2. Kickoff meeting 
-3. Security scope check and current configuration assessment 
-4. Security configuration start 
-5. Security settings verification 
-6. Security score verification 
-7. Final email 
-8. Verification and fixing of issues, if any 
+3. Scope check and current configuration assessment 
+4. Configure and/or implement required services
+5. Secure score verification
 
 ### Success criteria  
 
-Security score 75%.   
+1. MFA is enabled for all users. 
+2. Microsoft 365 admin accounts reviewed and changes implemented to match best-practices recommendations
+3. Microsoft 365 Defender policies implemented
+4. Required devices connected to Azure AD and managed by Intune
+5. End-user training performed
+6. Microsoft Teams Implemented as company communication and collaboration system
+7. SharePoint Online and OneDrive sharing configuration adjusted
 
-MFA is enabled for all users. 
-
-Teams protection is configured. 
-
-Validated Identity and access management settings 
 
  
