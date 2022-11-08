@@ -9,7 +9,7 @@ types = ["Security and Protection", "Managed Services"]
 
 [extra]
 sku = "ITPWW060SECOT"
-price = "$10,00 per seat"
+price = "$10.00 per seat"
 duration = "recurring"
 manager = "Roman Sotnik"
 +++
@@ -31,12 +31,12 @@ Managing privileged users who have high-level access to your data is essential t
 
 ### Requirements 
 
-For all the functionality functions, an Azure AD Premium P2 license is necessary. Azure AD Premium P2 is needed for all the Identity Protection features. 
+1. Microsoft 365 tenant 
 
 ### Plan 
 
-* The customer connects to IT Partner monitoring system. 
-* IT Partner engineers manage continuous monitoring of risky users and risky sign-ins. 
+1. The customer connects to IT Partner monitoring system. 
+2. IT Partner engineers manage continuous monitoring of risky users and risky sign-ins. 
 
 ### Results
 
