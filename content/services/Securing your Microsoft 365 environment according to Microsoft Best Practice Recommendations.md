@@ -22,38 +22,36 @@ Our goal is to properly configure your tenant-wide settings to increase the secu
 
 ### IT Partner responsibilities
 
-1. Set up Multi-Factor Authentication. 
-1.1. Analyze and choose the best method of MFA based on your security requirements: 
-
-Method 1: Enable and disable security defaults. 
-Method 2: Implement a set of conditional access and related policies. (Azure AD P1/P2 required)
+1. Set up Multi-Factor Authentication. Analyze and choose the best method of MFA based on your security requirements: 
+     - Method 1: Enable and disable security defaults. 
+     - Method 2: Implement a set of conditional access and related policies. (Azure AD P1/P2 required)
 
 2. Protect your admin accounts. 
-2.1. Create a separate account for user management and a dedicated admin workstation based on roles and functions in your organization. 
-2.2. Configure a set of admin accounts to limit the number of global admins and limit their privileges. 
-2.3. Set up built-in roles for assigning permissions where possible. 
+     - Create a separate account for user management and a dedicated admin workstation based on roles and functions in your organization. 
+     - Configure a set of admin accounts to limit the number of global admins and limit their privileges. 
+     - Set up built-in roles for assigning permissions where possible. 
 
 3. Use preset security policies for Microsoft 365 Defender. 
-3.1. Determine the profile and the level of protection required for your email and collaboration content. 
-3.2. Create and assign preset security policies to users. 
+     - Determine the profile and the level of protection required for your email and collaboration content. 
+     - Create and assign preset security policies to users. 
 
 4. Protect all devices. 
-4.1. Deploy Microsoft Defender for Endpoint. 
-4.2. Connect your devices to Azure AD. 
-4.3. Set up managed devices using basic Intune configuration
+     - Deploy Microsoft Defender for Endpoint. 
+     - Connect your devices to Azure AD. 
+     - Set up managed devices using basic Intune configuration
 
 5. Implement Microsoft Teams for collaboration and sharing
-5.1 Create Teams for collaboration
-5.2 Set up meetings
-5.3 Share files and videos
-5.4 Create a communication site
+     - Create Teams for collaboration
+     - Set up meetings
+     - Share files and videos
+     - Create a communication site
 
 6. Set up sharing settings for SharePoint and OneDrive. 
-6.1. Review and adjust your sharing policies
+     - Review and adjust your sharing policies
 
 7. Train users on Office and Microsoft 365. 
-7.1. Conduct attack simulations for spear-phishing, password-spray, and brute-force password attacks using Attack simulation training (included with Office 365 Threat Intelligence). 
-7.2. Training for the Office client applications and services, such as Access, Excel, OneDrive, OneNote, Outlook, PowerPoint, Word, and Teams. 
+     - Conduct attack simulations for spear-phishing, password-spray, and brute-force password attacks using Attack simulation training (included with Office 365 Threat Intelligence). 
+     - Training for the Office client applications and services, such as Access, Excel, OneDrive, OneNote, Outlook, PowerPoint, Word, and Teams. 
 
 8. Check and complete possible secure score recommendations
 
