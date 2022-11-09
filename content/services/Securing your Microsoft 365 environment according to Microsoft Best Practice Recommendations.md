@@ -1,6 +1,6 @@
 +++
 title = "Securing your Microsoft 365 environment according to Microsoft Best Practice Recommendations" 
-description = "Service built to help you protect your Microsoft 365 environment using security capabilities, such as antiphishing, antispam, and antimalware protection" 
+description = "Service built to help you protect your Microsoft 365 environment using security capabilities, such as anti-phishing, anti-spam, and anti-malware protection" 
 date = 2022-11-08
 
 [taxonomies] 
