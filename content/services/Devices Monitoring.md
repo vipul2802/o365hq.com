@@ -1,6 +1,6 @@
 +++
 title = "Devices monitoring" 
-description = "The service for monitoring the operation parameters of such devices as computers, servers, network equipment, etc." 
+description = "The service for monitoring the operation parameters of such devices as computers, servers, network equipment, etc. In addition to this service, at least five hours of on-demand engineer are required each month to respond to emerging issues." 
 date = 2019-05-22
 
 [taxonomies] 
@@ -8,7 +8,7 @@ products = ["microsoft 365"]
 types = ["Security and Protection"]
 [extra] 
 sku = "ITPWW270MSPRC" 
-price = "$200 + $10 per seat"
+price = "$7 per seat"
 duration = "1 month" 
 manager = "Roman Sotnik" 
 +++
