@@ -398,7 +398,10 @@
     "exfiltration",
     "Autoresponder",
     "WSfB",
-    "WebView"
+    "WebView",
+    "Autodiscover",
+    "CMDlet",
+    "FAQs"
   ],
 
   "ignoreUrls": true,
