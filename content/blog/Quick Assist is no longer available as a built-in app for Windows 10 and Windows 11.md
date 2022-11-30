@@ -4,7 +4,7 @@ description = "Since May 16, 2022, the remote support Quick Assist for Windows 1
 date = 2022-10-18
 
 [taxonomies]
-tags = ["microsoft 365", "quick assist", "microsoft 365 business apps", "windows 10"]
+tags = ["microsoft 365", "quick assist", "microsoft 365 business apps", "windows 10", "office 365"]
 +++
 
 ### What is Quick Assist? 
