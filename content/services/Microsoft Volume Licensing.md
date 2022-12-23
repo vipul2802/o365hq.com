@@ -35,7 +35,7 @@ software investment while staying compliant and ready for audits.
 1.  [Microsoft License Advisor](http://mla.microsoft.com/)
 2.  [Software Assurance
     overview](https://www.microsoft.com/en-us/licensing/licensing-programs/software-assurance-default.aspx)
-4.  [How to Choose the Right Volume License Key for
+3.  [How to Choose the Right Volume License Key for
     Windows](https://docs.microsoft.com/en-us/licensing/products-keys-faq)
 
 ### Prerequisites
