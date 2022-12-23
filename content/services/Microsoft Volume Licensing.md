@@ -33,9 +33,7 @@ software investment while staying compliant and ready for audits.
 ### Helpful resources
 
 1.  [Microsoft License Advisor](http://mla.microsoft.com/)
-2.  [Find out if Microsoft Financing can help
-    you](https://www.microsoft.com/en-us/Licensing/how-to-buy/financing.aspx)
-3.  [Software Assurance
+2.  [Software Assurance
     overview](https://www.microsoft.com/en-us/licensing/licensing-programs/software-assurance-default.aspx)
 4.  [How to Choose the Right Volume License Key for
     Windows](https://docs.microsoft.com/en-us/licensing/products-keys-faq)
