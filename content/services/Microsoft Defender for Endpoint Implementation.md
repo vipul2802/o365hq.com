@@ -44,13 +44,9 @@ The implementation of Microsoft Defender for Endpoint involves several responsib
 To implement Microsoft Defender for Endpoint, you will need to meet the following prerequisites: 
 
 1. Buy and assign Microsoft Defender for Endpoint P1 or Microsoft Defender for Endpoint P2 (a separate license or as a part of another license).
-
 2. Microsoft Defender for Endpoint is designed to protect devices running Windows, 10/11 iOS/iPad and Android so you will need to have at least one device running this operating system to use the service. 
-
 3. Have a Microsoft 365 tenant. A tenant represents your organization in Microsoft 365 and is required to use Microsoft Defender for Endpoint. If you don't have a tenant yet, you should create one. 
-
 4. Have administrative privileges on your organization's devices to install the Microsoft Defender for Endpoint client and configure the service.
-
 5. It is also important to have a thorough understanding of your organization's security needs and requirements before implementing Microsoft Defender for Endpoint. This will help you customize the service to meet the specific needs of your organization and ensure that it is properly configured and effective in protecting your devices and data. 
 
 ### Plan
