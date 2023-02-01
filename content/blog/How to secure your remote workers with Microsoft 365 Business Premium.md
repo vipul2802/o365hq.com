@@ -74,8 +74,7 @@ sharing:
     data leaks. This feature allows you to detect, monitor and defend
     confidential data from being unintentionally shared either through
     email or in documents. It also helps users learn how to stay
-    compliant without interrupting their workflow. [Learn more about DLP
-    Policy](https://docs.microsoft.com/en-us/microsoft-365/compliance/create-a-dlp-policy-from-a-template?view=o365-worldwide)
+    compliant without interrupting their workflow.
 2.  Azure Information Protection (AIP) controls access to data and
     documents. It allows you to decide whether an email or a document
     can be viewed, forwarded or printed by a non-employee.
