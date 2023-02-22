@@ -152,7 +152,7 @@ locations, like SharePoint or OneDrive, etc., and prevent your users from
 inadvertently sharing it. They are offered policy tips that help them to
 comply with your DLP policies and still won't interfere with
 their work. Here is where you can find the [overview of DLP
-policies](https://docs.microsoft.com/en-us/office365/securitycompliance/data-loss-prevention-policies).
+policies](https://learn.microsoft.com/en-us/microsoft-365/compliance/dlp-learn-about-dlp?view=o365-worldwide).
 
 ![](https://o365hq.com/images/205.png)
 
