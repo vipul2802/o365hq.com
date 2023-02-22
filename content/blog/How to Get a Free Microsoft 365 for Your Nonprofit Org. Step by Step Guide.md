@@ -157,7 +157,7 @@ Here are some Customer Success Training topics we can support on:
 Absolutely check the FAQ for the Nonprofits link below. It contains a
 lot of answers plus information on how you can get more sponsorship
 resources and donations from Microsoft and other organizations,
-including a \$3500 Azure Credits offer.
+including a \$3500 Azure Credits offer. 
 
 1.  [Frequently Asked
     Questions](https://www.microsoft.com/en-us/nonprofits/faq)
