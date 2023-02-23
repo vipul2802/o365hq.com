@@ -1,7 +1,7 @@
 +++
 title = "Azure performance and cost optimization assessment"
 description = "This service is designed to provide you with detailed usage analytics of your existing Azure Cloud Services and recommendations for improving your spends."
-date = 2023-02-20
+date = 2023-02-23
 
 [taxonomies]
 products = ["Microsoft Azure"]
