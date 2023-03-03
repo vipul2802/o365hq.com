@@ -401,7 +401,10 @@
     "WebView",
     "Autodiscover",
     "CMDlet",
-    "FAQs"
+    "FAQs",
+    "upfront",
+    "PoC",
+    "supportability"
   ],
 
   "ignoreUrls": true,
