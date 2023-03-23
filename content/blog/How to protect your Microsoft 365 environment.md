@@ -66,7 +66,7 @@ With AAD Identity Protection tool you can successfully accomplish these three ke
 
 * [Automate the detection and remediation of identity-based risks](https://docs.microsoft.com/en-us/azure/active-directory/identity-protection/howto-identity-protection-configure-risk-policies).
 * [Investigate risks](https://docs.microsoft.com/en-us/azure/active-directory/identity-protection/howto-identity-protection-investigate-risk) using data in the portal.
-* [Export risk detection data to your SIEM](https://docs.microsoft.com/en-us/azure/sentinel/data-connectors-reference#azure-active-directory-identity-protection).
+* [Export risk detection data to your SIEM](https://learn.microsoft.com/en-us/azure/sentinel/data-connectors-reference#azure-active-directory-identity-protection).
 
 [Risk investigation](https://docs.microsoft.com/en-us/azure/active-directory/identity-protection/howto-identity-protection-investigate-risk) allows administrators to review detections and take manual action on them if needed. 
 
