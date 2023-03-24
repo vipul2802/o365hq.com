@@ -1,7 +1,7 @@
 +++
 title = "Microsoft Yammer Tenant-to-Tenant Migration"
 description = "Microsoft Yammer is a social networking service that allows employees within an organization to communicate and collaborate."
-date = 2023-03-21
+date = 2023-03-23
 
 [taxonomies]
 products = ["Office 365", "microsoft 365"]
