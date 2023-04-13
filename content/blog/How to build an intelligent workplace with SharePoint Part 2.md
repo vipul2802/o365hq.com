@@ -33,7 +33,7 @@ organizational enterprise-wide news from other news.
 ![](https://o365hq.com/images/394.png)
 
 \_Visual cues to easier engage with the content (from [SharePoint
-blog](https://techcommunity.microsoft.com/t5/Microsoft-SharePoint-Blog/SharePoint-home-sites-a-landing-for-your-organization-on-the/ba-p/621933)
+blog](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/sharepoint-home-sites-a-landing-for-your-organization-on-the/ba-p/621933)
 ) \_
 
 Embedded videos give you rich and dynamic content, and conversations

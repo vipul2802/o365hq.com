@@ -81,7 +81,7 @@ Office 365 Threat Intelligence ---
 ### Azure Resources
 
 Azure Cloud Security Certificates ---
-<https://docs.microsoft.com/en-us/azure/cloud-services/cloud-services-certs-create>\
+<https://learn.microsoft.com/en-us/azure/cloud-services/cloud-services-certs-create>\
 Azure AD Connect ---
 <https://docs.microsoft.com/en-us/azure/active-directory/connect/active-directory-aadconnect-feature-device-writeback>
 

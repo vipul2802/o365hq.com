@@ -146,7 +146,7 @@ Active.
 
 The machine must "know" that you expect it to connect to your AD, and to
 "inform" it, the corresponding profile is needed.
-[Here](https://docs.microsoft.com/en-us/intune/windows-autopilot-hybrid#create-and-assign-a-domain-join-profile)
+[Here](https://learn.microsoft.com/en-us/mem/autopilot/windows-autopilot-hybrid#create-and-assign-a-domain-join-profile)
 are the instructions on how to create it:
 
 ![](https://o365hq.com/images/305.png)

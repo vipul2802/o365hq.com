@@ -29,7 +29,7 @@ suffer from all these inconveniences now?
 Microsoft released the May 2019 update of security requirements for
 desktop and server systems in which regular periodic password changes
 no longer appear. Here is an [official blog
-post](https://docs.microsoft.com/en-us/archive/blogs/secguide/security-baseline-final-for-windows-10-v1903-and-windows-server-v1903)
+post](https://learn.microsoft.com/en-us/archive/blogs/secguide/security-baseline-final-for-windows-10-v1903-and-windows-server-v1903)
 with a list of changes to the Windows 10 v 1903 version (pay attention
 to the phrase Dropping the password-expiration policies that require
 periodic password changes). The rules and system policies of Windows 10

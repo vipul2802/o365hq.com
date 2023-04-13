@@ -46,7 +46,7 @@ To enforce MFA across all your Microsoft 365 accounts:
 
 ### Step 4. Check Office 365 Secure Score
 
-Office 365 Secure Score analyzes your organization's security based on your regular activities and security settings and assigns a score. Taking notes of your current score and adjusting some tenant-wide settings will increase your score. The goal is to be aware of the capabilities to secure your environment that do not negatively affect productivity for your users. Check [Microsoft Secure Score](https://docs.microsoft.com/en-us/microsoft-365/security/defender/microsoft-secure-score?view=o365-worldwide) for more information.
+Office 365 Secure Score analyzes your organization's security based on your regular activities and security settings and assigns a score. Taking notes of your current score and adjusting some tenant-wide settings will increase your score. The goal is to be aware of the capabilities to secure your environment that do not negatively affect productivity for your users. Check [Microsoft Secure Score](https://learn.microsoft.com/en-us/microsoft-365/security/defender/microsoft-secure-score?view=o365-worldwide) for more information.
 
 ### Step 5. Use dedicated admin accounts
 
