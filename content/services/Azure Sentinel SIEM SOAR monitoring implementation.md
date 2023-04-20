@@ -10,7 +10,6 @@ types = ["Implementation"]
 [extra]
 sku = "ITPWW160SECRC"
 price = "$175 per hour"
-duration =
 manager = "Roman Sotnik"
 +++
 
