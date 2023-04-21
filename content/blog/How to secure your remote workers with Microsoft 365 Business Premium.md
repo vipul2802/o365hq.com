@@ -93,4 +93,4 @@ Microsoft 365 is an integrated solution that helps your employees stay
 productive and connected from anywhere. Microsoft 365 Business Premium
 simplifies the process of delivering security and management with
 employees working from home. You can find more information about
-Microsoft 365 Business Premium [here.](https://learn.microsoft.com/en-us/microsoft-365/business/?view=o365-worldwide#pivot=home&panel=home-all).
+Microsoft 365 Business Premium [here.](https://learn.microsoft.com/en-us/microsoft-365/business/?view=o365-worldwide#pivot=home&panel=home-all:).
