@@ -8,7 +8,7 @@ products = ["Microsoft Azure"]
 types = ["Implementation"]
 
 [extra]
-sku = "ITPWW160SECRC"
+sku = "ITPWW150SECOT"
 price = "$175 per hour"
 manager = "Roman Sotnik"
 +++
