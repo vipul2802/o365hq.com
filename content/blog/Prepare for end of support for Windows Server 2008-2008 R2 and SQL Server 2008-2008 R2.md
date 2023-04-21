@@ -33,7 +33,7 @@ Newer, safer, and higher-performing up-to-date software versions support
 the installation of regular security updates. If you don't have time to
 upgrade to the latest version, transfer your workloads to Azure and
 [renew your security
-updates](https://www.microsoft.com/en-sa/cloud-platform/extended-security-updates/)
+updates](https://www.microsoft.com/en-sa/windows-server/extended-security-updates)
 for free for three years. The main advantages of this option include:
 
 -   update at your pace and on your terms
