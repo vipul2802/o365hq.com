@@ -404,7 +404,8 @@
     "FAQs",
     "upfront",
     "PoC",
-    "supportability"
+    "supportability",
+    "Endpoint's"
   ],
 
   "ignoreUrls": true,
