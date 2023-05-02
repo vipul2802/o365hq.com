@@ -1,7 +1,7 @@
 ++
 title = "Sr. Solution Architect - 1 hour"
 description = "This service is created to help organizations design and implement complex technology solutions that meet their business needs."
-date = 2023-05-02
+date = 2023-05-01
 
 [taxonomies]
 products = ["SCCM"]
