@@ -10,6 +10,7 @@ types = ["Managed Services"]
 [extra]
 sku = "ITPWW460IMPOT"
 price = "$200 per hour"
+duration = "1 day"
 manager = "Roman Sotnik"
 +++
 
