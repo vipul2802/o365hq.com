@@ -114,7 +114,7 @@ start reading emails, sharing documents, and more. [Educate your
 users](https://docs.microsoft.com/en-us/microsoft-365/admin/admin-overview/get-started-with-office-365)
 on how to set up and use Microsoft 365 on their computers, smartphones,
 and tablets. Also, explore resources for working in the [Microsoft 365
-admin center](https://docs.microsoft.com/en-us/microsoft-365/admin/).
+admin center](https://learn.microsoft.com/en-us/microsoft-365/admin/?view=o365-worldwide).
 
 As a very minimum, you'd like to do the following:
 
