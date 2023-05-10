@@ -1,7 +1,7 @@
 +++
 title = "Custom Business Apps and Process Automation Using Built-in Microsoft 365 Tools"
 description = "Business Process Automation (BPA) is an implementation of a business process management system with the help of IT. Such a system simplifies business operations, improves the quality of work, and reduces costs using modern and efficient technologies."
-date = 2019-05-29
+date = 2023-05-09
 
 [taxonomies]
 products = ["microsoft 365"]

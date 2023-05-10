@@ -1,7 +1,7 @@
 +++
 title = "Business Process Automation Using Built-in Microsoft 365 Tools and Services"
-description = "Business Process Automation (BPA) is the implementation of a business process management system with the help of IT. Such a system simplifies business operations, improves the quality of work, and reduces costs using modern and efficient technologies."
-date = 2019-05-15
+description = "This service is built to help organizations revolutionize their business with streamlined process automation powered by Office 365 solutions."
+date = 2023-05-10
 
 [taxonomies]
 products = ["microsoft 365"]
@@ -14,64 +14,51 @@ duration = "5 days"
 manager = "Roman Sotnik"
 +++
 
-**Business Process Automation** provides the following benefits:
+### Description
 
-1.  Elimination of routine and repetitive manual operations
-2.  Information is processed and transmitted much faster
-3.  The entire enterprise or separate units receive service in a single
-    information space
-4.  Programmed reports and documents are generated automatically
-5.  The convenience of database operation increases and the work becomes
-    more accurate, complete, and non-contradictory
-6.  Human errors are eliminated
-7.  Work efficiency of employees is increased
-8.  The whole organization (or separate units) becomes a single complex
-    that is combined by regular standardized business processes and
-    information systems
+Experience a game-changing transformation of your business operations with Business Process Automation (BPA) – a strategic fusion of business process management and advanced IT systems. BPA empowers you to elevate your organization's performance, work quality, and cost-efficiency with our cutting-edge technology solutions. 
 
-Our **objective** is to plan, design, and develop a necessary solution.
+Unlock the Full Potential of Business Process Automation:  
+
+* Eradicate time-consuming, repetitive manual tasks.
+* Expedite information processing and transmission.
+* Integrate your organization or individual departments into a cohesive information ecosystem.
+* Generate automated reports and documents with ease.
+* Enhance database functionality for precise, comprehensive, and consistent results.
+* Minimize the risk of human error.
+* Boost employee productivity and efficiency.
+* Seamlessly unite your organization with standardized business processes and information systems.
+
+Our **goal** is to meticulously plan, design and implement a range of automation services to develop the optimal solution tailored to your needs. 
 
 ### IT Partner responsibilities
 
-Create and implement one of the following automation services:
-
-1.  Approval process when a new item is added to SharePoint. The
-    approver can view their approval requests in the Approvals Center and
-    by email. Once an item is approved or rejected, the item creator
-    receives a confirmation email
-2.  Tracking your work hours and work location. Each button tap logs the
-    current time and location to an Excel table
-3.  Keeping up to date on new customer opportunities. Instead of
-    manually tracking sales leads, let Microsoft Flow notify you of new
-    Dynamics 365 or Salesforce opportunities as they're generated
-4.  Getting notified about negative posts on social media like Twitter
-    and Facebook
-5.  Automatization and approval of the user creation process
+1. Create approval workflows for new SharePoint items, complete with email notifications and an Approvals Center for easy management.
+2. Deploy time and location tracking with a single button tap, logging data directly to an Excel table.
+3. Implement real-time notifications for new sales leads generated through Dynamics 365 or Salesforce.
+4. Set up alerts for negative social media posts on platforms like Twitter and Facebook.
+5. Streamline user creation and approval processes.
 
 ### Client responsibilities
 
-1.  Coordinate Client resources and staff schedules
-2.  Provide a dedicated point of contact responsible for working with IT
-    Partner
-3.  Provide an account in the required services with the rights
-    necessary to implement the service
-4.  Coordinate any outside vendor resources and schedules
-5.  Review and approve engagement deliverables in a timely manner
-6.  Request and approve all change management tickets (if applicable) in
-    the Client environment
+1. Coordinate client resources and staff schedules. 
+2. Designate a dedicated point of contact for collaboration with IT Partner.
+3. Grant necessary service account access and rights for implementation.
+4. Manage external vendor resources and timelines.
+5. Promptly review and approve engagement deliverables.
+6. Oversee and approve change management tickets (if applicable) within the client environment.
 
 ### Prerequisites
 
-1.  You must have the appropriate Microsoft 365 subscription or should be
-    prepared to purchase it
+1.  You must have an appropriate Microsoft 365 subscription or should be prepared to purchase one.
 
 ### Plan
 
 The plan may vary depending on your needs.
 
-1.  Kickoff meeting
-2.  The statement of work and development plan creation
-3.  The development process (time needed may depend on the situation)
-4.  Implementation and testing
-5.  Verifying and fixing issues
-6.  Project closure and acceptance
+1.  Kickoff meeting.
+2.  Prepare the statement of work and development plan.
+3.  Control the development process (timeframe varies).
+4.  Perform implementation and testing.
+5.  Verify and fix issues if any.
+6.  Project closure and acceptance.
