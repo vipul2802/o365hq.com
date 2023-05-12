@@ -9,23 +9,13 @@ tags = ["microsoft 365", "microsoft azure", "microsoft teams", "office 365"]
 
 ### Welcome to Microsoft Public Cloud
 
-With speed, flexibility, and security at the forefront of today's
-business needs, it's no wonder Microsoft's public cloud has become the
-world's standard for productivity.
+With speed, flexibility, and security at the forefront of today's business needs, it's no wonder Microsoft's public cloud has become the world's standard for productivity.
 
-You'll save time and money while leveraging the power of Microsoft,
-allowing you and your team to focus on what you do best. Microsoft's
-cloud-based applications include familiar industry standards like Word
-and Excel, as well as collaboration titans like Teams and the all-new
-SharePoint.
+You'll save time and money while leveraging the power of Microsoft, allowing you and your team to focus on what you do best. Microsoft's cloud-based applications include familiar industry standards like Word and Excel, as well as collaboration titans like Teams and the all-new SharePoint.
 
-Secure your valuable work in high-capacity storage that is always with
-you, wherever you are. Communicate, collaborate, and execute on your
-goals at the push of a button. The power of the cloud makes your best
-work even better.
+Secure your valuable work in high-capacity storage that is always with you, wherever you are. Communicate, collaborate, and execute on your goals at the push of a button. The power of the cloud makes your best work even better.
 
-IT Partner will be your guide. With your help, we'll take you through
-the process of getting started.
+IT Partner will be your guide. With your help, we'll take you through the process of getting started.
 
 The future is here. Welcome.
 
@@ -36,10 +26,8 @@ world, every dollar counts. [Microsoft products are available free or at
 a discount](https://www.microsoft.com/en-us/nonprofits/microsoft-365) to
 verified nonprofits. Some highlights include:
 
-• [Microsoft 365 Business Premium
-FREE](https://www.microsoft.com/en-us/nonprofits/microsoft-365) for the
-first 10 users -- \$5 per month for each additional user\
-• Microsoft 365 Business Basic FREE for every user in your organization\
+• [Microsoft 365 Business Premium FREE](https://www.microsoft.com/en-us/nonprofits/microsoft-365) for the first 10 users -- \$5 per month for each additional user\
+• Microsoft 365 Business Basic FREE for every user in your organization
 • Deep discounts on Office 365 E3 and E5 licenses
 
 ### How to register your Nonprofit authorized tenant and get your eligibility approved by Microsoft
