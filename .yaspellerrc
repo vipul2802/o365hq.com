@@ -405,7 +405,8 @@
     "upfront",
     "PoC",
     "supportability",
-    "Endpoint's"
+    "Endpoint's",
+    "ShareFile"
   ],
 
   "ignoreUrls": true,
