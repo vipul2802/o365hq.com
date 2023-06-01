@@ -17,20 +17,20 @@ manager = "Roman Sotnik"
 
 With our Azure Resource Monitoring and Maintenance Service, we offer comprehensive monitoring and regular maintenance for your Azure subscription. Our **goal** is to monitor your resources, analyze their performance, ensure backup integrity, and provide valuable recommendations for optimizing costs and maximizing the value of your Azure investment. Our Azure Resource Monitoring and Maintenance Service includes: 
 
-**Monitoring and Performance Analysis**
+* **Monitoring and Performance Analysis**
 
 1. Setup and configuration of advanced monitoring tools and services tailored to your Azure environment. 
 2. Continuous control of your Azure resources' health, performance, and security. 
 3. Resource utilization, network performance, storage space, and other critical metrics analysis.
 4. Discovery of potential issues, vulnerabilities, or performance bottlenecks. 
 
-**Backup Monitoring and Validation**
+* **Backup Monitoring and Validation**
 
 1. Ensuring the efficiency of your backup processes. 
 2. Data protection verification.
 3. Regular checks performance to ensure data backup compliance with best practices and requirements. 
 
-**Cost Optimization and Resource Allocation**
+* **Cost Optimization and Resource Allocation**
 
 1. Resource utilization patterns analysis and actionable recommendations for optimizing costs. 
 2. Discovery of opportunities to right-size resources, eliminate waste, and efficiency improvements. 
