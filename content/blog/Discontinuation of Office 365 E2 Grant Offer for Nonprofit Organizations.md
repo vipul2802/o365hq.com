@@ -1,7 +1,7 @@
 +++
 title = "Discontinuation of Office 365 E2 Grant Offer for Nonprofit Organizations"
 description = "Starting from October 1, 2023, nonprofits will no longer be able to renew the legacy Office 365 E2 plan. Microsoft discontinued this legacy product back in 2013 and will no longer provide support for it."
-date = 2023-06-23
+date = 2023-06-22
 
 [taxonomies]
 tags = ["microsoft 365", "nonprofit", "Office 365"]
