@@ -406,8 +406,10 @@
     "PoC",
     "supportability",
     "Endpoint's",
-    "ShareFile"
+    "ShareFile",
+    "customizations"
   ],
+
 
   "ignoreUrls": true,
   "ignoreUppercase": true,
