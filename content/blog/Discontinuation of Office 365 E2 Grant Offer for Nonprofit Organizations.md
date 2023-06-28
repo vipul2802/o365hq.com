@@ -25,7 +25,7 @@ Microsoft will continue to provide nonprofits with discounts of up to 75% on man
 
 Microsoft now provides Microsoft 365 Business Basic and Microsoft 365 Business Premium as their primary cloud grant offers and continues to provide grants of up to 2000 licenses of Office 365 E1 via an Enterprise Agreement.  
 
-Office 365 E1 or Microsoft 365 Business Basic, both plans are comparable to their existing subscription. Business Basic has a maximum user count of 300 and all 300 of those seats are granted at $0. Microsoft also provides a donation of 10 free licenses of Microsoft 365 Business Premium. Please, check [Feature Matrix | M365 Maps](https://m365maps.com/matrix.htm#100100000000000000000) to compare the plans. 
+Office 365 E1 or Microsoft 365 Business Basic, both plans are comparable to their existing subscription. Business Basic has a maximum user count of 300 and all 300 of those seats are granted at $0. Microsoft also provides a donation of 10 free licenses of Microsoft 365 Business Premium. Please, check [Feature Matrix](https://m365maps.com/matrix.htm#100100000000000000000) to compare the plans. 
 
 ### What will happen after October 1, 2023? 
 
