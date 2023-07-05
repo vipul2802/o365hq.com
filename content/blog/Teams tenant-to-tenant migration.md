@@ -53,5 +53,3 @@ During a tenant-to-tenant migration for Microsoft Teams, several common problems
 * **Time-Consuming**. A tenant-to-tenant migration for Microsoft Teams can be time-consuming, especially for large migrations. 
 
 To minimize these problems, it is important to plan the migration carefully, test it thoroughly, and choose the appropriate migration method for your specific needs. Additionally, it may be helpful to work with a migration specialist or to use a third-party migration tool to ensure a successful migration process. 
-
- 

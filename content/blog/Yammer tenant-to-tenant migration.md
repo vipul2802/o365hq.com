@@ -56,4 +56,3 @@ Yammer tenant-to-tenant migration can cause several potential challenges and com
 * There may be periods of downtime or service interruption during the migration process, which can impact user productivity and cause frustration.
 
 To mitigate these challenges and issues, it is important to plan and prepare thoroughly, engage with Yammer experts and third-party migration services, and communicate effectively with users throughout the migration process. It is also recommended to conduct testing and validation before, during, and after the migration to ensure a successful and smooth transition. 
-
