@@ -28,7 +28,7 @@ Our ISO 27001 pre-audit assessment service is a comprehensive solution designed 
 ### Client Responsibilities
 
 1. Provide all necessary access to the ISMS, related documentation, and personnel for the assessment.
-2. Review the findings and recommendations from the IT partner.
+2. Review the findings and recommendations from IT partner.
 3. Implement recommended actions to close identified gaps and enhance the ISMS.
 4. Organize for the external audit based on the assessment report.
 
@@ -36,7 +36,7 @@ Our ISO 27001 pre-audit assessment service is a comprehensive solution designed 
 
 1. An existing ISMS that can be reviewed and audited.
 2. Availability of the organization's team members for discussions and meetings.
-3. Necessary permissions and accesses for the IT partner to conduct the review.
+3. Necessary permissions and accesses for IT partner to conduct the review.
 
 ### Plan
 

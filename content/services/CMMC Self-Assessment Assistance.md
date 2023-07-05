@@ -1,6 +1,5 @@
 +++
 title = "CMMC Self-Assessment Assistance"
-description = "Our CMMC Self-Assessment Assistance service is designed to guide organizations through the process of conducting a self-assessment against the Cybersecurity Maturity Model Certification (CMMC) requirements."
 date = 2023-07-03
 
 [taxonomies]
@@ -14,6 +13,10 @@ duration = "30 days"
 manager = "Roman Sotnik"
 +++
 
+### Description
+
+Our CMMC Self-Assessment Assistance service is designed to guide organizations through the process of conducting a self-assessment against the Cybersecurity Maturity Model Certification (CMMC) requirements.
+
 ### IT Partner Responsibilities
 
 1. Conduct an initial meeting to understand the organization's current security practices.
@@ -24,14 +27,14 @@ manager = "Roman Sotnik"
 ### Client Responsibilities
 
 1. Provide all necessary access to the systems, documentation, and personnel for the assessment.
-2. Review the findings and recommendations from the IT partner.
+2. Review the findings and recommendations from IT partner.
 3. Implement recommended actions to meet CMMC requirements.
 
 ### Prerequisites
 
 1. An understanding of the CMMC requirements and a readiness to undergo a self-assessment.
 2. Availability of the organization's team members for discussions and meetings.
-3. Necessary permissions and accesses for the IT partner to conduct the review.
+3. Necessary permissions and accesses for IT partner to conduct the review.
 
 ### Plan
 
