@@ -110,7 +110,7 @@ Anti-phishing protection is a part of Microsoft Defender for Office 365. It help
 
 To create an anti-phishing policy in Defender for Office 365, complete the following steps: 
 
-1. Go to [Microsoft 365 Defender portal](https://security.microsoft.com/).
+1. Go to [Microsoft 365 Defender portal](https://security.microsoft.com/homepage?tid=4ed6ea8d-6f86-411d-b7e0-37401bdb9b68).
 2. Go to **Email & collaboration** >**Policies & rules** > **Threat policies** > **Anti-phishing** in 
    the **Policies** section.
 3. On the Anti-phishing page, select + **Create**.
