@@ -114,7 +114,7 @@ AAD or MDM environment to register devices.]{.mark}
     -   Windows 10 Enterprise 2019 LTSC
 8.  Network configuration must match the requirements listed on the
     Microsoft Website --
-    <https://docs.microsoft.com/en-us/windows/deployment/windows-autopilot/windows-autopilot-requirements-network>
+    <https://learn.microsoft.com/en-us/mem/autopilot/software-requirements>
 
 ### Additional cost items not provided by this project
 

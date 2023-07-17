@@ -208,7 +208,7 @@ want to make sure that data ends up on the upgraded machine. At the same
 time, migrating data as part of the typical Config Manager Task Sequence
 is quite a hassle. Instead, you can use OneDrive for Business and the
 [Known Folder
-move](https://techcommunity.microsoft.com/t5/Microsoft-OneDrive-Blog/Migrate-Your-Files-to-OneDrive-Easily-with-Known-Folder-Move/ba-p/207076)
+move](https://techcommunity.microsoft.com/t5/microsoft-onedrive-blog/migrate-your-files-to-onedrive-easily-with-known-folder-move/ba-p/207076)
 to make sure everything in documents, pictures, and the major known
 folders get pushed to the cloud. Knowing that it's safe in the cloud,
 you can configure Intune to push down the OneDrive settings that will

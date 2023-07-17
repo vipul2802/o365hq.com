@@ -60,7 +60,7 @@ your tenant, then you're done!
 
 If you don't have ".edu" as your top-level domain, you'll now [open a
 support
-ticket](https://docs.microsoft.com/en-us/microsoft-365/admin/contact-support-for-business-products?view=o365-worldwide)
+ticket](https://learn.microsoft.com/en-us/microsoft-365/admin/get-help-support?view=o365-worldwide)
 with Microsoft.
 
 To speed things, if you're already working with a Microsoft sales
