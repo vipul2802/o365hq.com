@@ -412,7 +412,10 @@
     "ShareGate",
     "AvePoint",
     "cmdlets",
-    "transitioning"
+    "transitioning",
+    "URIs",
+    "webhooks"
+    
   ],
 
 
