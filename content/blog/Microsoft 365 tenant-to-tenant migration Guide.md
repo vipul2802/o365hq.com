@@ -85,7 +85,7 @@ Tenant-to-tenant migration of Azure AD joined devices typically occurs during or
 
 Microsoft Intune is a cloud-based service that enables organizations to manage and secure their mobile devices and applications. Intune configuration tenant-to-tenant migration process involves moving the device management policies, configurations, app deployments, and other Intune settings from the source tenant to the target tenant. This type of migration can have limitations and complexities depending on the specific scenario. Some considerations include the loss of certain data or settings during the migration, the need to re-enroll devices in the target tenant, and potential disruptions to device management during the migration process.
 
-**AAD Applications registrations/thirds party services integration tenant-to-tenant migration**
+**[AAD Applications registrations/thirds party services integration tenant-to-tenant migration](https://o365hq.com/blog/aad-applications-registrations-and-thirds-party-services-integration-tenant-to-tenant-migration/)**
 
 AAD applications are used to provide access to resources and services in Azure AD. AAD application registrations and third-party services integration tenant-to-tenant migration refers to the process of transferring Azure Active Directory (AAD) application registrations and their associated integrations with third-party services from one AAD tenant to another. During organizational mergers, acquisitions, divestitures, or restructuring, it may be necessary to migrate AAD application registrations and their integrations to ensure continued access and functionality within the new tenant.
 
