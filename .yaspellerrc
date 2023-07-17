@@ -411,7 +411,8 @@
     "schemas",
     "ShareGate",
     "AvePoint",
-    "cmdlets"
+    "cmdlets",
+    "transitioning"
   ],
 
 
