@@ -7,6 +7,8 @@ date = 2023-04-07
 tags = ["microsoft 365", "Office 365", "migration"]
 +++
 
+*This article is part of a series. Check out our full* *[Microsoft 365 tenant-to-tenant migration Guide](https://o365hq.com/blog/microsoft-365-tenant-to-tenant-migration-guide/)*
+
 ### Introduction
 
 Exchange Online Tenant-to-Tenant migration involves exporting mailbox data from the source tenant and importing it into the destination tenant. There are several methods for performing this migration, including using third-party tools or Microsoft's native migration tools. 
