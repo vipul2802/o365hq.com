@@ -1,7 +1,6 @@
 +++
 title = "CMMC Self-Assessment Assistance"
-description = "Our CMMC Self-Assessment Assistance service is designed to guide organizations through the process of conducting a self-assessment against the Cybersecurity Maturity Model Certification (CMMC) requirements.
-"
+description = "Our CMMC Self-Assessment Assistance service is designed to guide organizations through the process of conducting a self-assessment against the Cybersecurity Maturity Model Certification (CMMC) requirements."
 date = 2023-07-03
 
 [taxonomies]
