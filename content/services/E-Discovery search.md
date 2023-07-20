@@ -1,7 +1,7 @@
 +++
 title = "E-Discovery search assistance"
 description = "This service is designed to allow organizations to search for specific content across all Office 365 applications, including email, SharePoint, OneDrive, and Microsoft Teams."
-date = 2023-07-20
+date = 2023-07-19
 
 [taxonomies]
 products = ["Office 365", "microsoft 365", "E-Discovery"]
