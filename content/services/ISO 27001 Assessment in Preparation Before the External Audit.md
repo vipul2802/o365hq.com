@@ -1,5 +1,6 @@
 +++
 title = "ISO 27001 Assessment in Preparation Before the External Audit"
+description = "Our ISO 27001 pre-audit assessment service is a comprehensive solution designed to support organizations preparing for an external ISO 27001 audit. This involves evaluating the organization's Information Security Management System (ISMS) for compliance with ISO 27001 standards."
 date = 2023-07-03
 
 [taxonomies]
@@ -14,8 +15,9 @@ manager = "Roman Sotnik"
 +++
 
 ### Description
+ISO 27001 is an internationally recognized standard for information security management systems (ISMS). It provides a systematic approach for organizations to establish, implement, monitor, maintain, and improve their information security processes.
 
-Our ISO 27001 pre-audit assessment service is a comprehensive solution designed to support organizations preparing for an external ISO 27001 audit. This involves evaluating the organization's Information Security Management System (ISMS) for compliance with ISO 27001 standards.
+Before undergoing an external audit for ISO 27001 certification, organizations often conduct an assessment to ensure they are adequately prepared. This assessment helps identify any gaps or weaknesses in their information security practices and allows them to take corrective actions before the formal audit.
 
 ### IT Partner Responsibilities
 

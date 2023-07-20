@@ -1,5 +1,6 @@
 +++
 title = "CMMC Self-Assessment Assistance"
+description = "Our CMMC Self-Assessment Assistance service is designed to guide organizations through the process of conducting a self-assessment against the Cybersecurity Maturity Model Certification (CMMC) requirements."
 date = 2023-07-03
 
 [taxonomies]
@@ -14,8 +15,9 @@ manager = "Roman Sotnik"
 +++
 
 ### Description
+CMMC (Cybersecurity Maturity Model Certification) is a framework developed by the U.S. Department of Defense (DoD) to assess and enhance the cybersecurity practices of organizations in the defense supply chain. The CMMC Self-Assessment Assistance is a process that helps organizations evaluate their compliance with the CMMC requirements on their own before seeking formal certification from a CMMC Third-Party Assessment Organization.
 
-Our CMMC Self-Assessment Assistance service is designed to guide organizations through the process of conducting a self-assessment against the Cybersecurity Maturity Model Certification (CMMC) requirements.
+It's important to note that the CMMC Self-Assessment Assistance is not a formal certification, but rather a preparatory step to assess an organization's readiness for a formal CMMC assessment. The self-assessment helps organizations identify gaps, develop a remediation plan, and improve their cybersecurity practices to meet the CMMC requirements before engaging with a C3PAO for certification.
 
 ### IT Partner Responsibilities
 

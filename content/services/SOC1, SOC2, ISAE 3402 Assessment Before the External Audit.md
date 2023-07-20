@@ -1,5 +1,6 @@
 +++
 title = "SOC1, SOC2, ISAE 3402 Assessment Before the External Audit"
+description = "Our SOC1/SOC2/ISAE 3402 pre-audit assessment service is an all-encompassing solution aimed at preparing organizations for an upcoming external audit. This service involves scrutinizing the organization's control environment, information systems, and data security practices to ensure compliance with SOC1/SOC2/ISAE 3402 requirements."
 date = 2023-07-05
 
 [taxonomies]
@@ -15,7 +16,9 @@ manager = "Roman Sotnik"
 
 ### Description
 
-Our SOC1/SOC2/ISAE 3402 pre-audit assessment service is an all-encompassing solution aimed at preparing organizations for an upcoming external audit. This service involves scrutinizing the organization's control environment, information systems, and data security practices to ensure compliance with SOC1/SOC2/ISAE 3402 requirements.
+SOC1 (Service Organization Control 1), SOC2 (Service Organization Control 2), and ISAE 3402 (International Standard on Assurance Engagements 3402) are auditing standards that assess the controls and processes of service organizations. These assessments help provide assurance to customers and stakeholders about the effectiveness of the organization's internal controls and the security, availability, processing integrity, confidentiality, and privacy of their systems.
+
+Before undergoing an external audit for SOC1, SOC2, or ISAE 3402 compliance, service organizations typically conduct an assessment to ensure they are adequately prepared. This assessment helps identify any gaps or weaknesses in their control environment and enables them to take corrective actions before the formal audit.
 
 ### IT Partner Responsibilities
 

@@ -1,5 +1,6 @@
 +++
 title = "NIST CSF Assessment"
+description = "Our NIST CSF Assessment service provides an exhaustive evaluation of an organization's current cybersecurity practices against the guidelines outlined in the NIST Cybersecurity Framework (CSF)."
 date = 2023-07-05
 
 [taxonomies]
@@ -15,7 +16,9 @@ manager = "Roman Sotnik"
 
 ### Description
 
-Our NIST CSF Assessment service provides an exhaustive evaluation of an organization's current cybersecurity practices against the guidelines outlined in the NIST Cybersecurity Framework (CSF).
+The NIST CSF (National Institute of Standards and Technology Cybersecurity Framework) assessment is a process designed to evaluate an organization's cybersecurity posture and identify areas for improvement. The NIST CSF provides a framework of best practices, standards, and guidelines that organizations can use to manage and reduce cybersecurity risks.
+
+The NIST CSF Assessment provides organizations with a structured approach to cybersecurity risk management and helps them align their cybersecurity efforts with industry best practices. It promotes a proactive and adaptive approach to cybersecurity and enables organizations to effectively manage their cybersecurity risks.
 
 ### IT Partner Responsibilities
 
