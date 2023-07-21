@@ -50,7 +50,7 @@ VMs are used for various applications in real-world scenarios such as:
 
 **Data Analysis and Machine Learning**. Azure VMs are used for data analysis, big data processing, and machine learning tasks. You can deploy VMs with specialized configurations, including GPU-enabled instances, to accelerate computations for data science workloads. Azure also offers services like Azure Machine Learning and Azure Databricks, which can be integrated with VMs to build and deploy machine learning models.
 
-**Business Applications**. Azure VMs can host various business applications, including enterprise resource planning (ERP) systems, customer relationship management (CRM) software, and custom line-of-business applications. By using VMs, organizations can consolidate multiple applications onto a single infrastructure, reduce hardware costs, and simplify management.
+**Business Applications**. Azure VMs can host various business applications, including enterprise resource planning (ERP) systems, customer relationship management (CRM) software, and custom line-of-business applications. By using VMs, organizations can consolidate multiple applications into a single infrastructure, reduce hardware costs, and simplify management.
 
 **Disaster Recovery**. Azure VMs are utilized for disaster recovery scenarios. By replicating VMs to a secondary Azure region, organizations can ensure business continuity in the event of a disaster. In case of a primary site failure, VMs can be quickly brought online in the secondary region, minimizing downtime and data loss.
 
@@ -75,13 +75,13 @@ By using the TCO calculator, you can input relevant information about your curre
 
 **Regions**. The location of your VM in Azure can affect your costs.
 
-**Operating system Licensing costs**. You can get benefits if you already have on-premises licenses which can be used while deploying a VM to the cloud.
+**Operating system licensing costs**. You can get benefits if you already have on-premises licenses which can be used while deploying a VM to the cloud.
 
 **Time**. Using auto-shutdown for your virtual machine (VM) is a great practice, especially when you only require the VM during specific time periods. Auto-shutdown allows you to schedule a specific time for your VM to power off automatically. This helps you avoid unnecessary costs and ensures that the VM is only active when needed.
 
 **Subscription**. The type of subscription which you use in Azure can potentially save you money. If your workloads are not continuous it’s better if you stick with pay as you go Plan. If you have continuous workloads which are going to run for a specific time like 1 year, or 3 years you can go for Reserved Instances in Azure to get discounts. Choosing between PAYG and Reserved Instances is all about finding the right balance between flexibility and cost savings. If your workloads are intermittent or variable, PAYG ensures that you only pay for resources when they are in use. On the other hand, if you have predictable, long-term workloads, RI can help you secure substantial discounts and optimize your budget.
 
-**Additional features**. When deploying multiple virtual machines (VMs) in Azure, you'll likely require additional resources like Virtual Networks and Load Balancers to ensure proper network connectivity and load distribution. These additional components may result in additional costs, and it's essential to consider them when planning your infrastructure. For estimating the running costs of VMs or other Azure services, you can use the Microsoft Pricing Calculator. This tool allows you to input various configurations, such as VM size, storage type, region, and duration of usage, to get an accurate estimate of the associated costs.
+**Additional features**. When deploying multiple virtual machines (VMs) in Azure, you'll likely require additional resources like Virtual Networks and Load Balancers to ensure proper network connectivity and load distribution. These additional components may result in additional costs, and it's essential to consider them when planning your infrastructure. For estimating the running costs of VMs or other Azure services, you can use the [Microsoft Pricing Calculator](https://azure.microsoft.com/en-us/pricing/calculator/). This tool allows you to input various configurations, such as VM size, storage type, region, and duration of usage, to get an accurate estimate of the associated costs.
 
 ![What are the benefits of using Virtual Machines in Azure?](/img/VM4.png)
 
