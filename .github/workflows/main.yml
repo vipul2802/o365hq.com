@@ -1,0 +1,36 @@
+name: deploy
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        node-version: [14.x]
+    steps:
+      - uses: actions/checkout@v2
+      - run: |
+          wget https://github.com/getzola/zola/releases/download/v0.13.0/zola-v0.13.0-x86_64-unknown-linux-gnu.tar.gz
+          tar -xvf zola-v0.13.0-x86_64-unknown-linux-gnu.tar.gz
+          chmod +x zola
+          ./zola check
+      - uses: actions/setup-node@v1
+        with:
+          node-version: ${{ matrix.node-version }}
+      - run: npm install yaspeller --save-dev
+      - run: npm run yaspeller
+  build_upload:
+    needs: check
+    runs-on: ubuntu-20.04
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          lfs: true
+      - run: |
+          wget https://github.com/getzola/zola/releases/download/v0.13.0/zola-v0.13.0-x86_64-unknown-linux-gnu.tar.gz
+          tar -xvf zola-v0.13.0-x86_64-unknown-linux-gnu.tar.gz
+          chmod +x zola
+          ./zola build
+          az storage blob sync -c '$web' -s '/home/runner/work/o365hq.com/o365hq.com/public' --connection-string '${{secrets.CONNECTIONSTRING}}' --exclude-path 'images;files'
